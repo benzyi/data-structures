@@ -1,0 +1,1847 @@
+[
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "4 THE GRACE -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Sundays",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "303 West 42nd Street, Room #404, New York, NY",
+  "building": "",
+  "program": "42nd AT 9:00pm -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> As Bill Sees It\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> Beginners Workshop\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "9:15 PM",
+    "endTime": "10:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting ",
+    "special": "<b>Special Interest</b> Meditation\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "303 West 42nd Street, 3rd Floor, Room #306, New York, NY",
+  "building": "",
+  "program": "A NEW FREEDOM -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "8:00 AM",
+    "endTime": "9:00 AM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "8:00 AM",
+    "endTime": "9:00 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Daily Reflections\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "8:00 AM",
+    "endTime": "9:00 AM",
+    "type": "<b>Meeting Type</b> T = Tradition meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "8:00 AM",
+    "endTime": "9:00 AM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "8:00 AM",
+    "endTime": "9:00 AM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "8:00 AM",
+    "endTime": "9:00 AM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "8:00 AM",
+    "endTime": "9:00 AM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "305 7th Avenue, 6th Floor, New York, NY",
+  "building": "S.A.G.E.",
+  "program": "ABINGDON SQUARE IN CHELSEA - Abingdon Square In Chelsea",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "1 West 53rd Street, 3rd Floor, Andrew Hall, New York, NY",
+  "building": "Saint Thomas Church",
+  "program": "ADVENTURES IN SOBRIETY -",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Fridays",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "<b>Meeting Type</b> O = Open meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "303 West 42nd Street, 3rd Floor, Room #306, New York, NY",
+  "building": "",
+  "program": "ALANON HOUSE   (AA Meetings Only) -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "2:00 PM",
+    "endTime": "3:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Women\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "2:30 PM",
+    "endTime": "3:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "2:30 PM",
+    "endTime": "3:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "2:30 PM",
+    "endTime": "3:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "2:30 PM",
+    "endTime": "3:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "2:30 PM",
+    "endTime": "3:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "2:30 PM",
+    "endTime": "3:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "133 West 46th Street, 3rd Floor, New York, NY",
+  "building": "St. Mary the Virgin Church",
+  "program": "AMAZING GRACE - Amazing Grace",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "7:30 AM",
+    "endTime": "8:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "7:30 AM",
+    "endTime": "8:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "7:30 AM",
+    "endTime": "8:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "7:30 AM",
+    "endTime": "8:30 AM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "7:30 AM",
+    "endTime": "8:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "441 West 26th Street, 2nd Fl., Activity Room A, New York, NY",
+  "building": "Hudson Guild",
+  "program": "ANNEX                               (:I) - Annex    (:I)",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Saturdays",
+    "startTime": "3:00 PM",
+    "endTime": "4:00 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "446 West 33rd Street, 6th Floor, Room #6046, New York, NY",
+  "building": "GMHC",
+  "program": "ANNEX    (:II) - Annex    (:II)",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Tuesdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> O = Open meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Clubhouse",
+  "program": "ARTISTS IN RECOVERY -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Tuesdays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Special Purpose Groups\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "BEGINNERS -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "1:30 PM",
+    "endTime": "2:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "1:30 PM",
+    "endTime": "2:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "1:30 PM",
+    "endTime": "2:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "1:30 PM",
+    "endTime": "2:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "1:30 PM",
+    "endTime": "2:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "1:30 PM",
+    "endTime": "2:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "BEGINNERS -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Sundays",
+    "startTime": "2:45 PM",
+    "endTime": "3:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "2:45 PM",
+    "endTime": "3:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "2:45 PM",
+    "endTime": "3:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "2:45 PM",
+    "endTime": "3:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "2:45 PM",
+    "endTime": "3:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "2:45 PM",
+    "endTime": "3:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "2:45 PM",
+    "endTime": "3:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "339 West 47th Street, New York, NY",
+  "building": "The Actor's Temple",
+  "program": "BETWEEN SHOWS - Between Shows",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "303 West 42nd St Rm 306, New York, NY",
+  "building": "",
+  "program": "BLUEPRINT FOR LIVING -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Fridays",
+    "startTime": "4:30 PM",
+    "endTime": "5:30 AM",
+    "type": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "4:30 PM",
+    "endTime": "4:30 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "4:30 PM",
+    "endTime": "5:30 PM",
+    "type": "<b>Special Interest</b> Meditation\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "4:30 PM",
+    "endTime": "5:30 PM",
+    "type": "<b>Special Interest</b> As Bill Sees It\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "4:30 PM",
+    "endTime": "5:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "4:30 PM",
+    "endTime": "5:30 PM",
+    "type": "<b>Special Interest</b> Came To Believe\n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "139 West 31st Street, 3rd Floor, New York, NY",
+  "building": "St. Francis of Assisi Education Center",
+  "program": "BOOKSHOP AT NOON - Bookshop At Noon",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "422 West 57th Street, Upstairs, New York, NY",
+  "building": "Trinity Presbyterian Church",
+  "program": "CLEAN AND DRY - Clean And Dry",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Sundays",
+    "startTime": "5:00 PM",
+    "endTime": "5:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "211 West 30th Street, New York, NY",
+  "building": "St. John's Hall",
+  "program": "COMMUTERS SPECIAL - Commuters Special",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "D.I.V.A.  (Divinely Inspired Vivacious Alcoholics) -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Saturdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Women\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "1 West 53rd Street, 3rd Floor, New York, NY",
+  "building": "St. Thomas Church",
+  "program": "FIFTH AVENUE STEP -",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Saturdays",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "422 West 57th Street, New York, NY",
+  "building": "Trinity Presbyterian Church",
+  "program": "FIRESIDE  (:I)  WEEKDAY MEETINGS ONLY - Fireside",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "7 West 55th Street, 5th Floor, New York, NY",
+  "building": "Fifth Av Presbyterian Church",
+  "program": "FOGLIFTERS-FIFTH AVENUE - Foglifters-Fifth Avenue",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>s",
+    "startTime": "12:00 AM",
+    "endTime": "12:00 AM"
+   },
+   {
+    "day": "s",
+    "startTime": "12:00 AM",
+    "endTime": "12:00 AM"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, New York, NY",
+  "building": "46th Street Club House",
+  "program": "FORTY-FIVE SOLUTIONS - Forty-Five Solutions",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Saturdays",
+    "startTime": "10:30 PM",
+    "endTime": "11:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "10:30 PM",
+    "endTime": "11:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "10:30 PM",
+    "endTime": "11:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "10:30 PM",
+    "endTime": "11:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "10:30 PM",
+    "endTime": "11:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "10:30 PM",
+    "endTime": "11:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "10:30 PM",
+    "endTime": "11:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "729 7th Avenue, 10th Floor small conference room, New York, NY",
+  "building": "The Actors Fund of America",
+  "program": "GREEN ROOM - Green Room",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Thursdays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Special Purpose Groups\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "538 West 47th Street, New York, NY",
+  "building": "Apartment Building",
+  "program": "GRUPO BUENA VOLUNTAD - Grupo Buena Voluntad",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> Sp = Spanish speaking group \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> Sp = Spanish speaking group \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> Sp = Spanish speaking group \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "1000 Tenth Avenue, 8th Floor (Room #8G49, New York, NY",
+  "building": "Mount Sinai - Roosevelt Hospital",
+  "program": "HELL'S KITCHEN - Hell's Kitchen",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "7:30 PM",
+    "endTime": "8:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "7:30 PM",
+    "endTime": "8:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "303 West 42nd Street, 3rd Floor, Room #306, New York, NY",
+  "building": "",
+  "program": "HENRY HUDSON - Henry Hudson",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Tuesdays",
+    "startTime": "7:30 PM",
+    "endTime": "8:30 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "JOE AND CHARLIE CD MEETING -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "307 West 26th Street, New York, NY",
+  "building": "Upright Citizens Brigade Theatre",
+  "program": "LEARNING TO LIVE (:I) - Learning To Live",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Promises\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "405 West 59th Street, New York, NY",
+  "building": "St. Paul's Episcopal Parish House",
+  "program": "LUCKY ONES -",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "1:00 PM",
+    "endTime": "2:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "303 West 42nd Street, New York, NY",
+  "building": "",
+  "program": "MIDNIGHT IN MIDTOWN -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Sundays",
+    "startTime": "12:00 AM",
+    "endTime": "1:00 AM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:00 AM",
+    "endTime": "1:00 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:00 AM",
+    "endTime": "1:00 AM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:00 AM",
+    "endTime": "1:00 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:00 AM",
+    "endTime": "1:00 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:00 AM",
+    "endTime": "1:00 AM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "12:00 AM",
+    "endTime": "1:00 AM",
+    "type": "<b>Meeting Type</b> O = Open meeting ",
+    "special": "<b>Special Interest</b> Eleventh Step\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "422 W. 57th St., New York, NY",
+  "building": "Trinity Presbyterian Church",
+  "program": "MIRACLE - Miracle",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "133 West 46th Street, 3rd Floor, New York, NY",
+  "building": "St. Mary the Virgin Church",
+  "program": "MORNING CALL -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Thursdays",
+    "startTime": "6:00 AM",
+    "endTime": "7:00 AM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "6:00 AM",
+    "endTime": "7:00 AM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "133 West 46th Street, 2nd & 3rd Floor, New York, NY",
+  "building": "St. Mary the Virgin Church",
+  "program": "NEW BUT WEST - New But West",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Saturdays",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting ",
+    "special": "<b>Special Interest</b> Steps 1-2-3\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Men\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Women\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "303 West 42nd Street,  Room #306, New York, NY",
+  "building": "",
+  "program": "NEW PHOENIX -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Sundays",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "10:30 AM",
+    "endTime": "11:30 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "296 9th Avenue, 2nd Floor, New York, NY",
+  "building": "Holy Apostles Church Rectory",
+  "program": "NINTH AVENUE           (:I) - Ninth Avenue     (:I)",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "6:15 PM",
+    "endTime": "7:15 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "7:30 PM",
+    "endTime": "8:45 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "7:45 PM",
+    "endTime": "8:45 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "9:00 PM",
+    "endTime": "10:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting ",
+    "special": "<b>Special Interest</b> First Step Workshop\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "9:00 PM",
+    "endTime": "10:00 PM",
+    "type": "<b>Meeting Type</b> O = Open meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "139 West 31st Street, 3rd Floor, New York, NY",
+  "building": "St. Francis of Assisi Center",
+  "program": "NU GARDEN - Nu Garden",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Sundays",
+    "startTime": "6:00 PM",
+    "endTime": "7:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "6:00 PM",
+    "endTime": "7:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "6:00 PM",
+    "endTime": "7:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "1 West 53rd Street, 3rd Floor, \n\t\t\t\t\t\t10019 New York, NY",
+  "building": "St. Thomas Church",
+  "program": "PARK BENCH   (:I) -",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Tuesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "484 West 43rd Street, 1st Floor, New York, NY",
+  "building": "Manhattan Plaza Health Club",
+  "program": "POWERLESS - Powerless",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Saturdays",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Promises\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Living Sober\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "7 West 55th Street, New York, NY",
+  "building": "Fifth Av Presbyterian Church",
+  "program": "PROMISES - Promises",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Fridays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "PROMISES -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Thursdays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "RAINBOW ROOM - Rainbow Room",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Saturdays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "6:45 PM",
+    "endTime": "7:45 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "6:45 PM",
+    "endTime": "7:45 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "6:45 PM",
+    "endTime": "7:45 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "6:45 PM",
+    "endTime": "7:45 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "6:45 PM",
+    "endTime": "7:45 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "6:45 PM",
+    "endTime": "7:45 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "6:45 PM",
+    "endTime": "7:45 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> H.I.V Positive\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> O = Open meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Sundays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> O = Open meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> O = Open meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Gay, Lesbian and Bisexual\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "4 West 43rd Street, New York, NY",
+  "building": "The Learning Center",
+  "program": "RENAISSANCE - Renaissance",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Mondays",
+    "startTime": "12:30 AM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "12:30 PM",
+    "endTime": "1:30 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "SATURDAY ROTATING 12 STEP -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Saturdays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "296 Ninth Avenue, Rectory, 1st Floor, New York, NY",
+  "building": "Church of The Holy Apostles",
+  "program": "SPIRITUAL FRIDAYS -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Fridays",
+    "startTime": "6:30 PM",
+    "endTime": "7:30 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> Spiritual Workshop\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "1 West 53rd Street, 3rd Floor, New York, NY",
+  "building": "St. Thomas Church Parish House",
+  "program": "ST. THOMAS A.M. - St. Thomas A.M.",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Tuesdays",
+    "startTime": "7:45 AM",
+    "endTime": "8:45 AM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "210 West 31st Street, Basement (On Left), New York, NY",
+  "building": "St. John the Baptist Church",
+  "program": "STATLER AT NOON - Statler At Noon",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Tuesdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "422 West 57th Street, New York, NY",
+  "building": "Trinity Presbyterian Church",
+  "program": "STEPS AND TRADITIONS ON WEDNESDAY - Eightieth Street",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Wednesdays",
+    "startTime": "7:00 PM",
+    "endTime": "8:15 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "SUNDAY NIGHT BEGINNERS -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Sundays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> B = Beginners meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "134 West 29th Street - 2nd floor Studio 203, \n\t\t\t\t\t\t10001 New York, NY",
+  "building": "",
+  "program": "TUESDAY SOBER AGNOSTICS -",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Tuesdays",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "<b>Meeting Type</b> OD = Open Discussion meeting ",
+    "special": "<b>Special Interest</b> Agnostic\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "1000 Tenth Avenue, 8th Fl, Room #8G-49, New York, NY",
+  "building": "Mount Sinai - Roosevelt Hospital",
+  "program": "WEST 58th STREET STEP - West 58th Street Step",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Fridays",
+    "startTime": "7:30 PM",
+    "endTime": "8:30 PM",
+    "type": "<b>Meeting Type</b> S = Step meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "446 West 33rd Street, New York, NY",
+  "building": "GMHC",
+  "program": "WOMEN OVER FORTY - Women Over Forty",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Fridays",
+    "startTime": "6:30 PM",
+    "endTime": "7:45 PM",
+    "type": "<b>Meeting Type</b> C = Closed Discussion meeting ",
+    "special": "<b>Special Interest</b> Women\n\t\t\t \t\t\t"
+   }
+  ]
+ },
+ {
+  "address": "423 West 46th Street, New York, NY",
+  "building": "St. Clements Church",
+  "program": "YOUNG IN 164 -",
+  "wheelchair": true,
+  "day": [
+   {
+    "day": "<b>Sundays",
+    "startTime": "7:30 PM",
+    "endTime": "8:30 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting \n\t\t\t \t\t\t",
+    "special": "\n                    \t"
+   }
+  ]
+ },
+ {
+  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "building": "46th Street Club House",
+  "program": "YOUNG PEOPLE'S MEETING -",
+  "wheelchair": false,
+  "day": [
+   {
+    "day": "<b>Fridays",
+    "startTime": "9:15 PM",
+    "endTime": "10:15 PM",
+    "type": "<b>Meeting Type</b> BB = Big Book meeting ",
+    "special": "<b>Special Interest</b> Young People\n\t\t\t \t\t\t"
+   }
+  ]
+ }
+]
