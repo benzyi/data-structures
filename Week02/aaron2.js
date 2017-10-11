@@ -15,6 +15,8 @@ $('table').eq(2).find('tbody tr').each(function(i, elem) {
         location.building = $(elem).find('h4').contents().slice(0).eq(0).text().trim();
         location.program = $(elem).contents().slice(2).eq(2).text().trim();
         location.wheelchair = $(elem).find('span').contents().text().trim() != false;
+        location.notes = $(elem).find('div').contents().text().trim();
+        // console.log(location.notes);
         // locationData.push(location)
     });
 
@@ -27,12 +29,31 @@ $('table').eq(2).find('tbody tr').each(function(i, elem) {
         // console.log(thisText)
         var thisMeeting = {}; // holder for each meeting
         // console.log(thisText); // look at the text being parsed
-        thisMeeting.day = thisText.substring(0, thisText.indexOf(' '));
-        thisMeeting.startTime = thisText.split('/b>')[1].trim().split('<b>')[0].trim();
-        thisMeeting.endTime = thisText.split('/b>')[2].trim().split('<br>')[0].trim();
-        thisMeeting.type = thisText.split('<br>')[1];
-        thisMeeting.special = thisText.split('<br>')[2];
-        console.log(thisMeeting.special)
+        // thisMeeting.days = thisText.match(/Mon|Tues|Wed|Thurs|Fri|Sat|Sun/gi);
+        var tempTwo = thisText.match(/Mon|Tues|Wed|Thurs|Fri|Sat|Sun/gi)
+        
+        if(tempTwo !== null){
+            thisMeeting.day = tempTwo[0]
+        }
+        console.log(thisMeeting)
+        // thisMeeting.day = thisText.substring(0, thisText.indexOf(' '));
+        thisMeeting.startTime = thisText.split('</b>')[1].trim().split('<b>')[0].trim();
+        thisMeeting.endTime = thisText.split('</b>')[2].trim().split('<br>')[0].trim();
+        var temp = thisText.split('<br>')[1];
+        if(temp !== undefined){
+          thisMeeting.type = temp.slice(20,temp.length).trim();  
+        };
+        var tempOne = thisText.split('<br>')[2];
+        // console.log(thisText.split('<br>')[2])
+        if(tempOne !== undefined){
+          var tempThree = tempOne.split('</b>')[1];
+          if(tempThree !== undefined) {
+              thisMeeting.special = tempThree.trim();
+          }
+        }
+        // console.log(thisMeeting.special)
+        
+        // console.log(thisMeeting.special)
         // .trim().split('<br>')[0].trim();
         // thisMeeting.special = thisText.split('<br>')[2].trim().split('<b>Special Interest</b>'.trim());
         // BENZ, CONTINUE WORKING HERE
