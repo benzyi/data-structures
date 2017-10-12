@@ -23,6 +23,7 @@ $('table').eq(2).find('tbody tr').each(function(i, elem) {
     //meeting days group
     var meetingDay = [];
     var meetingLine = $(elem).find('td').eq(1).html().trim().split(splitOn);
+    console.log(meetingLine)
     $(meetingLine).each(function(j, elem){
 
         var thisText = elem; // text to parse
@@ -35,7 +36,7 @@ $('table').eq(2).find('tbody tr').each(function(i, elem) {
         if(tempTwo !== null){
             thisMeeting.day = tempTwo[0]
         }
-        console.log(thisMeeting)
+        // console.log(thisMeeting)
         // thisMeeting.day = thisText.substring(0, thisText.indexOf(' '));
         thisMeeting.startTime = thisText.split('</b>')[1].trim().split('<b>')[0].trim();
         thisMeeting.endTime = thisText.split('</b>')[2].trim().split('<br>')[0].trim();
@@ -52,10 +53,6 @@ $('table').eq(2).find('tbody tr').each(function(i, elem) {
           }
         }
         // console.log(thisMeeting.special)
-        
-        // console.log(thisMeeting.special)
-        // .trim().split('<br>')[0].trim();
-        // thisMeeting.special = thisText.split('<br>')[2].trim().split('<b>Special Interest</b>'.trim());
         // BENZ, CONTINUE WORKING HERE
         // console.log(thisMeeting)
         meetingDay.push(thisMeeting);

@@ -6,9 +6,13 @@ var collName = 'address';
 // Connection URL
 var url = 'mongodb://' + process.env.IP + ':27017/' + dbName;
 
-var myQuery = [
-    { $match : {"day.day" : "Tuesdays"} },
-    { $match : {"day.startTime" : "7:00 PM"}},
+var myQuery = [ 
+    // { $match : { "program" : "beginner" } };
+    // { $match : { "day.startTime" : "7:00 PM" } }
+    { $unwind : "$day"  },
+    { $match : { $and: [ { "day.day" : "Tues" }, { $or : [{ "day.startTime" : "7:00 PM"}, {"day.startTime" : "8:00 PM" }, {"day.startTime" : "7:30 PM" }, {"day.startTime" : "8:30 PM" } ] } ]} }
+    
+    // {"day.day" : "<b>Tuesdays" }]}, {"day.time" : "7:00 PM"}}};
     // { $match: { availableDocks : { $lt : 1 } } }
     // { $group : { _id : "$statusValue", avgBikes : { $avg : "$availableBikes"}}}
     //faking out the grouping to nothing so that we can use average function by doing _id : null
