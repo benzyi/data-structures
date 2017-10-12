@@ -10,7 +10,8 @@ var myQuery = [
     // { $match : { "program" : "beginner" } };
     // { $match : { "day.startTime" : "7:00 PM" } }
     { $unwind : "$day"  },
-    { $match : { $and: [ { "day.day" : "Tues" }, { $or : [{ "day.startTime" : "7:00 PM"}, {"day.startTime" : "8:00 PM" }, {"day.startTime" : "7:30 PM" }, {"day.startTime" : "8:30 PM" } ] } ]} }
+    // { $match : { "day.day" : "Tues" }}
+    { $match : { $and: [ { "day.day" : "Tues" }, { $or : [{ "day.startTime" : "7:00 PM"}, {"day.startTime" : "8:00 PM" }, {"day.startTime" : "7:30 PM" }, {"day.startTime" : "8:30 PM" }, {"day.startTime" : "9:15 PM" }, {"day.startTime" : "10:30 PM" }, {"day.startTime" : "12:00 AM" } ] } ]} }
     
     // {"day.day" : "<b>Tuesdays" }]}, {"day.time" : "7:00 PM"}}};
     // { $match: { availableDocks : { $lt : 1 } } }

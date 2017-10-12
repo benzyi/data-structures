@@ -1,0 +1,118 @@
+[
+    {
+        "_id": "59dea387b9473613adad0818",
+        "address": "303 West 42nd Street, Room #404, New York, NY",
+        "building": "",
+        "program": "42nd AT 9:00pm -",
+        "wheelchair": false,
+        "notes": "Sat=A.A. Literature",
+        "day": {
+            "day": "Tues",
+            "startTime": "9:15 PM",
+            "endTime": "10:30 PM",
+            "type": "S = Step meeting",
+            "special": "Meditation"
+        }
+    },
+    {
+        "_id": "59dea387b9473613adad081f",
+        "address": "446 West 33rd Street, 6th Floor, Room #6046, New York, NY",
+        "building": "GMHC",
+        "program": "ANNEX    (:II) - Annex    (:II)",
+        "wheelchair": true,
+        "notes": "Gay & Lesbian focus.  All are welcome.",
+        "day": {
+            "day": "Tues",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "type": "O = Open meeting",
+            "special": "Gay, Lesbian and Bisexual"
+        }
+    },
+    {
+        "_id": "59dea387b9473613adad0820",
+        "address": "252 West 46th Street, 3rd Floor, New York, NY",
+        "building": "46th Street Clubhouse",
+        "program": "ARTISTS IN RECOVERY -",
+        "wheelchair": false,
+        "notes": "All are welcome.",
+        "day": {
+            "day": "Tues",
+            "startTime": "9:15 PM",
+            "endTime": "10:15 PM",
+            "type": "C = Closed Discussion meeting",
+            "special": "Special Purpose Groups"
+        }
+    },
+    {
+        "_id": "59dea387b9473613adad082c",
+        "address": "252 West 46th Street, New York, NY",
+        "building": "46th Street Club House",
+        "program": "FORTY-FIVE SOLUTIONS - Forty-Five Solutions",
+        "wheelchair": false,
+        "notes": "",
+        "day": {
+            "day": "Tues",
+            "startTime": "10:30 PM",
+            "endTime": "11:30 PM",
+            "type": "C = Closed Discussion meeting"
+        }
+    },
+    {
+        "_id": "59dea387b9473613adad0830",
+        "address": "303 West 42nd Street, 3rd Floor, Room #306, New York, NY",
+        "building": "",
+        "program": "HENRY HUDSON - Henry Hudson",
+        "wheelchair": false,
+        "notes": "",
+        "day": {
+            "day": "Tues",
+            "startTime": "7:30 PM",
+            "endTime": "8:30 PM",
+            "type": "BB = Big Book meeting"
+        }
+    },
+    {
+        "_id": "59dea387b9473613adad0834",
+        "address": "303 West 42nd Street, New York, NY",
+        "building": "",
+        "program": "MIDNIGHT IN MIDTOWN -",
+        "wheelchair": false,
+        "notes": "T Last Sunday, Mon=Came To Believe, Last Sat. Open Anniversary Last Sat. meets at 252 West 46th Street",
+        "day": {
+            "day": "Tues",
+            "startTime": "12:00 AM",
+            "endTime": "1:00 AM",
+            "type": "BB = Big Book meeting"
+        }
+    },
+    {
+        "_id": "59dea387b9473613adad083c",
+        "address": "484 West 43rd Street, 1st Floor, New York, NY",
+        "building": "Manhattan Plaza Health Club",
+        "program": "POWERLESS - Powerless",
+        "wheelchair": true,
+        "notes": "Fri=Living Sober, Sat=Promises",
+        "day": {
+            "day": "Tues",
+            "startTime": "7:00 PM",
+            "endTime": "8:00 PM",
+            "type": "S = Step meeting"
+        }
+    },
+    {
+        "_id": "59dea387b9473613adad083f",
+        "address": "252 West 46th Street, 3rd Floor, New York, NY",
+        "building": "46th Street Club House",
+        "program": "RAINBOW ROOM - Rainbow Room",
+        "wheelchair": false,
+        "notes": "Gay, Lesbian, Bisexual & Transgender Focus.  All are welcome. *Last Saturday of month=\"Open Anniversary\"",
+        "day": {
+            "day": "Tues",
+            "startTime": "8:00 PM",
+            "endTime": "9:00 PM",
+            "type": "BB = Big Book meeting",
+            "special": "Gay, Lesbian and Bisexual"
+        }
+    }
+]
