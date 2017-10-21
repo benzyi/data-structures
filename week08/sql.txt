@@ -1,0 +1,13 @@
+CREATE TABLE irTilt (
+ir boolean,
+tilt boolean,
+sensortime timestamp DEFAULT current_timestamp
+);
+
+INSERT INTO irTilt VALUES ('0', '1', DEFAULT);
+
+//more test values
+INSERT INTO irTilt VALUES ('0', '1', DEFAULT);
+INSERT INTO irTilt VALUES ('0', '1', DEFAULT);
+INSERT INTO irTilt VALUES ('1', '0', DEFAULT); 
+INSERT INTO irTilt VALUES ('1', '1', DEFAULT); 
