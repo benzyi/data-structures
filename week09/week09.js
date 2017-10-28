@@ -1,5 +1,5 @@
 var request = require('request');
-// const { Client } = require('pg');
+const { Client } = require('pg');
 
 // PARTICLE PHOTON
 var device_id = process.env.PHOTON_ID;
