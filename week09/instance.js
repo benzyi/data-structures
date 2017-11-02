@@ -17,11 +17,13 @@ app.get('/', function(req, res) {
     // SQL query
     var q = `SELECT EXTRACT(DAY FROM sensortime AT TIME ZONE 'America/New_York') as sensorday, 
              EXTRACT(MONTH FROM sensortime AT TIME ZONE 'America/New_York') as sensormonth, 
-             count(*) as num_obs, 
-             count(ir) [ FILTER ( WHERE true ) ] as tv_on,
-             count(tilt) [ FILTER ( WHERE false ) ]as futon_down,
-             count(tilt) [ FILTER ( WHERE true ) ]as futon_up,
-             FROM sensordata 
+             count(*) as num_obs,
+             boolean_and(ir) as ir_count,
+             boolean_and(tilt) as tilt_count,
+            //  count(ir) [ FILTER ( WHERE true ) ] as tv_on,
+            //  count(tilt) [ FILTER ( WHERE false ) ]as futon_down,
+            //  count(tilt) [ FILTER ( WHERE true ) ]as futon_up,
+             FROM irtilt 
              GROUP BY sensormonth, sensorday;`;
              
     client.connect();
