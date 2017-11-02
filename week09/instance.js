@@ -18,8 +18,8 @@ app.get('/', function(req, res) {
     var q = `SELECT EXTRACT(DAY FROM sensortime AT TIME ZONE 'America/New_York') as sensorday, 
              EXTRACT(MONTH FROM sensortime AT TIME ZONE 'America/New_York') as sensormonth, 
              count(*) as num_obs,
-             bool_and(ir) as ir_count,
-             bool_and(tilt) as tilt_count
+             bool_or(ir) as ir_count,
+             bool_or(tilt) as tilt_count
              FROM irTilt 
              GROUP BY sensormonth, sensorday;`;
              
