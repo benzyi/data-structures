@@ -23,7 +23,7 @@ app.get('/', function(req, res) {
             //  count(ir) [ FILTER ( WHERE true ) ] as tv_on,
             //  count(tilt) [ FILTER ( WHERE false ) ] as futon_down,
             //  count(tilt) [ FILTER ( WHERE true ) ] as futon_up,
-             FROM sensordata 
+             FROM irTilt 
              GROUP BY sensormonth, sensorday;`;
              
     client.connect();
