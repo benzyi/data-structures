@@ -15,7 +15,7 @@ app.get('/', function(req, res) {
     const client = new Pool(db_credentials);
 
     // SQL query
-    var q = 'SELECT EXTRACT(DAY FROM sensortime AT TIME ZONE 'America/New_York') as sensorday, 
+    var q = `SELECT EXTRACT(DAY FROM sensortime AT TIME ZONE 'America/New_York') as sensorday, 
              EXTRACT(MONTH FROM sensortime AT TIME ZONE 'America/New_York') as sensormonth, 
              count(*) as num_obs,
             //  bool_and(ir) as ir_count,
@@ -24,7 +24,7 @@ app.get('/', function(req, res) {
             //  count(tilt) [ FILTER ( WHERE false ) ]as futon_down,
             //  count(tilt) [ FILTER ( WHERE true ) ]as futon_up,
              FROM irTilt 
-             GROUP BY sensormonth, sensorday;';
+             GROUP BY sensormonth, sensorday;`;
              
     client.connect();
     client.query(q, (qerr, qres) => {
