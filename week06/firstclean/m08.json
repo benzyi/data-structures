@@ -1,0 +1,819 @@
+[
+ {
+  "address": "109 West 129th Street,  Basement, New York, NY",
+  "building": "SRO Building",
+  "program": "A CHANCE TO LIVE AGAIN - A Chance To Live Again",
+  "wheelchair": true,
+  "notes": "",
+  "day": [
+   {
+    "day": "Wed",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "BB = Big Book meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "109 West 129th Street,  Basement, New York, NY",
+  "building": "SRO Building",
+  "program": "A CHANCE TO LIVE AGAIN - A Chance To Live Again",
+  "wheelchair": true,
+  "notes": "",
+  "day": [
+   {
+    "day": "Wed",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "BB = Big Book meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "240 West 145th Street, New York, NY",
+  "building": "Union Baptist Church",
+  "program": "AA IT WORKS  II - AA It Works II",
+  "wheelchair": true,
+  "notes": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
+  "day": [
+   {
+    "day": "Wed",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "BB = Big Book meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "240 West 145th Street, New York, NY",
+  "building": "Union Baptist Church",
+  "program": "AA IT WORKS  II - AA It Works II",
+  "wheelchair": true,
+  "notes": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
+  "day": [
+   {
+    "day": "Wed",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "BB = Big Book meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "240 West 145th Street, New York, NY",
+  "building": "Union Baptist Church",
+  "program": "AA IT WORKS  II - AA It Works II",
+  "wheelchair": true,
+  "notes": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
+  "day": [
+   {
+    "day": "Wed",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "BB = Big Book meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "240 West 145th Street, New York, NY",
+  "building": "Union Baptist Church",
+  "program": "AA IT WORKS  II - AA It Works II",
+  "wheelchair": true,
+  "notes": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
+  "day": [
+   {
+    "day": "Wed",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "BB = Big Book meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "469 West 142nd Street, Basement, New York, NY",
+  "building": "Our Lady of Lourdes Church",
+  "program": "ATTITUDE ADJUSTMENT - Attitude Adjustment",
+  "wheelchair": false,
+  "notes": "Topic 1st Saturday.",
+  "day": [
+   {
+    "day": "Sat",
+    "startTime": "7:30 AM",
+    "endTime": "8:30 AM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "204 West 134th Street, 1st Floor, New York, NY",
+  "building": "St. Phillip Church",
+  "program": "CONVENT -",
+  "wheelchair": false,
+  "notes": "B-3rd Saturday",
+  "day": [
+   {
+    "day": "Sat",
+    "startTime": "11:30 AM",
+    "endTime": "1:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2044 Adam Clayton Powell Blvd., New York, NY",
+  "building": "Spiritual Renewal Church",
+  "program": "FELLOWSHIP AT NOON - Fellowship At Noon",
+  "wheelchair": false,
+  "notes": "T If there is a fifth Wednesday.",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2044 Adam Clayton Powell Blvd., New York, NY",
+  "building": "Spiritual Renewal Church",
+  "program": "FELLOWSHIP AT NOON - Fellowship At Noon",
+  "wheelchair": false,
+  "notes": "T If there is a fifth Wednesday.",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2044 Adam Clayton Powell Blvd., New York, NY",
+  "building": "Spiritual Renewal Church",
+  "program": "FELLOWSHIP AT NOON - Fellowship At Noon",
+  "wheelchair": false,
+  "notes": "T If there is a fifth Wednesday.",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "12:15 PM",
+    "endTime": "1:15 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "469 West 142nd Street, 1st Floor, New York, NY",
+  "building": "",
+  "program": "GRUPO TRASMITELO -",
+  "wheelchair": false,
+  "notes": "Spanish speaking meeting.",
+  "day": [
+   {
+    "day": "Thurs",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "521 W 126th St, New York, NY",
+  "building": "St. Mary's Episcopal",
+  "program": "HARLEM HUMANISTS -",
+  "wheelchair": true,
+  "notes": "Contact in Advance for Wheelcahir Accessibility",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "12:00 PM",
+    "endTime": "1:00 PM",
+    "type": "O = Open meeting",
+    "special": "Agnostic"
+   }
+  ]
+ },
+ {
+  "address": "109 West 129th Street, Basement, New York, NY",
+  "building": "SRO Building Community Room",
+  "program": "K.I.S.S. - Keep It Simple (Kiss)",
+  "wheelchair": true,
+  "notes": "All meetings are non-smoking.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Sun",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "109 West 129th Street, Basement, New York, NY",
+  "building": "SRO Building Community Room",
+  "program": "K.I.S.S. - Keep It Simple (Kiss)",
+  "wheelchair": true,
+  "notes": "All meetings are non-smoking.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Sun",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "469 West 142nd Street, Basement, New York, NY",
+  "building": "Our Lady of Lourdes",
+  "program": "LEARNING TO LIVE SOBER - Learning To Live Sober",
+  "wheelchair": false,
+  "notes": "",
+  "day": [
+   {
+    "day": "Thurs",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "BB = Big Book meeting"
+   }
+  ]
+ },
+ {
+  "address": "2044 Seventh Avenue, \n\t\t\t\t\t\tNY 10027 New York, NY",
+  "building": "",
+  "program": "LIVING CLEAN AND SOBER ON 121st STREET - Living Clean And Sober On 121st Street",
+  "wheelchair": true,
+  "notes": "S 2nd, BB 3rd, OD 4th, Living Sober 5th wk.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "6:00 PM",
+    "endTime": "7:30 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "127 West 127th Street, New York, NY",
+  "building": "S.A.G.E.",
+  "program": "MEDITATION COMES TO HARLEM - Meditation Comes To Harlem",
+  "wheelchair": true,
+  "notes": "Meeting is closed on holidays",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "4:30 PM",
+    "endTime": "5:30 PM",
+    "type": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "310 West 139th Street, Basement, New York, NY",
+  "building": "Grace Congregational Baptist Church",
+  "program": "MID-HARLEM - Mid-Harlem",
+  "wheelchair": false,
+  "notes": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "O = Open meeting"
+   }
+  ]
+ },
+ {
+  "address": "310 West 139th Street, Basement, New York, NY",
+  "building": "Grace Congregational Baptist Church",
+  "program": "MID-HARLEM - Mid-Harlem",
+  "wheelchair": false,
+  "notes": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "O = Open meeting"
+   }
+  ]
+ },
+ {
+  "address": "310 West 139th Street, Basement, New York, NY",
+  "building": "Grace Congregational Baptist Church",
+  "program": "MID-HARLEM - Mid-Harlem",
+  "wheelchair": false,
+  "notes": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "S = Step meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "O = Open meeting"
+   }
+  ]
+ },
+ {
+  "address": "409 West 141st Street,  Basement, New York, NY",
+  "building": "St. James Church",
+  "program": "MONDAY NIGHT CHALLENGE - Monday Night Challenge",
+  "wheelchair": false,
+  "notes": "",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "91 Claremont Avenue,  4th Floor, Room 414, New York, NY",
+  "building": "Riverside Church",
+  "program": "PRIMARY PURPOSE - Primary Purpose",
+  "wheelchair": true,
+  "notes": "",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "3:00 PM",
+    "endTime": "4:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "1727 Amsterdam Avenue, 1st Floor in the rear., New York, NY",
+  "building": "Upper Manhattan Mental Health Center",
+  "program": "PROMISES TWO FOR ONE - Promises Two For One",
+  "wheelchair": true,
+  "notes": "1st Sun-OD; 2nd Sun-S; 3rd Sun-Topic; 4th Sun-T; 5th Sun-OD",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "9:30 AM",
+    "endTime": "10:30 AM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Sun",
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "type": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "1727 Amsterdam Avenue, 1st Floor in the rear., New York, NY",
+  "building": "Upper Manhattan Mental Health Center",
+  "program": "PROMISES TWO FOR ONE - Promises Two For One",
+  "wheelchair": true,
+  "notes": "1st Sun-OD; 2nd Sun-S; 3rd Sun-Topic; 4th Sun-T; 5th Sun-OD",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "9:30 AM",
+    "endTime": "10:30 AM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Sun",
+    "startTime": "11:00 AM",
+    "endTime": "12:00 PM",
+    "type": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "469 West 142nd Street, Basement, New York, NY",
+  "building": "Our Lady of Lourdes Church",
+  "program": "REALITY CHECK - Reality Check",
+  "wheelchair": false,
+  "notes": "S 4th Saturday Men's Meeting",
+  "day": [
+   {
+    "day": "Sat",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "OD = Open Discussion meeting",
+    "special": "Men"
+   }
+  ]
+ },
+ {
+  "address": "91 Claremont Avenue,  @ The Cloisters Club Room, New York, NY",
+  "building": "Riverside Church",
+  "program": "RIVERSIDE - Riverside",
+  "wheelchair": true,
+  "notes": "Non-Smoking Meeting.",
+  "day": [
+   {
+    "day": "Mon",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "219 West 132nd Street, Cafeteria, New York, NY",
+  "building": "St. Aloysius School",
+  "program": "RIVERTON - Riverton",
+  "wheelchair": false,
+  "notes": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings.",
+  "day": [
+   {
+    "day": "Sat",
+    "startTime": "3:00 PM",
+    "endTime": "4:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "O = Open meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": ""
+   }
+  ]
+ },
+ {
+  "address": "219 West 132nd Street, Cafeteria, New York, NY",
+  "building": "St. Aloysius School",
+  "program": "RIVERTON - Riverton",
+  "wheelchair": false,
+  "notes": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings.",
+  "day": [
+   {
+    "day": "Sat",
+    "startTime": "3:00 PM",
+    "endTime": "4:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "O = Open meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": ""
+   }
+  ]
+ },
+ {
+  "address": "219 West 132nd Street, Cafeteria, New York, NY",
+  "building": "St. Aloysius School",
+  "program": "RIVERTON - Riverton",
+  "wheelchair": false,
+  "notes": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings.",
+  "day": [
+   {
+    "day": "Sat",
+    "startTime": "3:00 PM",
+    "endTime": "4:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "O = Open meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": ""
+   }
+  ]
+ },
+ {
+  "address": "211 West 129th Street, Downstairs in the Gym, New York, NY",
+  "building": "Salem United Methodist Church Community Center",
+  "program": "SALEM - Salem",
+  "wheelchair": true,
+  "notes": "O 2nd Wednesday",
+  "day": [
+   {
+    "day": "Wed",
+    "startTime": "7:30 PM",
+    "endTime": "8:30 PM",
+    "type": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "425 West 144th Street, 1st Floor, New York, NY",
+  "building": "Convent Baptist Church Education Building",
+  "program": "SOBER ADULT MEN - Sober Adult Men",
+  "wheelchair": true,
+  "notes": "Men's Meeting",
+  "day": [
+   {
+    "day": "Wed",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "C = Closed Discussion meeting",
+    "special": "Men"
+   }
+  ]
+ },
+ {
+  "address": "204 West 134th Street,  Basement, New York, NY",
+  "building": "St. Phillip's Church",
+  "program": "ST. NICHOLAS - St. Nicholas",
+  "wheelchair": true,
+  "notes": "S 2nd, C 3rd, BB 4th, & Grapevine 5th Thu.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "O = Open meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "204 West 134th Street,  Basement, New York, NY",
+  "building": "St. Phillip's Church",
+  "program": "ST. NICHOLAS - St. Nicholas",
+  "wheelchair": true,
+  "notes": "S 2nd, C 3rd, BB 4th, & Grapevine 5th Thu.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "4:00 PM",
+    "endTime": "5:00 PM",
+    "type": "O = Open meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "7:00 PM",
+    "endTime": "8:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "506 Lenox Avenue,  Room #3101, 3rd Floor, New York, NY",
+  "building": "Harlem Hospital King Pavilion",
+  "program": "STEPS 3 and 11 - Steps Three-Eleven",
+  "wheelchair": true,
+  "notes": "B 1st, OD 2nd, S3 3rd, C Literature 4th, & S11 5th Sun.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "2:00 PM",
+    "endTime": "3:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "1727 Amsterdam Avenue, 1st floor in the rear, New York, NY",
+  "building": "Council Center for Problems of Living",
+  "program": "SUGAR HILL -",
+  "wheelchair": true,
+  "notes": "",
+  "day": [
+   {
+    "day": "Fri",
+    "startTime": "5:30 PM",
+    "endTime": "6:30 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "1854 Amsterdam Avenue, Basment, New York, NY",
+  "building": "",
+  "program": "TUESDAY BIG BOOK STUDY - Tuesday Big Book Study",
+  "wheelchair": false,
+  "notes": "",
+  "day": [
+   {
+    "day": "Tues",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "type": "BB = Big Book meeting"
+   }
+  ]
+ },
+ {
+  "address": "469 West 142nd Street, Basement, New York, NY",
+  "building": "Our Lady of Lourdes Church",
+  "program": "UPTOWN BIG BOOK WORKSHOP -",
+  "wheelchair": false,
+  "notes": "Meeting meets each Saturday from mid-August thru mid-December",
+  "day": [
+   {
+    "day": "Sat",
+    "startTime": "9:30 AM",
+    "endTime": "11:00 AM",
+    "type": "BB = Big Book meeting",
+    "special": "Big Book Workshop"
+   }
+  ]
+ },
+ {
+  "address": "58-66 West 135th Street, New York, NY",
+  "building": "Metropolitan AME Church",
+  "program": "YOU MAY CARE AFTER - You May Care After",
+  "wheelchair": true,
+  "notes": "Non-Smoking Meeting.",
+  "day": [
+   {
+    "day": "Tues",
+    "startTime": "6:30 PM",
+    "endTime": "7:30 PM",
+    "type": "S = Step meeting"
+   }
+  ]
+ }
+]

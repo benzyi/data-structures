@@ -1,0 +1,432 @@
+[
+ {
+  "address": "35 East 125 Street, 1st Floor Conference Room, New York, NY",
+  "building": "Harlem Children's Zone Admin. Offices",
+  "program": "125 - TWO FOR ONE -",
+  "wheelchair": true,
+  "notes": "O 2nd, S 3rd, Anniv. 4th & BB 5th Sat.",
+  "day": [
+   {
+    "day": "Sat",
+    "startTime": "4:15 PM",
+    "endTime": "5:30 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "223 East 117th Street, 1st Floor Dining Room, New York, NY",
+  "building": "Peter Jay Sharpe Building",
+  "program": "EAST HARLEM - East Harlem",
+  "wheelchair": true,
+  "notes": "Living Sober 1st Tuesday.",
+  "day": [
+   {
+    "day": "Tues",
+    "startTime": "6:30 PM",
+    "endTime": "7:30 PM",
+    "type": "B = Beginners meeting",
+    "special": "Living Sober"
+   }
+  ]
+ },
+ {
+  "address": "2126 2nd Avenue, 1st Floor, New York, NY",
+  "building": "",
+  "program": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "wheelchair": true,
+  "notes": "Spanish speaking meetings.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2126 2nd Avenue, 1st Floor, New York, NY",
+  "building": "",
+  "program": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "wheelchair": true,
+  "notes": "Spanish speaking meetings.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2126 2nd Avenue, 1st Floor, New York, NY",
+  "building": "",
+  "program": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "wheelchair": true,
+  "notes": "Spanish speaking meetings.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2126 2nd Avenue, 1st Floor, New York, NY",
+  "building": "",
+  "program": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "wheelchair": true,
+  "notes": "Spanish speaking meetings.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2126 2nd Avenue, 1st Floor, New York, NY",
+  "building": "",
+  "program": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "wheelchair": true,
+  "notes": "Spanish speaking meetings.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2126 2nd Avenue, 1st Floor, New York, NY",
+  "building": "",
+  "program": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "wheelchair": true,
+  "notes": "Spanish speaking meetings.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "2126 2nd Avenue, 1st Floor, New York, NY",
+  "building": "",
+  "program": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "wheelchair": true,
+  "notes": "Spanish speaking meetings.",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "B = Beginners meeting"
+   },
+   {
+    "day": "Tues",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wed",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thurs",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fri",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sat",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "type": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "address": "22 East 119th Street,  1st Floor Cafeteria, New York, NY",
+  "building": "Veterans Residence",
+  "program": "HARLEM 1 PM RECOVERY - Harlem 1 PM Recovery",
+  "wheelchair": true,
+  "notes": "ID REQUIRED TO ENTER BUILDING",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "1:00 PM",
+    "endTime": "2:00 PM",
+    "type": "T = Tradition meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "1:00 PM",
+    "endTime": "2:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "address": "22 East 119th Street,  1st Floor Cafeteria, New York, NY",
+  "building": "Veterans Residence",
+  "program": "HARLEM 1 PM RECOVERY - Harlem 1 PM Recovery",
+  "wheelchair": true,
+  "notes": "ID REQUIRED TO ENTER BUILDING",
+  "day": [
+   {
+    "day": "Sun",
+    "startTime": "1:00 PM",
+    "endTime": "2:00 PM",
+    "type": "T = Tradition meeting"
+   },
+   {
+    "day": "Mon",
+    "startTime": "1:00 PM",
+    "endTime": "2:00 PM",
+    "type": "B = Beginners meeting"
+   }
+  ]
+ }
+]
