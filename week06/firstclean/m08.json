@@ -8,14 +8,14 @@
   "day": [
    {
     "day": "Wed",
-    "startTime": "6:00 PM",
-    "endTime": "7:00 PM",
+    "startTime": "1800",
+    "endTime": "1900",
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Mon",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    }
   ]
@@ -29,14 +29,14 @@
   "day": [
    {
     "day": "Wed",
-    "startTime": "6:00 PM",
-    "endTime": "7:00 PM",
+    "startTime": "1800",
+    "endTime": "1900",
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Mon",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    }
   ]
@@ -50,26 +50,26 @@
   "day": [
    {
     "day": "Wed",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thurs",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Fri",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
     "day": "Tues",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -83,26 +83,26 @@
   "day": [
    {
     "day": "Wed",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thurs",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Fri",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
     "day": "Tues",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -116,26 +116,26 @@
   "day": [
    {
     "day": "Wed",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thurs",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Fri",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
     "day": "Tues",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -149,26 +149,26 @@
   "day": [
    {
     "day": "Wed",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thurs",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Fri",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
     "day": "Tues",
-    "startTime": "10:00 AM",
-    "endTime": "11:00 AM",
+    "startTime": "1000",
+    "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -182,8 +182,8 @@
   "day": [
    {
     "day": "Sat",
-    "startTime": "7:30 AM",
-    "endTime": "8:30 AM",
+    "startTime": "730",
+    "endTime": "830",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -197,8 +197,8 @@
   "day": [
    {
     "day": "Sat",
-    "startTime": "11:30 AM",
-    "endTime": "1:00 PM",
+    "startTime": "1130",
+    "endTime": "1300",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -212,20 +212,20 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Wed",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
     "day": "Fri",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -239,20 +239,20 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Wed",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
     "day": "Fri",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -266,20 +266,20 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Wed",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
     "day": "Fri",
-    "startTime": "12:15 PM",
-    "endTime": "1:15 PM",
+    "startTime": "1215",
+    "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -293,8 +293,8 @@
   "day": [
    {
     "day": "Thurs",
-    "startTime": "8:00 PM",
-    "endTime": "9:00 PM",
+    "startTime": "2000",
+    "endTime": "2100",
     "type": "B = Beginners meeting"
    }
   ]
@@ -308,8 +308,8 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "12:00 PM",
-    "endTime": "1:00 PM",
+    "startTime": "1200",
+    "endTime": "1300",
     "type": "O = Open meeting",
     "special": "Agnostic"
    }
@@ -324,14 +324,14 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "5:30 PM",
-    "endTime": "6:30 PM",
+    "startTime": "1730",
+    "endTime": "1830",
     "type": "S = Step meeting"
    },
    {
     "day": "Sun",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    }
   ]
@@ -345,14 +345,14 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "5:30 PM",
-    "endTime": "6:30 PM",
+    "startTime": "1730",
+    "endTime": "1830",
     "type": "S = Step meeting"
    },
    {
     "day": "Sun",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    }
   ]
@@ -366,8 +366,8 @@
   "day": [
    {
     "day": "Thurs",
-    "startTime": "6:00 PM",
-    "endTime": "7:00 PM",
+    "startTime": "1800",
+    "endTime": "1900",
     "type": "BB = Big Book meeting"
    }
   ]
@@ -381,8 +381,8 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "6:00 PM",
-    "endTime": "7:30 PM",
+    "startTime": "1800",
+    "endTime": "1930",
     "type": "B = Beginners meeting"
    }
   ]
@@ -396,8 +396,8 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "4:30 PM",
-    "endTime": "5:30 PM",
+    "startTime": "1630",
+    "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    }
   ]
@@ -411,20 +411,20 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
     "day": "Fri",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Fri",
-    "startTime": "8:00 PM",
-    "endTime": "9:00 PM",
+    "startTime": "2000",
+    "endTime": "2100",
     "type": "O = Open meeting"
    }
   ]
@@ -438,20 +438,20 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
     "day": "Fri",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Fri",
-    "startTime": "8:00 PM",
-    "endTime": "9:00 PM",
+    "startTime": "2000",
+    "endTime": "2100",
     "type": "O = Open meeting"
    }
   ]
@@ -465,20 +465,20 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
     "day": "Fri",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Fri",
-    "startTime": "8:00 PM",
-    "endTime": "9:00 PM",
+    "startTime": "2000",
+    "endTime": "2100",
     "type": "O = Open meeting"
    }
   ]
@@ -492,8 +492,8 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    }
   ]
@@ -507,8 +507,8 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "3:00 PM",
-    "endTime": "4:00 PM",
+    "startTime": "1500",
+    "endTime": "1600",
     "type": "OD = Open Discussion meeting"
    }
   ]
@@ -522,14 +522,14 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "9:30 AM",
-    "endTime": "10:30 AM",
+    "startTime": "930",
+    "endTime": "1030",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Sun",
-    "startTime": "11:00 AM",
-    "endTime": "12:00 PM",
+    "startTime": "1100",
+    "endTime": "1200",
     "type": "C = Closed Discussion meeting"
    }
   ]
@@ -543,14 +543,14 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "9:30 AM",
-    "endTime": "10:30 AM",
+    "startTime": "930",
+    "endTime": "1030",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Sun",
-    "startTime": "11:00 AM",
-    "endTime": "12:00 PM",
+    "startTime": "1100",
+    "endTime": "1200",
     "type": "C = Closed Discussion meeting"
    }
   ]
@@ -564,8 +564,8 @@
   "day": [
    {
     "day": "Sat",
-    "startTime": "5:00 PM",
-    "endTime": "6:00 PM",
+    "startTime": "1700",
+    "endTime": "1800",
     "type": "OD = Open Discussion meeting",
     "special": "Men"
    }
@@ -580,8 +580,8 @@
   "day": [
    {
     "day": "Mon",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "C = Closed Discussion meeting"
    }
   ]
@@ -595,20 +595,20 @@
   "day": [
    {
     "day": "Sat",
-    "startTime": "3:00 PM",
-    "endTime": "4:00 PM",
+    "startTime": "1500",
+    "endTime": "1600",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Sat",
-    "startTime": "6:00 PM",
-    "endTime": "7:00 PM",
+    "startTime": "1800",
+    "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
     "day": "Tues",
-    "startTime": "8:00 PM",
-    "endTime": "9:00 PM",
+    "startTime": "2000",
+    "endTime": "2100",
     "type": ""
    }
   ]
@@ -622,20 +622,20 @@
   "day": [
    {
     "day": "Sat",
-    "startTime": "3:00 PM",
-    "endTime": "4:00 PM",
+    "startTime": "1500",
+    "endTime": "1600",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Sat",
-    "startTime": "6:00 PM",
-    "endTime": "7:00 PM",
+    "startTime": "1800",
+    "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
     "day": "Tues",
-    "startTime": "8:00 PM",
-    "endTime": "9:00 PM",
+    "startTime": "2000",
+    "endTime": "2100",
     "type": ""
    }
   ]
@@ -649,20 +649,20 @@
   "day": [
    {
     "day": "Sat",
-    "startTime": "3:00 PM",
-    "endTime": "4:00 PM",
+    "startTime": "1500",
+    "endTime": "1600",
     "type": "B = Beginners meeting"
    },
    {
     "day": "Sat",
-    "startTime": "6:00 PM",
-    "endTime": "7:00 PM",
+    "startTime": "1800",
+    "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
     "day": "Tues",
-    "startTime": "8:00 PM",
-    "endTime": "9:00 PM",
+    "startTime": "2000",
+    "endTime": "2100",
     "type": ""
    }
   ]
@@ -676,8 +676,8 @@
   "day": [
    {
     "day": "Wed",
-    "startTime": "7:30 PM",
-    "endTime": "8:30 PM",
+    "startTime": "1930",
+    "endTime": "2030",
     "type": "C = Closed Discussion meeting"
    }
   ]
@@ -691,8 +691,8 @@
   "day": [
    {
     "day": "Wed",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "C = Closed Discussion meeting",
     "special": "Men"
    }
@@ -707,14 +707,14 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "4:00 PM",
-    "endTime": "5:00 PM",
+    "startTime": "1600",
+    "endTime": "1700",
     "type": "O = Open meeting"
    },
    {
     "day": "Thurs",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    }
   ]
@@ -728,14 +728,14 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "4:00 PM",
-    "endTime": "5:00 PM",
+    "startTime": "1600",
+    "endTime": "1700",
     "type": "O = Open meeting"
    },
    {
     "day": "Thurs",
-    "startTime": "7:00 PM",
-    "endTime": "8:00 PM",
+    "startTime": "1900",
+    "endTime": "2000",
     "type": "B = Beginners meeting"
    }
   ]
@@ -749,8 +749,8 @@
   "day": [
    {
     "day": "Sun",
-    "startTime": "2:00 PM",
-    "endTime": "3:00 PM",
+    "startTime": "1400",
+    "endTime": "1500",
     "type": "B = Beginners meeting"
    }
   ]
@@ -764,8 +764,8 @@
   "day": [
    {
     "day": "Fri",
-    "startTime": "5:30 PM",
-    "endTime": "6:30 PM",
+    "startTime": "1730",
+    "endTime": "1830",
     "type": "B = Beginners meeting"
    }
   ]
@@ -779,8 +779,8 @@
   "day": [
    {
     "day": "Tues",
-    "startTime": "6:00 PM",
-    "endTime": "7:00 PM",
+    "startTime": "1800",
+    "endTime": "1900",
     "type": "BB = Big Book meeting"
    }
   ]
@@ -794,8 +794,8 @@
   "day": [
    {
     "day": "Sat",
-    "startTime": "9:30 AM",
-    "endTime": "11:00 AM",
+    "startTime": "930",
+    "endTime": "1100",
     "type": "BB = Big Book meeting",
     "special": "Big Book Workshop"
    }
@@ -810,8 +810,8 @@
   "day": [
    {
     "day": "Tues",
-    "startTime": "6:30 PM",
-    "endTime": "7:30 PM",
+    "startTime": "1830",
+    "endTime": "1930",
     "type": "S = Step meeting"
    }
   ]
