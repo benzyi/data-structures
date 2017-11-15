@@ -7,14 +7,14 @@
   "notes": "Mon=As Bill Sees It, Wed=Living Sober",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1500",
     "endTime": "1600",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1500",
     "endTime": "1600",
     "type": "C = Closed Discussion meeting",
@@ -30,14 +30,14 @@
   "notes": "Mon=As Bill Sees It, Wed=Living Sober",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1500",
     "endTime": "1600",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1500",
     "endTime": "1600",
     "type": "C = Closed Discussion meeting",
@@ -53,13 +53,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1945",
     "endTime": "2045",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2100",
     "endTime": "2200",
     "type": "BB = Big Book meeting"
@@ -74,13 +74,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1945",
     "endTime": "2045",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2100",
     "endTime": "2200",
     "type": "BB = Big Book meeting"
@@ -95,7 +95,7 @@
   "notes": "Tues= AA Literature/Topic meeting The group's focus is on long-term sobriety; but all A.A. members are welcome.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1830",
     "endTime": "1945",
     "type": "C = Closed Discussion meeting"
@@ -110,7 +110,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting",
@@ -126,7 +126,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2130",
     "endTime": "2230",
     "type": "OD = Open Discussion meeting"
@@ -141,38 +141,38 @@
   "notes": "T - Last Friday, Anniversary-Last Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1300",
     "endTime": "1430",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1430",
     "endTime": "1600",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1600",
     "endTime": "1730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1600",
     "endTime": "1730",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1600",
     "endTime": "1730",
     "type": "O = Open meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1600",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -187,38 +187,38 @@
   "notes": "T - Last Friday, Anniversary-Last Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1300",
     "endTime": "1430",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1430",
     "endTime": "1600",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1600",
     "endTime": "1730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1600",
     "endTime": "1730",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1600",
     "endTime": "1730",
     "type": "O = Open meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1600",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -233,38 +233,38 @@
   "notes": "T - Last Friday, Anniversary-Last Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1300",
     "endTime": "1430",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1430",
     "endTime": "1600",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1600",
     "endTime": "1730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1600",
     "endTime": "1730",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1600",
     "endTime": "1730",
     "type": "O = Open meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1600",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -279,38 +279,38 @@
   "notes": "T - Last Friday, Anniversary-Last Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1300",
     "endTime": "1430",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1430",
     "endTime": "1600",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1600",
     "endTime": "1730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1600",
     "endTime": "1730",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1600",
     "endTime": "1730",
     "type": "O = Open meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1600",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -325,38 +325,38 @@
   "notes": "T - Last Friday, Anniversary-Last Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1300",
     "endTime": "1430",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1430",
     "endTime": "1600",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1600",
     "endTime": "1730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1600",
     "endTime": "1730",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1600",
     "endTime": "1730",
     "type": "O = Open meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1600",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -371,38 +371,38 @@
   "notes": "T - Last Friday, Anniversary-Last Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1300",
     "endTime": "1430",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1430",
     "endTime": "1600",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1600",
     "endTime": "1730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1600",
     "endTime": "1730",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1600",
     "endTime": "1730",
     "type": "O = Open meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1600",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -417,7 +417,7 @@
   "notes": "Anniv. Meeting last Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting"
@@ -432,7 +432,7 @@
   "notes": "Alternating Step and Tradition meeting.",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
@@ -447,13 +447,13 @@
   "notes": "All Meetings Are Non-Smoking. Anniversary meeting last Tues at 6:15",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1815",
     "endTime": "1915",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "B = Beginners meeting"
@@ -468,13 +468,13 @@
   "notes": "All Meetings Are Non-Smoking. Anniversary meeting last Tues at 6:15",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1815",
     "endTime": "1915",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "B = Beginners meeting"
@@ -489,13 +489,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting"
@@ -510,13 +510,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting"
@@ -531,7 +531,7 @@
   "notes": "Men's Meeting",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "OD = Open Discussion meeting",
@@ -547,13 +547,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1230",
     "endTime": "1330",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1230",
     "endTime": "1330",
     "type": "C = Closed Discussion meeting"
@@ -568,13 +568,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1230",
     "endTime": "1330",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1230",
     "endTime": "1330",
     "type": "C = Closed Discussion meeting"
@@ -589,7 +589,7 @@
   "notes": "T Last Thursday",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2015",
     "endTime": "2130",
     "type": "C = Closed Discussion meeting"
@@ -604,19 +604,19 @@
   "notes": "10:15pm = Topic Meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2045",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2100",
     "endTime": "2200",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2215",
     "endTime": "2315",
     "type": "C = Closed Discussion meeting",
@@ -632,19 +632,19 @@
   "notes": "10:15pm = Topic Meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2045",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2100",
     "endTime": "2200",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2215",
     "endTime": "2315",
     "type": "C = Closed Discussion meeting",
@@ -660,19 +660,19 @@
   "notes": "10:15pm = Topic Meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2045",
     "type": "O = Open meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2100",
     "endTime": "2200",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2215",
     "endTime": "2315",
     "type": "C = Closed Discussion meeting",
@@ -688,7 +688,7 @@
   "notes": "S 1st & T Last Friday",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
@@ -703,7 +703,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1800",
     "endTime": "1900",
     "type": "B = Beginners meeting"
@@ -718,7 +718,7 @@
   "notes": "Enter basement level @ red door on left side of the building.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1815",
     "endTime": "1945",
     "type": "S = Step meeting",
@@ -734,21 +734,21 @@
   "notes": "Children are welcome at all meetings. All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1700",
     "endTime": "1800",
     "type": "C = Closed Discussion meeting",
     "special": "Children Welcome"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "C = Closed Discussion meeting",
     "special": "Children Welcome"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting",
@@ -764,21 +764,21 @@
   "notes": "Children are welcome at all meetings. All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1700",
     "endTime": "1800",
     "type": "C = Closed Discussion meeting",
     "special": "Children Welcome"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "C = Closed Discussion meeting",
     "special": "Children Welcome"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting",
@@ -794,21 +794,21 @@
   "notes": "Children are welcome at all meetings. All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1700",
     "endTime": "1800",
     "type": "C = Closed Discussion meeting",
     "special": "Children Welcome"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "C = Closed Discussion meeting",
     "special": "Children Welcome"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting",
@@ -824,7 +824,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2045",
     "type": "C = Closed Discussion meeting"
@@ -839,61 +839,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -908,61 +908,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -977,61 +977,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -1046,61 +1046,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -1115,61 +1115,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -1184,61 +1184,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -1253,61 +1253,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -1322,61 +1322,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -1391,61 +1391,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -1460,61 +1460,61 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "700",
     "endTime": "800",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "815",
     "endTime": "915",
     "type": "C = Closed Discussion meeting"
@@ -1529,13 +1529,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "800",
     "endTime": "900",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "800",
     "endTime": "900",
     "type": "C = Closed Discussion meeting"
@@ -1550,13 +1550,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "800",
     "endTime": "900",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "800",
     "endTime": "900",
     "type": "C = Closed Discussion meeting"
@@ -1571,20 +1571,20 @@
   "notes": "T 1st Saturday @ 12:30pm",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1030",
     "endTime": "1130",
     "type": "S = Step meeting",
     "special": "First Step Workshop"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1230",
     "endTime": "1330",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1230",
     "endTime": "1330",
     "type": "S = Step meeting"
@@ -1599,20 +1599,20 @@
   "notes": "T 1st Saturday @ 12:30pm",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1030",
     "endTime": "1130",
     "type": "S = Step meeting",
     "special": "First Step Workshop"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1230",
     "endTime": "1330",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1230",
     "endTime": "1330",
     "type": "S = Step meeting"
@@ -1627,20 +1627,20 @@
   "notes": "T 1st Saturday @ 12:30pm",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1030",
     "endTime": "1130",
     "type": "S = Step meeting",
     "special": "First Step Workshop"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1230",
     "endTime": "1330",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1230",
     "endTime": "1330",
     "type": "S = Step meeting"
@@ -1655,176 +1655,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -1839,176 +1839,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -2023,176 +2023,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -2207,176 +2207,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -2391,176 +2391,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -2575,176 +2575,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -2759,176 +2759,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -2943,176 +2943,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -3127,176 +3127,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -3311,176 +3311,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -3495,176 +3495,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -3679,176 +3679,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -3863,176 +3863,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -4047,176 +4047,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -4231,176 +4231,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -4415,176 +4415,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -4599,176 +4599,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -4783,176 +4783,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -4967,176 +4967,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -5151,176 +5151,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -5335,176 +5335,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -5519,176 +5519,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -5703,176 +5703,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -5887,176 +5887,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -6071,176 +6071,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -6255,176 +6255,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -6439,176 +6439,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -6623,176 +6623,176 @@
   "notes": "Last Sat. of month at 10:15 = anniversary meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "600",
     "endTime": "700",
     "type": "S = Step meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "600",
     "endTime": "700",
     "type": "OD = Open Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "600",
     "endTime": "700",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "715",
     "endTime": "815",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "715",
     "endTime": "815",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "845",
     "endTime": "945",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1015",
     "endTime": "1115",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1015",
     "endTime": "1115",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1015",
     "endTime": "1115",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1015",
     "endTime": "1115",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1015",
     "endTime": "1115",
     "type": "T = Tradition meeting"
@@ -6807,7 +6807,7 @@
   "notes": "MEETING NOW TAKES PLACE YEAR ROUND! Up concrete steps, take stairs on left, 2nd Floor (Sandford Hall)",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1830",
     "endTime": "1945",
     "type": "S = Step meeting"
@@ -6822,13 +6822,13 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1630",
     "endTime": "1730",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting"
@@ -6843,13 +6843,13 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1630",
     "endTime": "1730",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting"
@@ -6864,25 +6864,25 @@
   "notes": "B Last Friday Bilingual (English-Spanish) Meetings.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting"
@@ -6897,25 +6897,25 @@
   "notes": "B Last Friday Bilingual (English-Spanish) Meetings.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting"
@@ -6930,25 +6930,25 @@
   "notes": "B Last Friday Bilingual (English-Spanish) Meetings.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting"
@@ -6963,25 +6963,25 @@
   "notes": "B Last Friday Bilingual (English-Spanish) Meetings.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting"
@@ -6996,7 +6996,7 @@
   "notes": "Spanish speaking meeting.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting"
@@ -7011,19 +7011,19 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2015",
     "endTime": "2115",
     "type": "C = Closed Discussion meeting"
@@ -7038,19 +7038,19 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2015",
     "endTime": "2115",
     "type": "C = Closed Discussion meeting"
@@ -7065,19 +7065,19 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2015",
     "endTime": "2115",
     "type": "C = Closed Discussion meeting"
@@ -7092,28 +7092,28 @@
   "notes": "Wed.6pm=Interpreted for the deaf and hard of hearing. Gay Men & Women Focus.  All are welcome.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "S = Step meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1800",
     "endTime": "1900",
     "type": "OD = Open Discussion meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1915",
     "endTime": "2015",
     "type": "B = Beginners meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2030",
     "endTime": "2130",
     "type": "C = Closed Discussion meeting",
@@ -7129,28 +7129,28 @@
   "notes": "Wed.6pm=Interpreted for the deaf and hard of hearing. Gay Men & Women Focus.  All are welcome.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "S = Step meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1800",
     "endTime": "1900",
     "type": "OD = Open Discussion meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1915",
     "endTime": "2015",
     "type": "B = Beginners meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2030",
     "endTime": "2130",
     "type": "C = Closed Discussion meeting",
@@ -7166,28 +7166,28 @@
   "notes": "Wed.6pm=Interpreted for the deaf and hard of hearing. Gay Men & Women Focus.  All are welcome.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "S = Step meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1800",
     "endTime": "1900",
     "type": "OD = Open Discussion meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1915",
     "endTime": "2015",
     "type": "B = Beginners meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2030",
     "endTime": "2130",
     "type": "C = Closed Discussion meeting",
@@ -7203,28 +7203,28 @@
   "notes": "Wed.6pm=Interpreted for the deaf and hard of hearing. Gay Men & Women Focus.  All are welcome.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "S = Step meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1800",
     "endTime": "1900",
     "type": "OD = Open Discussion meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1915",
     "endTime": "2015",
     "type": "B = Beginners meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2030",
     "endTime": "2130",
     "type": "C = Closed Discussion meeting",
@@ -7240,7 +7240,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -7255,7 +7255,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1745",
     "endTime": "1900",
     "type": "C = Closed Discussion meeting"
@@ -7270,32 +7270,32 @@
   "notes": "Mon=11th Step Meditation, Fri= Alt.Step & Tradition Meeting",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1300",
     "endTime": "1400",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1300",
     "endTime": "1415",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1300",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1300",
     "endTime": "1415",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1300",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
@@ -7311,32 +7311,32 @@
   "notes": "Mon=11th Step Meditation, Fri= Alt.Step & Tradition Meeting",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1300",
     "endTime": "1400",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1300",
     "endTime": "1415",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1300",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1300",
     "endTime": "1415",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1300",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
@@ -7352,32 +7352,32 @@
   "notes": "Mon=11th Step Meditation, Fri= Alt.Step & Tradition Meeting",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1300",
     "endTime": "1400",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1300",
     "endTime": "1415",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1300",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1300",
     "endTime": "1415",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1300",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
@@ -7393,32 +7393,32 @@
   "notes": "Mon=11th Step Meditation, Fri= Alt.Step & Tradition Meeting",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1300",
     "endTime": "1400",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1300",
     "endTime": "1415",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1300",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1300",
     "endTime": "1415",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1300",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
@@ -7434,32 +7434,32 @@
   "notes": "Mon=11th Step Meditation, Fri= Alt.Step & Tradition Meeting",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1300",
     "endTime": "1400",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1300",
     "endTime": "1415",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1300",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1300",
     "endTime": "1415",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1300",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
@@ -7475,25 +7475,25 @@
   "notes": "All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2115",
     "endTime": "2215",
     "type": "OD = Open Discussion meeting"
@@ -7508,25 +7508,25 @@
   "notes": "All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2115",
     "endTime": "2215",
     "type": "OD = Open Discussion meeting"
@@ -7541,25 +7541,25 @@
   "notes": "All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2115",
     "endTime": "2215",
     "type": "OD = Open Discussion meeting"
@@ -7574,25 +7574,25 @@
   "notes": "All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2115",
     "endTime": "2215",
     "type": "OD = Open Discussion meeting"
@@ -7607,13 +7607,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting"
@@ -7628,13 +7628,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting"
@@ -7649,7 +7649,7 @@
   "notes": "All meetings are non-smoking.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting"
@@ -7664,7 +7664,7 @@
   "notes": "T 1st Monday Non-Smoking Meeting.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1830",
     "endTime": "1930",
     "type": "S = Step meeting"
@@ -7679,7 +7679,7 @@
   "notes": "Non-Smoking Meeting.",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1800",
     "endTime": "1900",
     "type": "B = Beginners meeting"
@@ -7694,44 +7694,44 @@
   "notes": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "2200",
     "endTime": "2300",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2200",
     "endTime": "2300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2200",
     "endTime": "2300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2200",
     "endTime": "2300",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2300",
     "endTime": "0000",
     "type": "C = Closed Discussion meeting",
@@ -7747,44 +7747,44 @@
   "notes": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "2200",
     "endTime": "2300",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2200",
     "endTime": "2300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2200",
     "endTime": "2300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2200",
     "endTime": "2300",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2300",
     "endTime": "0000",
     "type": "C = Closed Discussion meeting",
@@ -7800,44 +7800,44 @@
   "notes": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "2200",
     "endTime": "2300",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2200",
     "endTime": "2300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2200",
     "endTime": "2300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2200",
     "endTime": "2300",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2300",
     "endTime": "0000",
     "type": "C = Closed Discussion meeting",
@@ -7853,44 +7853,44 @@
   "notes": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "2200",
     "endTime": "2300",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2200",
     "endTime": "2300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2200",
     "endTime": "2300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2200",
     "endTime": "2300",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2300",
     "endTime": "0000",
     "type": "C = Closed Discussion meeting",
@@ -7906,44 +7906,44 @@
   "notes": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "2200",
     "endTime": "2300",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2200",
     "endTime": "2300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2200",
     "endTime": "2300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2200",
     "endTime": "2300",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2300",
     "endTime": "0000",
     "type": "C = Closed Discussion meeting",
@@ -7959,44 +7959,44 @@
   "notes": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "2200",
     "endTime": "2300",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2200",
     "endTime": "2300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2200",
     "endTime": "2300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2200",
     "endTime": "2300",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2300",
     "endTime": "0000",
     "type": "C = Closed Discussion meeting",
@@ -8012,44 +8012,44 @@
   "notes": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "2200",
     "endTime": "2300",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2200",
     "endTime": "2300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2200",
     "endTime": "2300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2200",
     "endTime": "2300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2200",
     "endTime": "2300",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2300",
     "endTime": "0000",
     "type": "C = Closed Discussion meeting",
@@ -8069,21 +8069,21 @@
     "endTime": "0000"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
@@ -8102,21 +8102,21 @@
     "endTime": "0000"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
@@ -8135,21 +8135,21 @@
     "endTime": "0000"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
@@ -8168,21 +8168,21 @@
     "endTime": "0000"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting",
     "special": "Interpreted for the Deaf"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
@@ -8197,7 +8197,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
@@ -8212,7 +8212,7 @@
   "notes": "Anniv.  Last Sunday",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -8227,13 +8227,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -8248,13 +8248,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -8269,7 +8269,7 @@
   "notes": "Living Sober",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2030",
     "endTime": "2130",
     "type": "C = Closed Discussion meeting",
@@ -8285,13 +8285,13 @@
   "notes": "All Meetings Are Non-Smoking.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2015",
     "endTime": "2115",
     "type": "S = Step meeting"
@@ -8306,13 +8306,13 @@
   "notes": "All Meetings Are Non-Smoking.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2015",
     "endTime": "2115",
     "type": "S = Step meeting"
@@ -8327,7 +8327,7 @@
   "notes": "Alternates Betw.the Steps & Promises.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1830",
     "endTime": "1930",
     "type": "S = Step meeting",
@@ -8343,7 +8343,7 @@
   "notes": "Men's Meeting",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1030",
     "endTime": "1130",
     "type": "C = Closed Discussion meeting",
@@ -8359,7 +8359,7 @@
   "notes": "Round Robin Topic Meeting.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting"
@@ -8374,31 +8374,31 @@
   "notes": "T Last Friday",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1630",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -8413,31 +8413,31 @@
   "notes": "T Last Friday",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1630",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -8452,31 +8452,31 @@
   "notes": "T Last Friday",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1630",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -8491,31 +8491,31 @@
   "notes": "T Last Friday",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1630",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -8530,31 +8530,31 @@
   "notes": "T Last Friday",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1530",
     "endTime": "1630",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1630",
     "endTime": "1730",
     "type": "S = Step meeting"
@@ -8569,14 +8569,14 @@
   "notes": "10am=As Bill Sees It, 11:15am=Topic Meeting",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1000",
     "endTime": "1100",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1115",
     "endTime": "1215",
     "type": "C = Closed Discussion meeting"
@@ -8591,14 +8591,14 @@
   "notes": "10am=As Bill Sees It, 11:15am=Topic Meeting",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1000",
     "endTime": "1100",
     "type": "C = Closed Discussion meeting",
     "special": "As Bill Sees It"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1115",
     "endTime": "1215",
     "type": "C = Closed Discussion meeting"
@@ -8613,7 +8613,7 @@
   "notes": "S Last Thursday,  No Prayers.",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1815",
     "endTime": "1915",
     "type": "C = Closed Discussion meeting",
@@ -8629,7 +8629,7 @@
   "notes": "Issues of medication in recovery are discussed.  All are welcome.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1645",
     "endTime": "1745",
     "type": "OD = Open Discussion meeting",
@@ -8645,25 +8645,25 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "BB = Big Book meeting"
@@ -8678,25 +8678,25 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "BB = Big Book meeting"
@@ -8711,25 +8711,25 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "BB = Big Book meeting"
@@ -8744,25 +8744,25 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1900",
     "endTime": "2000",
     "type": "BB = Big Book meeting"
@@ -8777,7 +8777,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting"
@@ -8792,7 +8792,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
@@ -8807,7 +8807,7 @@
   "notes": "Anniv. Meeting Last Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting",
@@ -8823,7 +8823,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting",
@@ -8839,14 +8839,14 @@
   "notes": "S 2nd Wednesday",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "900",
     "endTime": "1000",
     "type": "C = Closed Discussion meeting",
     "special": "Women"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "900",
     "endTime": "1000",
     "type": "C = Closed Discussion meeting",
@@ -8862,14 +8862,14 @@
   "notes": "S 2nd Wednesday",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "900",
     "endTime": "1000",
     "type": "C = Closed Discussion meeting",
     "special": "Women"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "900",
     "endTime": "1000",
     "type": "C = Closed Discussion meeting",
@@ -8885,7 +8885,7 @@
   "notes": "Women's Meeting",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting",
@@ -8901,21 +8901,21 @@
   "notes": "Wed= Alternate BB and Living Sober.",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting",
     "special": "Women"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting",
     "special": "Women"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1230",
     "endTime": "1330",
     "type": "B = Beginners meeting",
@@ -8931,21 +8931,21 @@
   "notes": "Wed= Alternate BB and Living Sober.",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting",
     "special": "Women"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting",
     "special": "Women"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1230",
     "endTime": "1330",
     "type": "B = Beginners meeting",
@@ -8961,21 +8961,21 @@
   "notes": "Wed= Alternate BB and Living Sober.",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting",
     "special": "Women"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting",
     "special": "Women"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1230",
     "endTime": "1330",
     "type": "B = Beginners meeting",
@@ -8991,7 +8991,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1300",
     "type": "OD = Open Discussion meeting",
@@ -9007,7 +9007,7 @@
   "notes": "Women's Meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting",
@@ -9023,7 +9023,7 @@
   "notes": "Women's Meeting",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting",
@@ -9039,7 +9039,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1800",
     "endTime": "1900",
     "type": "C = Closed Discussion meeting",

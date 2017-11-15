@@ -7,32 +7,32 @@
   "notes": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1200",
     "endTime": "1300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1200",
     "endTime": "1300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting"
@@ -47,32 +47,32 @@
   "notes": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1200",
     "endTime": "1300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1200",
     "endTime": "1300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting"
@@ -87,32 +87,32 @@
   "notes": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1200",
     "endTime": "1300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1200",
     "endTime": "1300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting"
@@ -127,32 +127,32 @@
   "notes": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1200",
     "endTime": "1300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1200",
     "endTime": "1300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting"
@@ -167,32 +167,32 @@
   "notes": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1200",
     "endTime": "1300",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1300",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1200",
     "endTime": "1300",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1200",
     "endTime": "1300",
     "type": "C = Closed Discussion meeting"
@@ -207,32 +207,32 @@
   "notes": "Living Sober Last Tuesday, T Last Wednesday",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -247,32 +247,32 @@
   "notes": "Living Sober Last Tuesday, T Last Wednesday",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -287,32 +287,32 @@
   "notes": "Living Sober Last Tuesday, T Last Wednesday",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -327,32 +327,32 @@
   "notes": "Living Sober Last Tuesday, T Last Wednesday",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -367,32 +367,32 @@
   "notes": "Living Sober Last Tuesday, T Last Wednesday",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -407,7 +407,7 @@
   "notes": "10th Step",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
@@ -422,13 +422,13 @@
   "notes": "BB 1st & T Last Wed.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1200",
     "endTime": "1300",
     "type": "O = Open meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
@@ -443,13 +443,13 @@
   "notes": "BB 1st & T Last Wed.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1200",
     "endTime": "1300",
     "type": "O = Open meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
@@ -464,7 +464,7 @@
   "notes": "Men's meeting & Gay men's focus. All are welcome. Anniversary last Sat., 1st Sat.=S followed by Bus. Mtg.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1230",
     "endTime": "1400",
     "type": "C = Closed Discussion meeting",
@@ -480,13 +480,13 @@
   "notes": "Spanish Speaking Meetings.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2200",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2200",
     "type": "OD = Open Discussion meeting"
@@ -501,13 +501,13 @@
   "notes": "Spanish Speaking Meetings.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2200",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2200",
     "type": "OD = Open Discussion meeting"
@@ -522,25 +522,25 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
@@ -555,25 +555,25 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
@@ -588,25 +588,25 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
@@ -621,25 +621,25 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2200",
     "type": "O = Open meeting"
@@ -654,25 +654,25 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2130",
     "endTime": "1030",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2130",
     "endTime": "2230",
     "type": "C = Closed Discussion meeting"
@@ -687,25 +687,25 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2130",
     "endTime": "1030",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2130",
     "endTime": "2230",
     "type": "C = Closed Discussion meeting"
@@ -720,25 +720,25 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2130",
     "endTime": "1030",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2130",
     "endTime": "2230",
     "type": "C = Closed Discussion meeting"
@@ -753,25 +753,25 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2130",
     "endTime": "1030",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2130",
     "endTime": "2230",
     "type": "C = Closed Discussion meeting"
@@ -786,19 +786,19 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1430",
     "endTime": "1530",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "O = Open meeting"
@@ -813,19 +813,19 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1430",
     "endTime": "1530",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "O = Open meeting"
@@ -840,19 +840,19 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1430",
     "endTime": "1530",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "O = Open meeting"
@@ -867,13 +867,13 @@
   "notes": "Spanish Speaking Meetings.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -888,13 +888,13 @@
   "notes": "Spanish Speaking Meetings.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -909,14 +909,14 @@
   "notes": "LGBT All welcome. Sun= As Bill See it; Wed=Steps1-3 Sun.meeting in Sanctuary; Wed meeting in Auditorium",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "B = Beginners meeting",
@@ -932,14 +932,14 @@
   "notes": "LGBT All welcome. Sun= As Bill See it; Wed=Steps1-3 Sun.meeting in Sanctuary; Wed meeting in Auditorium",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting",
     "special": "Gay, Lesbian and Bisexual"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "B = Beginners meeting",
@@ -955,19 +955,19 @@
   "notes": "Sat. Closed meeting rotating step/speaker/trad/anniversary In Dec. first two weeks will be Step meeting",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1100",
     "endTime": "1200",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1230",
     "endTime": "1330",
     "type": "C = Closed Discussion meeting"
@@ -982,19 +982,19 @@
   "notes": "Sat. Closed meeting rotating step/speaker/trad/anniversary In Dec. first two weeks will be Step meeting",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1100",
     "endTime": "1200",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1230",
     "endTime": "1330",
     "type": "C = Closed Discussion meeting"
@@ -1009,19 +1009,19 @@
   "notes": "Sat. Closed meeting rotating step/speaker/trad/anniversary In Dec. first two weeks will be Step meeting",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1100",
     "endTime": "1200",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1230",
     "endTime": "1330",
     "type": "C = Closed Discussion meeting"
@@ -1036,7 +1036,7 @@
   "notes": "Open Anniv. Last Mon.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
@@ -1051,7 +1051,7 @@
   "notes": "Open Discussion 1st, 2nd, 4th,and 5th when applicable. OPEN meeting is 3rd Fridays",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
@@ -1066,7 +1066,7 @@
   "notes": "Men's Meeting",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting",
@@ -1082,7 +1082,7 @@
   "notes": "1st- Step, 2nd-OD, 3rd-Beg., 4th- BB, 5th- OD",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "BB = Big Book meeting"
@@ -1097,7 +1097,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
@@ -1112,7 +1112,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting"
@@ -1127,7 +1127,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "O = Open meeting"
@@ -1142,7 +1142,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting"
@@ -1157,7 +1157,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1800",
     "endTime": "1900",
     "type": "C = Closed Discussion meeting"
@@ -1172,7 +1172,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"

@@ -7,13 +7,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1800",
     "endTime": "1900",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -28,13 +28,13 @@
   "notes": "",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1800",
     "endTime": "1900",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -49,25 +49,25 @@
   "notes": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -82,25 +82,25 @@
   "notes": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -115,25 +115,25 @@
   "notes": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -148,25 +148,25 @@
   "notes": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1000",
     "endTime": "1100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1000",
     "endTime": "1100",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1000",
     "endTime": "1100",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1000",
     "endTime": "1100",
     "type": "OD = Open Discussion meeting"
@@ -181,7 +181,7 @@
   "notes": "Topic 1st Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
@@ -196,7 +196,7 @@
   "notes": "B-3rd Saturday",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1130",
     "endTime": "1300",
     "type": "OD = Open Discussion meeting"
@@ -211,19 +211,19 @@
   "notes": "T If there is a fifth Wednesday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
@@ -238,19 +238,19 @@
   "notes": "T If there is a fifth Wednesday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
@@ -265,19 +265,19 @@
   "notes": "T If there is a fifth Wednesday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
@@ -292,7 +292,7 @@
   "notes": "Spanish speaking meeting.",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "B = Beginners meeting"
@@ -307,7 +307,7 @@
   "notes": "Contact in Advance for Wheelcahir Accessibility",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1200",
     "endTime": "1300",
     "type": "O = Open meeting",
@@ -323,13 +323,13 @@
   "notes": "All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1730",
     "endTime": "1830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -344,13 +344,13 @@
   "notes": "All meetings are non-smoking.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1730",
     "endTime": "1830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -365,7 +365,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1800",
     "endTime": "1900",
     "type": "BB = Big Book meeting"
@@ -380,7 +380,7 @@
   "notes": "S 2nd, BB 3rd, OD 4th, Living Sober 5th wk.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1800",
     "endTime": "1930",
     "type": "B = Beginners meeting"
@@ -395,7 +395,7 @@
   "notes": "Meeting is closed on holidays",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1630",
     "endTime": "1730",
     "type": "C = Closed Discussion meeting"
@@ -410,19 +410,19 @@
   "notes": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "O = Open meeting"
@@ -437,19 +437,19 @@
   "notes": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "O = Open meeting"
@@ -464,19 +464,19 @@
   "notes": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "O = Open meeting"
@@ -491,7 +491,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -506,7 +506,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1500",
     "endTime": "1600",
     "type": "OD = Open Discussion meeting"
@@ -521,13 +521,13 @@
   "notes": "1st Sun-OD; 2nd Sun-S; 3rd Sun-Topic; 4th Sun-T; 5th Sun-OD",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "930",
     "endTime": "1030",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting"
@@ -542,13 +542,13 @@
   "notes": "1st Sun-OD; 2nd Sun-S; 3rd Sun-Topic; 4th Sun-T; 5th Sun-OD",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "930",
     "endTime": "1030",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting"
@@ -563,7 +563,7 @@
   "notes": "S 4th Saturday Men's Meeting",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting",
@@ -579,7 +579,7 @@
   "notes": "Non-Smoking Meeting.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting"
@@ -594,19 +594,19 @@
   "notes": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1500",
     "endTime": "1600",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": ""
@@ -621,19 +621,19 @@
   "notes": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1500",
     "endTime": "1600",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": ""
@@ -648,19 +648,19 @@
   "notes": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1500",
     "endTime": "1600",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1800",
     "endTime": "1900",
     "type": "O = Open meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": ""
@@ -675,7 +675,7 @@
   "notes": "O 2nd Wednesday",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1930",
     "endTime": "2030",
     "type": "C = Closed Discussion meeting"
@@ -690,7 +690,7 @@
   "notes": "Men's Meeting",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting",
@@ -706,13 +706,13 @@
   "notes": "S 2nd, C 3rd, BB 4th, & Grapevine 5th Thu.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1600",
     "endTime": "1700",
     "type": "O = Open meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -727,13 +727,13 @@
   "notes": "S 2nd, C 3rd, BB 4th, & Grapevine 5th Thu.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1600",
     "endTime": "1700",
     "type": "O = Open meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1900",
     "endTime": "2000",
     "type": "B = Beginners meeting"
@@ -748,7 +748,7 @@
   "notes": "B 1st, OD 2nd, S3 3rd, C Literature 4th, & S11 5th Sun.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1400",
     "endTime": "1500",
     "type": "B = Beginners meeting"
@@ -763,7 +763,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -778,7 +778,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1800",
     "endTime": "1900",
     "type": "BB = Big Book meeting"
@@ -793,7 +793,7 @@
   "notes": "Meeting meets each Saturday from mid-August thru mid-December",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "930",
     "endTime": "1100",
     "type": "BB = Big Book meeting",
@@ -809,7 +809,7 @@
   "notes": "Non-Smoking Meeting.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1830",
     "endTime": "1930",
     "type": "S = Step meeting"

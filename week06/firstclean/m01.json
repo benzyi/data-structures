@@ -7,13 +7,13 @@
   "notes": "@Duane and Centre behind Federal courthouse enter thru driveway behind Church No meetings on Holidays",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "B = Beginners meeting"
@@ -28,13 +28,13 @@
   "notes": "@Duane and Centre behind Federal courthouse enter thru driveway behind Church No meetings on Holidays",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "700",
     "endTime": "800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "700",
     "endTime": "800",
     "type": "B = Beginners meeting"
@@ -49,25 +49,25 @@
   "notes": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
@@ -82,25 +82,25 @@
   "notes": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
@@ -115,25 +115,25 @@
   "notes": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
@@ -148,25 +148,25 @@
   "notes": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
@@ -181,7 +181,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
@@ -196,7 +196,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1900",
     "endTime": "2000",
     "type": "OD = Open Discussion meeting"
@@ -211,32 +211,32 @@
   "notes": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1330",
     "endTime": "1430",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1330",
     "endTime": "1430",
     "type": "S = Step meeting"
@@ -251,32 +251,32 @@
   "notes": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1330",
     "endTime": "1430",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1330",
     "endTime": "1430",
     "type": "S = Step meeting"
@@ -291,32 +291,32 @@
   "notes": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1330",
     "endTime": "1430",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1330",
     "endTime": "1430",
     "type": "S = Step meeting"
@@ -331,32 +331,32 @@
   "notes": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1330",
     "endTime": "1430",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1330",
     "endTime": "1430",
     "type": "S = Step meeting"
@@ -371,32 +371,32 @@
   "notes": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1330",
     "endTime": "1430",
     "type": "B = Beginners meeting",
     "special": "Living Sober"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1330",
     "endTime": "1430",
     "type": "S = Step meeting"
@@ -411,83 +411,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -502,83 +502,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -593,83 +593,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -684,83 +684,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -775,83 +775,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -866,83 +866,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -957,83 +957,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -1048,83 +1048,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -1139,83 +1139,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -1230,83 +1230,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -1321,83 +1321,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -1412,83 +1412,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -1503,83 +1503,83 @@
   "notes": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "630",
     "endTime": "730",
     "type": "C = Closed Discussion meeting",
     "special": "Topic"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "630",
     "endTime": "730",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "630",
     "endTime": "730",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "730",
     "endTime": "830",
     "type": "S = Step meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "730",
     "endTime": "830",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "730",
     "endTime": "830",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "745",
     "endTime": "845",
     "type": "OD = Open Discussion meeting",
     "special": "Round-Robin Meeting Format"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1730",
     "endTime": "1830",
     "type": "B = Beginners meeting"
@@ -1594,7 +1594,7 @@
   "notes": "Note: Location Subject to change",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1800",
     "endTime": "1900",
     "type": "OD = Open Discussion meeting"
@@ -1609,7 +1609,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1800",
     "endTime": "1900",
     "type": "BB = Big Book meeting"
@@ -1624,32 +1624,32 @@
   "notes": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1315",
     "endTime": "1415",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1315",
     "endTime": "1415",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1315",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
@@ -1664,32 +1664,32 @@
   "notes": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1315",
     "endTime": "1415",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1315",
     "endTime": "1415",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1315",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
@@ -1704,32 +1704,32 @@
   "notes": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1315",
     "endTime": "1415",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1315",
     "endTime": "1415",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1315",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
@@ -1744,32 +1744,32 @@
   "notes": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1315",
     "endTime": "1415",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1315",
     "endTime": "1415",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1315",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
@@ -1784,32 +1784,32 @@
   "notes": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1315",
     "endTime": "1415",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1315",
     "endTime": "1415",
     "type": "C = Closed Discussion meeting",
     "special": "Promises"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1315",
     "endTime": "1415",
     "type": "S = Step meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1315",
     "endTime": "1415",
     "type": "BB = Big Book meeting"
@@ -1824,7 +1824,7 @@
   "notes": "Enter on Church Street Lower floor, Parish Office Room",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2045",
     "type": "OD = Open Discussion meeting"
@@ -1839,7 +1839,7 @@
   "notes": "Mental Health Challenges in Sobriety. *Alternating Closed & rotating 1, 2, 3 Step every other week. Open – Last Wednesday.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1900",
     "endTime": "2000",
     "type": "C = Closed Discussion meeting",
@@ -1855,7 +1855,7 @@
   "notes": "Ask security guard for room #",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1400",
     "endTime": "1515",
     "type": "OD = Open Discussion meeting"
@@ -1870,7 +1870,7 @@
   "notes": "*Co-ed meeting, all are welcome.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1800",
     "endTime": "1900",
     "type": "S = Step meeting"
@@ -1885,32 +1885,32 @@
   "notes": "11th Step Meditation (Mon), Topic (Thu)",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
@@ -1925,32 +1925,32 @@
   "notes": "11th Step Meditation (Mon), Topic (Thu)",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
@@ -1965,32 +1965,32 @@
   "notes": "11th Step Meditation (Mon), Topic (Thu)",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
@@ -2005,32 +2005,32 @@
   "notes": "11th Step Meditation (Mon), Topic (Thu)",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
@@ -2045,32 +2045,32 @@
   "notes": "11th Step Meditation (Mon), Topic (Thu)",
   "day": [
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1215",
     "endTime": "1315",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1215",
     "endTime": "1315",
     "type": "S = Step meeting",
     "special": "Meditation"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1215",
     "endTime": "1315",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1215",
     "endTime": "1315",
     "type": "B = Beginners meeting"
@@ -2085,7 +2085,7 @@
   "notes": "Step 1st Wednesday",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1730",
     "endTime": "1830",
     "type": "OD = Open Discussion meeting"
@@ -2100,26 +2100,26 @@
   "notes": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting",
     "special": "Meditation"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1230",
     "endTime": "1330",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
@@ -2134,26 +2134,26 @@
   "notes": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting",
     "special": "Meditation"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1230",
     "endTime": "1330",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
@@ -2168,26 +2168,26 @@
   "notes": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting",
     "special": "Meditation"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1230",
     "endTime": "1330",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
@@ -2202,26 +2202,26 @@
   "notes": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1100",
     "endTime": "1200",
     "type": "C = Closed Discussion meeting",
     "special": "Meditation"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1230",
     "endTime": "1330",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1830",
     "endTime": "1930",
     "type": "C = Closed Discussion meeting"
@@ -2236,25 +2236,25 @@
   "notes": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "B = Beginners meeting"
@@ -2269,25 +2269,25 @@
   "notes": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "B = Beginners meeting"
@@ -2302,25 +2302,25 @@
   "notes": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "B = Beginners meeting"
@@ -2335,25 +2335,25 @@
   "notes": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com",
   "day": [
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "1930",
     "endTime": "2030",
     "type": "S = Step meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1930",
     "endTime": "2030",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1930",
     "endTime": "2030",
     "type": "BB = Big Book meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "1930",
     "endTime": "2030",
     "type": "B = Beginners meeting"
@@ -2368,13 +2368,13 @@
   "notes": "Monday step - 3rd and 11th step workshop tribecagroup2014@gmail.com",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1945",
     "endTime": "2045",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -2389,13 +2389,13 @@
   "notes": "Monday step - 3rd and 11th step workshop tribecagroup2014@gmail.com",
   "day": [
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1945",
     "endTime": "2045",
     "type": "S = Step meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -2410,7 +2410,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "1315",
     "endTime": "1415",
     "type": "S = Step meeting"
@@ -2425,7 +2425,7 @@
   "notes": "Lesbian, Gay, Bi-sexual & Transgendered Focus All are welcome.",
   "day": [
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2030",
     "endTime": "2130",
     "type": "C = Closed Discussion meeting",
@@ -2441,7 +2441,7 @@
   "notes": "",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1945",
     "endTime": "2045",
     "type": "C = Closed Discussion meeting",
@@ -2457,7 +2457,7 @@
   "notes": "Open Anniv. Last Saturday.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1900",
     "endTime": "2015",
     "type": "B = Beginners meeting",

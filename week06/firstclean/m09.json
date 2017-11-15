@@ -7,7 +7,7 @@
   "notes": "O 2nd, S 3rd, Anniv. 4th & BB 5th Sat.",
   "day": [
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "1615",
     "endTime": "1730",
     "type": "B = Beginners meeting"
@@ -22,7 +22,7 @@
   "notes": "Living Sober 1st Tuesday.",
   "day": [
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "1830",
     "endTime": "1930",
     "type": "B = Beginners meeting",
@@ -38,43 +38,43 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -89,43 +89,43 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -140,43 +140,43 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -191,43 +191,43 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -242,43 +242,43 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -293,43 +293,43 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -344,43 +344,43 @@
   "notes": "Spanish speaking meetings.",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1700",
     "endTime": "1800",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "2000",
     "endTime": "2100",
     "type": "B = Beginners meeting"
    },
    {
-    "day": "Tues",
+    "day": 2,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Wed",
+    "day": 3,
     "startTime": "2000",
     "endTime": "2100",
     "type": "C = Closed Discussion meeting"
    },
    {
-    "day": "Thurs",
+    "day": 4,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Fri",
+    "day": 5,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
    },
    {
-    "day": "Sat",
+    "day": 6,
     "startTime": "2000",
     "endTime": "2100",
     "type": "OD = Open Discussion meeting"
@@ -395,13 +395,13 @@
   "notes": "ID REQUIRED TO ENTER BUILDING",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1300",
     "endTime": "1400",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1300",
     "endTime": "1400",
     "type": "B = Beginners meeting"
@@ -416,13 +416,13 @@
   "notes": "ID REQUIRED TO ENTER BUILDING",
   "day": [
    {
-    "day": "Sun",
+    "day": 7,
     "startTime": "1300",
     "endTime": "1400",
     "type": "T = Tradition meeting"
    },
    {
-    "day": "Mon",
+    "day": 1,
     "startTime": "1300",
     "endTime": "1400",
     "type": "B = Beginners meeting"
