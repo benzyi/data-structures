@@ -18,7 +18,7 @@
             font-size: 100%;
         }
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js?&v=3.exp&signed_in=true"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap&signed_in=true&key=AIzaSyBRImOWx8NXK8p2ppkXM7t5t3TmaYO6ops"></script>
     <script>
         var latNow = 40.736354;
         var longNow = -73.999175;
