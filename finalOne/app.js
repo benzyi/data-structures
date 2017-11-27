@@ -17,8 +17,8 @@ var MongoClient = require('mongodb').MongoClient;
 var url = process.env.ATLAS;
 
 // HTML wrappers for AA data
-var index1 = fs.readFileSync("index1.txt");
-var index3 = fs.readFileSync("index3.txt");
+var index1 = fs.readFileSync("data-structures/finalOne/index1.txt");
+var index3 = fs.readFileSync("data-structures/finalOne/index3.txt");
 
 app.get('/', function(req, res) {
     // Connect to the AWS RDS Postgres database
