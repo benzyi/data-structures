@@ -18,8 +18,9 @@
             font-size: 100%;
         }
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js?key=" + process.env.GMAKEY + "&v=3.exp&signed_in=true"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=" + apiKey + "&v=3.exp&signed_in=true"></script>
     <script>
+        var apiKey = process.env.GMAKEY
         var latNow = 40.736354;
         var longNow = -73.999175;
         //setting center coordinates
