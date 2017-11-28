@@ -73,12 +73,9 @@ app.get('/aa', function(req, res) {
                     ]}
                 ]}
             },
-            { $unwind : "$latLong" },
             // group by meeting group
             { $group : { _id : {
-                latLong : "latLong.lat" + "," + "latLong.long",
-                // lat : "$latLong.lat",
-                // long : "$latLong.long",
+                latLong : "$latLong",
                 meetingName : "$program",
                 meetingAddress1 : "$mainAddress",
                 meetingAddress2 : "$secondAddress",
