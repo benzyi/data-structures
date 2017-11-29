@@ -62,7 +62,7 @@ app.get('/aa', function(req, res) {
     
         collection.aggregate([ // start of aggregation pipeline
             // match by day and time
-            { $unwind : "$day"  },
+            { $unwind : "$day" },
             { $match : 
                 { $or : [
                     { $and: [
@@ -73,6 +73,7 @@ app.get('/aa', function(req, res) {
                     ]}
                 ]}
             },
+            { $unwind : "$day" },
             // group by meeting group
             { $group : { _id : {
                 latLong : "$latLong",
@@ -82,9 +83,9 @@ app.get('/aa', function(req, res) {
                 meetingDetails : "$notes",
                 meetingWheelchair : "$wheelchair",
                 },
-                    meetingDay : { $push : "day.day" },
-                    meetingStartTime : { $push : "day.startTime" }, 
-                    meetingType : { $push : "day.type" }
+                    meetingDay : { $push : "$day.day" },
+                    meetingStartTime : { $push : "$day.startTime" }, 
+                    meetingType : { $push : "$day.type" }
             }
             },
             
