@@ -12,7 +12,7 @@
             // cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','))
             // if i only want the address without the city and  zip
                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','));
-                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2];
+               // contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2];
 
                 contentHolder = contentHolder + '<br>' + 'Note: ' + cont.meetingGroups[i].groupInfo.meetingDetails;
                 
