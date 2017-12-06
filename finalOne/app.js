@@ -50,7 +50,7 @@ app.get('/aa', function(req, res) {
         var today = dateTimeNow.getDay();
         var tomorrow;
         
-        if (today == 6) {today = 0;}
+        if (today == 6) {tomorrow = 0;}
         
         // if (today == 7) {today = 0;} //need to change my data so sunday is 0 instead of 7.. or this
         // else if (today == 6) {tomorrow = 0;} 
@@ -78,6 +78,7 @@ app.get('/aa', function(req, res) {
             { $group : { _id : {
                 latLong : "$latLong",
                 meetingName : "$program",
+                meetingBlgd: "$building",
                 meetingAddress1 : "$mainAddress",
                 meetingAddress2 : "$secondAddress",
                 meetingDetails : "$notes",
