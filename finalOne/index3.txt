@@ -6,13 +6,13 @@
                 '</div>';
             for (var i = 0; i < cont.meetingGroups.length; i++) {
             if (i == 0) {
-                contentHolder = contentHolder + '<h2>' + cont.meetingGroups[i].groupInfo.meetingBldg + '</h2>';
+                contentHolder = contentHolder + '<h2>' + cont.meetingGroups[i].groupInfo.meetingBlgd + '</h2>';
             }  
             
             // cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','))
             // if i only want the address without the city and  zip
                 contentHolder = contentHolder + '<h1 id="firstHeading" class="firstHeading">';
-                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingName + '</h1>' +'<br>';
+                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingName + '</h1>';
                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','));
                 
                 if (cont.meetingGroups[i].groupInfo.meetingAddress2 == '') {
@@ -60,7 +60,7 @@
                         dt = "";
                     }
             
-                contentHolder = contentHolder + '<u>' + 'Upcoming ' + dt + ' meetings:' + '</u>';
+                contentHolder = contentHolder + '<br>' + '<u>' + 'Upcoming ' + dt + ' meetings:' + '</u>' + '<br>';
                 
                 }
                 
