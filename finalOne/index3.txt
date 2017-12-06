@@ -11,16 +11,21 @@
             
             // cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','))
             // if i only want the address without the city and  zip
-                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress1 + '<br>';
-                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + '<br>';
-                contentHolder = contentHolder + '<br>' + 'Note: ' + cont.meetingGroups[i].groupInfo.meetingDetails + '<br>';
+                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(',')) + '<br>';
+                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(2, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','));
+
+                contentHolder = contentHolder + '<br>' + 'Note: ' + cont.meetingGroups[i].groupInfo.meetingDetails;
+                
+                if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
+                    contentHolder = contentHolder + 'N/A';
+                }
                 
                 if (cont.meetingGroups[i].meetingWheelchair == 'true') {
-                    contentHolder = contentHolder + '<br>' + '<img src="https://raw.githubusercontent.com/benzyi/data-structures/1e194ac97b54879920b0c3e6f6a3e20899ce6560/finalOne/wheelchair.png" alt = "Wheelchair Accessible" height="40px" width="40px">'
+                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
                 }
                 
                 contentHolder = contentHolder + '<h1 id="firstHeading" class="firstHeading">';
-                contentHolder = contentHolder + 'Upcoming' + cont.meetingGroups[i].meetingDay + 'Meetings:' + '</h1>';
+                contentHolder = contentHolder + 'Upcoming ' + cont.meetingGroups[i].meetingDay + ' meetings:' + '</h1>';
                 
                 
                 
