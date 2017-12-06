@@ -29,7 +29,7 @@
                     contentHolder = contentHolder + 'N/A';
                 }
                 
-                if (cont.meetingGroups[i].meetingWheelchair = true) {
+                if (cont.meetingGroups[i].groupInfo.meetingWheelchair = 'true') {
                     contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible' + '<br>';
                 }
                 
