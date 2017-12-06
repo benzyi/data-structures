@@ -29,8 +29,8 @@
                     contentHolder = contentHolder + 'N/A';
                 }
                 
-                if (cont.meetingGroups[i].meetingWheelchair = 'true') {
-                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
+                if (cont.meetingGroups[i].meetingWheelchair = true) {
+                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible' + '<br>';
                 }
                 
                 for (var j = 0; j < cont.meetingGroups[i].meetingDay.length; j++) {
