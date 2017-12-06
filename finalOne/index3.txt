@@ -12,7 +12,7 @@
             // cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','))
             // if i only want the address without the city and  zip
                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(',')) + '<br>';
-                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(2, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','));
+                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2]);
 
                 contentHolder = contentHolder + '<br>' + 'Note: ' + cont.meetingGroups[i].groupInfo.meetingDetails;
                 
@@ -24,8 +24,35 @@
                     contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
                 }
                 
+                for (var j = 0; j < cont.meetingGroups[i].meetingDay.length; j++) {
+                    var dt;
+                    if (cont.meetingGroups[i].meetingDay[j] == '0') {
+                        dt = "Sunday ";
+                    }
+                    else if (cont.meetingGroups[i].meetingDay[j] == '1') {
+                        dt = "Monday ";
+                    }
+                    else if (cont.meetingGroups[i].meetingDay[j] == '2') {
+                        dt = "Tuesday ";
+                    }
+                    else if (cont.meetingGroups[i].meetingDay[j] == '3') {
+                        dt = "Wednesday ";
+                    }
+                    else if (cont.meetingGroups[i].meetingDay[j] == '4') {
+                        dt = "Thursday ";
+                    }
+                    else if (cont.meetingGroups[i].meetingDay[j] == '5') {
+                        dt = "Friday ";
+                    }
+                    else if (cont.meetingGroups[i].meetingDay[j] == '6') {
+                        dt = "Saturday ";
+                    }
+                    else {
+                        dt = "";
+                    }
+                
                 contentHolder = contentHolder + '<h1 id="firstHeading" class="firstHeading">';
-                contentHolder = contentHolder + 'Upcoming ' + cont.meetingGroups[i].meetingDay + ' meetings:' + '</h1>';
+                contentHolder = contentHolder + 'Upcoming ' + dt + ' meetings:' + '</h1>';
                 
                 
                 
