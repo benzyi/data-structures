@@ -30,7 +30,7 @@
                 }
                 
                 if (cont.meetingGroups[i].groupInfo.meetingWheelchair == 'true') {
-                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible' + '<br>';
+                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
                 }
                 
                 for (var j = 0; j < cont.meetingGroups[i].meetingDay.length; j++) {
@@ -60,7 +60,7 @@
                         dt = "";
                     }
             
-                contentHolder = contentHolder + '<br>' + '<u>' + 'Upcoming ' + dt + ' meetings:' + '</u>' + '<br>';
+                contentHolder = contentHolder + '<br>' + '<br>' + '<u>' + 'Upcoming ' + dt + ' meetings' + '</u>' + ':' + '<br>';
                 
                 }
                 
