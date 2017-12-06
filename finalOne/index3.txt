@@ -19,7 +19,7 @@
                 
                 else {
                 
-               contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
+               contentHolder = contentHolder + ', ' + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
                 }
                 contentHolder = contentHolder + '<br>' + 'Note: ' + cont.meetingGroups[i].groupInfo.meetingDetails;
                 
