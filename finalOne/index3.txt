@@ -12,15 +12,22 @@
             // cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','))
             // if i only want the address without the city and  zip
                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','));
-               contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2];
-
+                
+                if (cont.meetingGroups[i].groupInfo.meetingAddress2 == '') {
+                    contentHolder = contentHolder + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
+                }
+                
+                else {
+                
+               contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
+                }
                 contentHolder = contentHolder + '<br>' + 'Note: ' + cont.meetingGroups[i].groupInfo.meetingDetails;
                 
                 if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
                     contentHolder = contentHolder + 'N/A';
                 }
                 
-                if (cont.meetingGroups[i].meetingWheelchair == 'true') {
+                if (cont.meetingGroups[i].meetingWheelchair = 'true') {
                     contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
                 }
                 
