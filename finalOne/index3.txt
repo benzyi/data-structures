@@ -16,24 +16,27 @@
                 contentHolder = contentHolder + '<p3>' + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(',')) + '</p3>';
                 
                 if (cont.meetingGroups[i].groupInfo.meetingAddress2 == '') {
-                    contentHolder = contentHolder + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
+                    contentHolder = contentHolder + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2];
                 }
                 
                 else {
                 
                contentHolder = contentHolder + ', ' + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
                 }
-                contentHolder = contentHolder + '<br>' + 'Note:' + '<br>' + '<note>' + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>';
+                contentHolder = contentHolder + '<n1> + 'Note:' + '</n1>';
+                contentHolder = contentHolder + '<div id="note" class="note">';
+                 contentHolder = contentHolder '<note>' + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</div>';
                 
                 if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
                     contentHolder = contentHolder + 'N/A';
                 }
                 
                 if (cont.meetingGroups[i].groupInfo.meetingWheelchair == true) {
-                    contentHolder = contentHolder + '<br>' + 'Wheelchair Accessible';
+                    contentHolder = contentHolder + '<div id="wheel" class="wheel">';
+                    contentHolder = contentHolder + '<wheel>' + 'Wheelchair Accessible' + '</wheel>' + '</div>';
                 }
                 
-                contentHolder = contentHolder + '<div id="mtg" class="mtg">';
+                
                 contentHolder = contentHolder + '<br>' + '<p1>' + 'Upcoming meetings:' + '</p1>' + '<br>';
             
                 //    var dt;
@@ -64,7 +67,7 @@
             
                 // contentHolder = contentHolder + '<br>' + '<br>' + 'What meetings are coming up on ' + dt + '?';
                 
-                
+                contentHolder = contentHolder + '<div id="mtg" class="mtg">';
                 
                 for (var j = 0; j < cont.meetingGroups[i].meetingType.length; j++) {
                     var mt, si;

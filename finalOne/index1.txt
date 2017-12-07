@@ -19,8 +19,15 @@
         }
         
         #mtg {
-            background-color: #F0DBDB;
-            padding: 5px;
+            background-color: ##CBFECC;
+        }
+        
+        #wheel {
+            background-color: #CBF2FE;
+        }
+        
+        #note {
+            background-color: ##FECBCB;
         }
         
         p1 {
@@ -38,12 +45,17 @@
         }
         
         note {
-            font-size: 75%;
-            line-height: 12px
+            font-size: 85%;
+            line-height: 10px
         }
         
         wheel {
             line-height: 32px;
+        }
+        
+        n1 {
+            line-height: 22px;
+            font-weight: 200;
         }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRImOWx8NXK8p2ppkXM7t5t3TmaYO6ops"></script>
