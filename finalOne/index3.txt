@@ -28,12 +28,13 @@
                  contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</br>';
                 
                 if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
-                    contentHolder = contentHolder + 'N/A';
+                    contentHolder = contentHolder + '<note id="note" class="note">';
+                    contentHolder = contentHolder + 'N/A' + '</note>' + '<br>';
                 }
                 
                 if (cont.meetingGroups[i].groupInfo.meetingWheelchair == true) {
                     contentHolder = contentHolder + '<wheel id="wheel" class="wheel">';
-                    contentHolder = contentHolder + 'Wheelchair Accessible' + '</wheel>';
+                    contentHolder = contentHolder + 'Wheelchair Accessible' + '</wheel>' + '<br>';
                 }
                 
                 
