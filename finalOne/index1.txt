@@ -20,19 +20,17 @@
         
         #mtg {
             background-color: #F0DBDB;
-            padding: 10px;
+            padding: 5px;
         }
         
         p1 {
             line-height: 22px;
             font-weight: 400;
-            background-color: snow;
         }
         
         p2 {
             line-height: 16px;
             font-weight: 300;
-            background-color: snow;
         }
         
         p3 {

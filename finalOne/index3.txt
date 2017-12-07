@@ -93,10 +93,10 @@
                         mt = "";
                     }
 
-                    contentHolder = contentHolder + '<p2>' + cont.meetingGroups[i].meetingStartTime[j] + '</p2>' + ' &nbsp;&nbsp; ' + mt + '<br>' + '</div>';
+                    contentHolder = contentHolder + '<p2>' + cont.meetingGroups[i].meetingStartTime[j] + '</p2>' + ' &nbsp;&nbsp; ' + mt + '<br>';
                 }
             
-                contentHolder = contentHolder + '</p>';
+                contentHolder = contentHolder + '</p>' + '</div>';
                 contentHolder = contentHolder + '<div class="iw-bottom-gradient"></div>';
             }
             return contentHolder;
