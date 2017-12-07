@@ -96,13 +96,13 @@
                     cont.meetingGroups[i].groupInfo.meetingDetails = 'N/A';
                 }
                 
-                contentHolder = contentHolder + '<br>' + '<p1>' + 'Note:' + '</p1>' + '<br>';
+                contentHolder = contentHolder + '</div>' + '<br>' + '<p1>' + 'Note:' + '</p1>' + '<br>';
                 contentHolder = contentHolder + '<note id="note" class="note">';
-                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</hr>';
+                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '<hr>';
                 
                 
                 
-                contentHolder = contentHolder + '</p>' + '</div>';
+                contentHolder = contentHolder + '</p>';
                 contentHolder = contentHolder + '<div class="iw-bottom-gradient"></div>';
             }
             return contentHolder;
