@@ -18,6 +18,11 @@
             font-size: 100%;
         }
         
+        #mtg {
+            background-color: #F0DBDB;
+            padding: 10px;
+        }
+        
         p1 {
             line-height: 22px;
             font-weight: 400;
@@ -40,7 +45,7 @@
         }
         
         wheel {
-            line-height: 26px;
+            line-height: 32px;
         }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRImOWx8NXK8p2ppkXM7t5t3TmaYO6ops"></script>
