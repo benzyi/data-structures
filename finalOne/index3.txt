@@ -23,7 +23,7 @@
                 
                contentHolder = contentHolder + ', ' + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
                 }
-                contentHolder = contentHolder + '<n1> + 'Note:' + '</n1>';
+                contentHolder = contentHolder + '<n1>' + 'Note:' + '</n1>';
                 contentHolder = contentHolder + '<div id="note" class="note">';
                  contentHolder = contentHolder '<note>' + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</div>';
                 
