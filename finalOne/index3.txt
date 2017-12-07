@@ -25,7 +25,7 @@
                 }
                 contentHolder = contentHolder + '<br>' + '<n1>' + 'Note:' + '</n1>';
                 contentHolder = contentHolder + '<note id="note" class="note">';
-                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>';
+                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</br>';
                 
                 if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
                     contentHolder = contentHolder + 'N/A';

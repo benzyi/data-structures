@@ -19,7 +19,7 @@
         }
         
         #mtg {
-            background-color: ##CBFECC;
+            background-color: #CBFECC;
         }
         
         #wheel {
@@ -27,7 +27,7 @@
         }
         
         #note {
-            background-color: ##FECBCB;
+            background-color: #FECBCB;
         }
         
         p1 {
