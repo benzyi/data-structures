@@ -33,34 +33,35 @@
                     contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
                 }
                 
-            for (var k = 0; k < cont.meetingGroups[i].meetingDay.length; k++) {
-                    var dt;
-                    if (cont.meetingGroups[i].meetingDay[k] == '0') {
-                        dt = "Sunday ";
-                    }
-                    else if (cont.meetingGroups[i].meetingDay[k] == '1') {
-                        dt = "Monday ";
-                    }
-                    else if (cont.meetingGroups[i].meetingDay[k] == '2') {
-                        dt = "Tuesday ";
-                    }
-                    else if (cont.meetingGroups[i].meetingDay[k] == '3') {
-                        dt = "Wednesday ";
-                    }
-                    else if (cont.meetingGroups[i].meetingDay[k] == '4') {
-                        dt = "Thursday ";
-                    }
-                    else if (cont.meetingGroups[i].meetingDay[k] == '5') {
-                        dt = "Friday ";
-                    }
-                    else if (cont.meetingGroups[i].meetingDay[k] == '6') {
-                        dt = "Saturday ";
-                    }
-                    else {
-                        dt = "";
-                    }
+                contentHolder = contentHolder + '<br>' + '<br>' + 'Upcoming meetings today:' + '<br>';
             
-                
+                //    var dt;
+                //    if (cont.meetingGroups[i].meetingDay == '0') {
+                //        dt = "Sunday ";
+                //    }
+                //    else if (cont.meetingGroups[i].meetingDay == '1') {
+                //        dt = "Monday ";
+                //    }
+                //    else if (cont.meetingGroups[i].meetingDay == '2') {
+                //        dt = "Tuesday ";
+                //    }
+                //    else if (cont.meetingGroups[i].meetingDay == '3') {
+                //        dt = "Wednesday ";
+                //    }
+                //    else if (cont.meetingGroups[i].meetingDay == '4') {
+                //        dt = "Thursday ";
+                //    }
+                //    else if (cont.meetingGroups[i].meetingDay == '5') {
+                //        dt = "Friday ";
+                //    }
+                //    else if (cont.meetingGroups[i].meetingDay == '6') {
+                //        dt = "Saturday ";
+                //    }
+                //    else {
+                //        dt = "";
+                //    }
+            
+                // contentHolder = contentHolder + '<br>' + '<br>' + 'What meetings are coming up on ' + dt + '?';
                 
                 
                 
@@ -91,9 +92,9 @@
                         mt = "";
                     }
 
-                    contentHolder = contentHolder + dt + ': ' + '<i>' + cont.meetingGroups[i].meetingStartTime[j] + '</i>' + ' ' + mt + '<br>';
+                    contentHolder = contentHolder + '<i>' + cont.meetingGroups[i].meetingStartTime[j] + '</i>' + ' ' + mt + '<br>';
                 }
-            }
+            
                 contentHolder = contentHolder + '</p>';
                 contentHolder = contentHolder + '<div class="iw-bottom-gradient"></div>';
             }
