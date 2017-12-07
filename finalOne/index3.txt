@@ -33,36 +33,35 @@
                     contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
                 }
                 
-                for (var j = 0; j < cont.meetingGroups[i].meetingDay.length; j++) {
+            for (var k = 0; k < cont.meetingGroups[i].meetingDay.length; k++) {
                     var dt;
-                    if (cont.meetingGroups[i].meetingDay[j] == '0') {
+                    if (cont.meetingGroups[i].meetingDay[k] == '0') {
                         dt = "Sunday ";
                     }
-                    else if (cont.meetingGroups[i].meetingDay[j] == '1') {
+                    else if (cont.meetingGroups[i].meetingDay[k] == '1') {
                         dt = "Monday ";
                     }
-                    else if (cont.meetingGroups[i].meetingDay[j] == '2') {
+                    else if (cont.meetingGroups[i].meetingDay[k] == '2') {
                         dt = "Tuesday ";
                     }
-                    else if (cont.meetingGroups[i].meetingDay[j] == '3') {
+                    else if (cont.meetingGroups[i].meetingDay[k] == '3') {
                         dt = "Wednesday ";
                     }
-                    else if (cont.meetingGroups[i].meetingDay[j] == '4') {
+                    else if (cont.meetingGroups[i].meetingDay[k] == '4') {
                         dt = "Thursday ";
                     }
-                    else if (cont.meetingGroups[i].meetingDay[j] == '5') {
+                    else if (cont.meetingGroups[i].meetingDay[k] == '5') {
                         dt = "Friday ";
                     }
-                    else if (cont.meetingGroups[i].meetingDay[j] == '6') {
+                    else if (cont.meetingGroups[i].meetingDay[k] == '6') {
                         dt = "Saturday ";
                     }
                     else {
                         dt = "";
                     }
             
-                contentHolder = contentHolder + '<br>' + '<br>' + '<u>' + 'Upcoming ' + dt + ' meetings' + '</u>' + ':' + '<br>';
                 
-                }
+                
                 
                 
                 for (var j = 0; j < cont.meetingGroups[i].meetingType.length; j++) {
@@ -92,8 +91,9 @@
                         mt = "";
                     }
 
-                    contentHolder = contentHolder + '<i>' + cont.meetingGroups[i].meetingStartTime[j] + '</i>' + ' ' + mt + '<br>';
+                    contentHolder = contentHolder + dt + ': ' + '<i>' + cont.meetingGroups[i].meetingStartTime[j] + '</i>' + ' ' + mt + '<br>';
                 }
+            }
                 contentHolder = contentHolder + '</p>';
                 contentHolder = contentHolder + '<div class="iw-bottom-gradient"></div>';
             }
