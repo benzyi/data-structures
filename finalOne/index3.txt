@@ -16,28 +16,28 @@
                 contentHolder = contentHolder + '<p3>' + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(',')) + '</p3>';
                 
                 if (cont.meetingGroups[i].groupInfo.meetingAddress2 == '') {
-                    contentHolder = contentHolder + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2];
+                    contentHolder = contentHolder + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
                 }
                 
                 else {
                 
                contentHolder = contentHolder + ', ' + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
                 }
-                contentHolder = contentHolder + '<n1>' + 'Note:' + '</n1>';
-                contentHolder = contentHolder + '<div id="note" class="note">';
-                 contentHolder = contentHolder + '<note>' + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</div>';
+                contentHolder = contentHolder + '<br>' + '<n1>' + 'Note:' + '</n1>;
+                contentHolder = contentHolder + '<note id="note" class="note">';
+                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>';
                 
                 if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
                     contentHolder = contentHolder + 'N/A';
                 }
                 
                 if (cont.meetingGroups[i].groupInfo.meetingWheelchair == true) {
-                    contentHolder = contentHolder + '<div id="wheel" class="wheel">';
-                    contentHolder = contentHolder + '<wheel>' + 'Wheelchair Accessible' + '</wheel>' + '</div>';
+                    contentHolder = contentHolder + '<wheel id="wheel" class="wheel">';
+                    contentHolder = contentHolder + 'Wheelchair Accessible' + '</wheel>';
                 }
                 
-                
-                contentHolder = contentHolder + '<br>' + '<p1>' + 'Upcoming meetings:' + '</p1>' + '<br>';
+                contentHolder = contentHolder + '<div id="mtg" class="mtg">';
+                contentHolder = contentHolder + '<p1>' + 'Upcoming meetings today:' + '</p1>' + '<br>';
             
                 //    var dt;
                 //    if (cont.meetingGroups[i].meetingDay == '0') {
@@ -67,7 +67,6 @@
             
                 // contentHolder = contentHolder + '<br>' + '<br>' + 'What meetings are coming up on ' + dt + '?';
                 
-                contentHolder = contentHolder + '<div id="mtg" class="mtg">';
                 
                 for (var j = 0; j < cont.meetingGroups[i].meetingType.length; j++) {
                     var mt, si;
