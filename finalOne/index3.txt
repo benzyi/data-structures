@@ -33,7 +33,7 @@
                     contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
                 }
                 
-                contentHolder = contentHolder + '<br>' + '<br>' + 'Upcoming meetings today:' + '<br>';
+                contentHolder = contentHolder + '<br>' + '<hr>' + '<br>' + 'Upcoming meetings:' + '<br>';
             
                 //    var dt;
                 //    if (cont.meetingGroups[i].meetingDay == '0') {
