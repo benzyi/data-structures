@@ -33,6 +33,7 @@
                     contentHolder = contentHolder + '<br>' + 'Wheelchair Accessible';
                 }
                 
+                contentHolder = contentHolder + '<div id="mtg" class="mtg">';
                 contentHolder = contentHolder + '<br>' + '<p1>' + 'Upcoming meetings:' + '</p1>' + '<br>';
             
                 //    var dt;
@@ -92,7 +93,7 @@
                         mt = "";
                     }
 
-                    contentHolder = contentHolder + '<p2>' + cont.meetingGroups[i].meetingStartTime[j] + '</p2>' + ' &nbsp;&nbsp; ' + mt + '<br>';
+                    contentHolder = contentHolder + '<p2>' + cont.meetingGroups[i].meetingStartTime[j] + '</p2>' + ' &nbsp;&nbsp; ' + mt + '<br>' + '</div>';
                 }
             
                 contentHolder = contentHolder + '</p>';
