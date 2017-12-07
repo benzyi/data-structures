@@ -23,14 +23,6 @@
                 
                contentHolder = contentHolder + ', ' + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
                 }
-                contentHolder = contentHolder + '<br>' + '<p1>' + 'Note:' + '</p1>' + '<br>';
-                contentHolder = contentHolder + '<note id="note" class="note">';
-                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</br>';
-                
-                if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
-                    contentHolder = contentHolder + '<note id="note" class="note">';
-                    contentHolder = contentHolder + 'N/A' + '</note>' + '<br>';
-                }
                 
                 if (cont.meetingGroups[i].groupInfo.meetingWheelchair == true) {
                     contentHolder = contentHolder + '<wheel id="wheel" class="wheel">';
@@ -99,7 +91,17 @@
 
                     contentHolder = contentHolder + '<p2>' + cont.meetingGroups[i].meetingStartTime[j] + '</p2>' + ' &nbsp;&nbsp; ' + mt + '<br>';
                 }
-            
+                
+                if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
+                    cont.meetingGroups[i].groupInfo.meetingDetails = 'N/A';
+                }
+                
+                contentHolder = contentHolder + '<br>' + '<p1>' + 'Note:' + '</p1>' + '<br>';
+                contentHolder = contentHolder + '<note id="note" class="note">';
+                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</hr>';
+                
+                
+                
                 contentHolder = contentHolder + '</p>' + '</div>';
                 contentHolder = contentHolder + '<div class="iw-bottom-gradient"></div>';
             }
