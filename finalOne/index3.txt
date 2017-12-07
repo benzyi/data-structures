@@ -30,7 +30,7 @@
                 }
                 
                 if (cont.meetingGroups[i].groupInfo.meetingWheelchair == true) {
-                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
+                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible' + '<br>';
                 }
                 
                 contentHolder = contentHolder + '<br>' + '<p1>' + 'Upcoming meetings:' + '</p1>' + '<br>';
