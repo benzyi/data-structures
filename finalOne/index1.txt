@@ -20,14 +20,20 @@
         
         #mtg {
             background-color: #CBFECC;
+            width: 100%;
+            padding: 3px;
         }
         
         #wheel {
             background-color: #CBF2FE;
+            width: 100%;
+            padding: 3px;
         }
         
         #note {
             background-color: #FECBCB;
+            width: 100%;
+            padding: 3px;
         }
         
         p1 {
@@ -41,7 +47,7 @@
         }
         
         p3 {
-            line-height: 22px;
+            line-height: 16px;
         }
         
         note {

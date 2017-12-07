@@ -23,7 +23,7 @@
                 
                contentHolder = contentHolder + ', ' + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
                 }
-                contentHolder = contentHolder + '<br>' + '<n1>' + 'Note:' + '</n1>';
+                contentHolder = contentHolder + '<br>' + '<p1>' + 'Note:' + '</p1>' + '<br>';
                 contentHolder = contentHolder + '<note id="note" class="note">';
                  contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '</br>';
                 
@@ -36,7 +36,7 @@
                     contentHolder = contentHolder + 'Wheelchair Accessible' + '</wheel>';
                 }
                 
-                contentHolder = contentHolder + '<div id="mtg" class="mtg">';
+                
                 contentHolder = contentHolder + '<p1>' + 'Upcoming meetings today:' + '</p1>' + '<br>';
             
                 //    var dt;
@@ -67,6 +67,7 @@
             
                 // contentHolder = contentHolder + '<br>' + '<br>' + 'What meetings are coming up on ' + dt + '?';
                 
+                contentHolder = contentHolder + '<div id="mtg" class="mtg">';
                 
                 for (var j = 0; j < cont.meetingGroups[i].meetingType.length; j++) {
                     var mt, si;
