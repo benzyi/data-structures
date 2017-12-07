@@ -30,10 +30,10 @@
                 }
                 
                 if (cont.meetingGroups[i].groupInfo.meetingWheelchair == 'true') {
-                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
+                    contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible' + '<img url="https://github.com/benzyi/data-structures/blob/master/finalOne/wheelchair.png" height = "40px" width = "40px">';
                 }
                 
-                contentHolder = contentHolder + '<br>' + '<hr>' + '<br>' + 'Upcoming meetings:' + '<br>';
+                contentHolder = contentHolder + '<br>' + 'Upcoming meetings:' + '<hr>';
             
                 //    var dt;
                 //    if (cont.meetingGroups[i].meetingDay == '0') {
