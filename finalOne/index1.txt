@@ -21,11 +21,13 @@
         p1 {
             line-height: 22px;
             font-weight: 400;
+            background-color: snow;
         }
         
         p2 {
             line-height: 16px;
             font-weight: 300;
+            background-color: snow;
         }
         
         p3 {
@@ -33,7 +35,12 @@
         }
         
         note {
-            font-size: 50%;
+            font-size: 75%;
+            line-height: 12px
+        }
+        
+        wheel {
+            line-height: 26px;
         }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRImOWx8NXK8p2ppkXM7t5t3TmaYO6ops"></script>
