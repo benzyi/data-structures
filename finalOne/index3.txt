@@ -96,7 +96,7 @@
                     cont.meetingGroups[i].groupInfo.meetingDetails = 'N/A';
                 }
                 
-                contentHolder = contentHolder + '</div>' + '<br>' + '<p1>' + 'Note:' + '</p1>' + '<br>';
+                contentHolder = contentHolder + '</div>' + '<p1>' + 'Note:' + '</p1>' + '<br>';
                 contentHolder = contentHolder + '<note id="note" class="note">';
                  contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>' + '<hr>';
                 
