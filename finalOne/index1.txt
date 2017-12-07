@@ -29,8 +29,8 @@
         }
         
         #note {
-            background-color: #FECBCB;
             padding: 3px;
+            margin-bottom: 5px;
         }
         
         p1 {
