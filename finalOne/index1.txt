@@ -17,6 +17,11 @@
         #firstHeading {
             font-size: 100%;
         }
+        
+        p1 {
+            line-height: 22px;
+            font-weight: 400
+        }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRImOWx8NXK8p2ppkXM7t5t3TmaYO6ops"></script>
     <script>
