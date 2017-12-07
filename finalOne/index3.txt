@@ -13,7 +13,7 @@
             // if i only want the address without the city and  zip
                 contentHolder = contentHolder + '<h1 id="firstHeading" class="firstHeading">';
                 contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingName + '</h1>';
-                contentHolder = contentHolder + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(','));
+                contentHolder = contentHolder + '<p3>' + cont.meetingGroups[i].groupInfo.meetingAddress1.substr(0, cont.meetingGroups[i].groupInfo.meetingAddress1.indexOf(',')) + '</p3>';
                 
                 if (cont.meetingGroups[i].groupInfo.meetingAddress2 == '') {
                     contentHolder = contentHolder + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
@@ -23,13 +23,13 @@
                 
                contentHolder = contentHolder + ', ' + cont.meetingGroups[i].groupInfo.meetingAddress2 + ', ' + 'New York, ' + cont.meetingGroups[i].groupInfo.meetingAddress1.split(',')[2] + '<br>';
                 }
-                contentHolder = contentHolder + '<br>' + 'Note: ' + cont.meetingGroups[i].groupInfo.meetingDetails;
+                contentHolder = contentHolder + '<br>' + 'Note:' + '<br>' + '<note>' + cont.meetingGroups[i].groupInfo.meetingDetails + '</note>';
                 
                 if (cont.meetingGroups[i].groupInfo.meetingDetails == '') {
                     contentHolder = contentHolder + 'N/A';
                 }
                 
-                if (cont.meetingGroups[i].groupInfo.meetingWheelchair == 'true') {
+                if (cont.meetingGroups[i].groupInfo.meetingWheelchair == true) {
                     contentHolder = contentHolder + '<br>' + '<br>' + 'Wheelchair Accessible';
                 }
                 
@@ -92,7 +92,7 @@
                         mt = "";
                     }
 
-                    contentHolder = contentHolder + '<i>' + cont.meetingGroups[i].meetingStartTime[j] + '</i>' + '  ' + mt + '<br>';
+                    contentHolder = contentHolder + '<p2>' + cont.meetingGroups[i].meetingStartTime[j] + '</p2>' + ' &nbsp;&nbsp; ' + mt + '<br>';
                 }
             
                 contentHolder = contentHolder + '</p>';

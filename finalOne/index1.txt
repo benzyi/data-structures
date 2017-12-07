@@ -20,7 +20,20 @@
         
         p1 {
             line-height: 22px;
-            font-weight: 400
+            font-weight: 400;
+        }
+        
+        p2 {
+            line-height: 16px;
+            font-weight: 300;
+        }
+        
+        p3 {
+            line-height: 22px;
+        }
+        
+        note {
+            font-size: 50%;
         }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRImOWx8NXK8p2ppkXM7t5t3TmaYO6ops"></script>
