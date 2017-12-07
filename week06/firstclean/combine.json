@@ -1,6 +1,6 @@
 [
  {
-  "address": "20 Cardinal Hayes Place, Rectory Basement, New York, NY",
+  "address": "20 Cardinal Hayes Place, New York, NY",
   "secondAddress": " Rectory Basement",
   "building": "St Andrews Church",
   "program": "A DESIGN FOR LIVING",
@@ -30,7 +30,7 @@
   ]
  },
  {
-  "address": "20 Cardinal Hayes Place, Enter through driveway behind Church., New York, NY",
+  "address": "20 Cardinal Hayes Place, New York, NY",
   "secondAddress": " Enter through driveway behind Church.",
   "building": "St. Andrew's Church",
   "program": "CHAMBERS STREET",
@@ -80,7 +80,7 @@
   ]
  },
  {
-  "address": "29 Mott Street, Basement, New York, NY",
+  "address": "29 Mott Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Church of the Transfiguration",
   "program": "CHINATOWN",
@@ -100,7 +100,7 @@
   ]
  },
  {
-  "address": "49 Fulton Street, 1st Floor Library, New York, NY",
+  "address": "49 Fulton Street, New York, NY",
   "secondAddress": " 1st Floor Library",
   "building": "St. Margaret's Residence",
   "program": "DOWNTOWN",
@@ -325,7 +325,7 @@
   ]
  },
  {
-  "address": "20 Cardinal Hayes Place, Enter thru driveway behind Church., New York, NY",
+  "address": "20 Cardinal Hayes Place, New York, NY",
   "secondAddress": " Enter thru driveway behind Church.",
   "building": "St. Andrew's Church",
   "program": "FRIDAY DOWNTOWN",
@@ -365,7 +365,7 @@
   ]
  },
  {
-  "address": "20 Cardinal Hayes Place, Enter thru driveway behind Church., New York, NY",
+  "address": "20 Cardinal Hayes Place, New York, NY",
   "secondAddress": " Enter thru driveway behind Church.",
   "building": "St. Andrew's Church",
   "program": "PASSING THE BAR",
@@ -426,8 +426,8 @@
   ]
  },
  {
-  "address": "22 Barclay Street (Basement), New York, NY",
-  "secondAddress": "",
+  "address": "22 Barclay Street, New York, NY",
+  "secondAddress": "Basement",
   "building": "Saint Peter's Church",
   "program": "S.O.B.E.R.",
   "wheelchair": false,
@@ -487,7 +487,7 @@
   ]
  },
  {
-  "address": "49 Fulton Street, Conference Room #1, New York, NY",
+  "address": "49 Fulton Street, New York, NY",
   "secondAddress": " Conference Room #1",
   "building": "St. Margaret's House",
   "program": "SEAMEN'S GROUP",
@@ -568,8 +568,8 @@
   ]
  },
  {
-  "address": "20 Cardinal Hayes Place, \n\t\t\t\t\t\t10007 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10007 New York",
+  "address": "20 Cardinal Hayes Place, New York, NY",
+  "secondAddress": "",
   "building": "Church of Saint Andrew",
   "program": "TOWER",
   "wheelchair": false,
@@ -689,8 +689,8 @@
   ]
  },
  {
-  "address": "22 Barclay Street- basement chapel, New York, NY",
-  "secondAddress": "",
+  "address": "22 Barclay Street, New York, NY",
+  "secondAddress": "basement chapel",
   "building": "St. Peter's Church",
   "program": "TRIBECA GROUP @ ST. PETER'S CHURCH",
   "wheelchair": false,
@@ -739,8 +739,8 @@
   ]
  },
  {
-  "address": "283 West Broadway, \n\t\t\t\t\t\t10013 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10013 New York",
+  "address": "283 West Broadway, New York, NY",
+  "secondAddress": "",
   "building": "Hazelden Center",
   "program": "YOUNG PEOPLE'S DIVERSITY",
   "wheelchair": false,
@@ -800,9 +800,10 @@
     "special": "Young People"
    }
   ]
- },
+ }
+][
  {
-  "address": "273 Bowery, Downstairs, New York, NY",
+  "address": "273 Bowery, New York, NY",
   "secondAddress": " Downstairs",
   "building": "University Settlement",
   "program": "A.A. ON THE BOWERY",
@@ -882,7 +883,7 @@
   ]
  },
  {
-  "address": "220 West Houston Street, 2nd Floor, New York, NY",
+  "address": "220 West Houston Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "",
   "program": "BAGELS AND BIG BOOK",
@@ -902,7 +903,7 @@
   ]
  },
  {
-  "address": "253 Center Street, 3rd Floor, New York, NY",
+  "address": "253 Center Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "Golden Bridge Yoga Center",
   "program": "CENTER MEETING",
@@ -944,7 +945,7 @@
   ]
  },
  {
-  "address": "487 Hudson Street, Basement, New York, NY",
+  "address": "487 Hudson Street, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Luke's Episcopal School",
   "program": "GREENWICH VILLAGE",
@@ -1005,7 +1006,7 @@
   ]
  },
  {
-  "address": "292 Henry Street, Basement, New York, NY",
+  "address": "292 Henry Street, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Augustine's Church",
   "program": "GRUPO CENTRAL",
@@ -1074,7 +1075,7 @@
   ]
  },
  {
-  "address": "141 Henry Street, 1st Floor, New York, NY",
+  "address": "141 Henry Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "Church of Saint Theresa Rectory",
   "program": "LOWER EAST SIDE",
@@ -1094,7 +1095,7 @@
   ]
  },
  {
-  "address": "220 West Houston Street, 2nd Floor, New York, NY",
+  "address": "220 West Houston Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "",
   "program": "MIDNITE",
@@ -1593,8 +1594,8 @@
   ]
  },
  {
-  "address": "83 Christopher Street (Red Door, Left of Church), New York, NY",
-  "secondAddress": " Left of Church)",
+  "address": "83 Christopher Street, New York, NY",
+  "secondAddress": " Red Door Left of Church",
   "building": "St. John's Lutheran Church",
   "program": "NEW GROUP",
   "wheelchair": false,
@@ -1636,7 +1637,7 @@
   ]
  },
  {
-  "address": "50 Perry Street, Ground Floor, New York, NY",
+  "address": "50 Perry Street, New York, NY",
   "secondAddress": " Ground Floor",
   "building": "",
   "program": "PERRY STREET WORKSHOP",
@@ -2258,8 +2259,8 @@
   ]
  },
  {
-  "address": "224 Waverly Place, 1st floor event room., New York, NY",
-  "secondAddress": " 1st floor event room.",
+  "address": "224 Waverly Place, New York, NY",
+  "secondAddress": "1st floor event room",
   "building": "St. John's Episcopal Church",
   "program": "RED DOOR",
   "wheelchair": false,
@@ -2384,8 +2385,8 @@
   ]
  },
  {
-  "address": "273 Bowery Street, \n\t\t\t\t\t\t10012 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10012 New York",
+  "address": "273 Bowery Street, New York, NY",
+  "secondAddress": "",
   "building": "Chinatown YMCA",
   "program": "ROOM FOR IMPROVEMENT     (:II)",
   "wheelchair": true,
@@ -2414,7 +2415,7 @@
   ]
  },
  {
-  "address": "371 6th Avenue,  Basement, New York, NY",
+  "address": "371 6th Avenue, New York, NY",
   "secondAddress": "  Basement",
   "building": "St. Joseph's Church",
   "program": "SHERIDAN SQUARE FOLLIES",
@@ -2435,7 +2436,7 @@
   ]
  },
  {
-  "address": "155 Sullivan Street, Basement, New York, NY",
+  "address": "155 Sullivan Street, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Anthony of Padua Church",
   "program": "SOHO    (:I)",
@@ -2507,7 +2508,7 @@
   ]
  },
  {
-  "address": "232 West 11th Street, Basement, New York, NY",
+  "address": "232 West 11th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Seventh Adventist Church",
   "program": "T&A-TOGETHERNESS & ACTION",
@@ -2547,7 +2548,7 @@
   ]
  },
  {
-  "address": "273 Bowery, Downstairs, New York, NY",
+  "address": "273 Bowery, New York, NY",
   "secondAddress": " Downstairs",
   "building": "University Settlement (The Chinatown YMCA)",
   "program": "THE CAPTAIN'S TABLE",
@@ -2608,7 +2609,7 @@
   ]
  },
  {
-  "address": "83 Christopher Street,  Basement, New York, NY",
+  "address": "83 Christopher Street, New York, NY",
   "secondAddress": "  Basement",
   "building": "St. John's Lutheran Church",
   "program": "WEST VILLAGE WOMEN",
@@ -2629,7 +2630,7 @@
   ]
  },
  {
-  "address": "220 West Houston Street, 2nd Floor, New York, NY",
+  "address": "220 West Houston Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "",
   "program": "WOMEN INTO ACTION",
@@ -2650,7 +2651,7 @@
   ]
  },
  {
-  "address": "273 Bowery, Classroom Floor, New York, NY",
+  "address": "273 Bowery, New York, NY",
   "secondAddress": " Classroom Floor",
   "building": "University Settlement @ Houston Street Center",
   "program": "WOMEN TOGETHER      (:II)",
@@ -2669,9 +2670,10 @@
     "special": "Lesbian"
    }
   ]
- },
+ }
+][
  {
-  "address": "7 East 10th Street, 2nd Floor, \n\t\t\t\t\t\t10003 New York, NY",
+  "address": "7 East 10th Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "N.Y.U Bronfman Center",
   "program": "12 CONCEPTS WORKSHOP",
@@ -2691,7 +2693,7 @@
   ]
  },
  {
-  "address": "155 East 22nd Street, Basement, New York, NY",
+  "address": "155 East 22nd Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Gustavus Adolphus Church",
   "program": "22 BELOW",
@@ -2752,7 +2754,7 @@
   ]
  },
  {
-  "address": "61 Fourth Avenue, 3rd Floor, New York, NY",
+  "address": "61 Fourth Avenue, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "Three Jewels Community Center",
   "program": "AA AT THE THREE JEWELS",
@@ -2782,7 +2784,7 @@
   ]
  },
  {
-  "address": "208 West 13th Street, 3rd Floor, Room #312, New York, NY",
+  "address": "208 West 13th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
   "program": "AGNOSTICS AT NOON",
@@ -2803,7 +2805,7 @@
   ]
  },
  {
-  "address": "123 East 15th Street,  2nd Floor Conference Room, New York, NY",
+  "address": "123 East 15th Street, New York, NY",
   "secondAddress": "  2nd Floor Conference Room",
   "building": "Seafarers & Intl House",
   "program": "ALIVE AGAIN",
@@ -2843,7 +2845,7 @@
   ]
  },
  {
-  "address": "155 East 22nd Street, Ground Floor, New York, NY",
+  "address": "155 East 22nd Street, New York, NY",
   "secondAddress": " Ground Floor",
   "building": "Gustavus Adolphus Lutheran Church",
   "program": "ATLANTIC BY THE BOOK",
@@ -2863,7 +2865,7 @@
   ]
  },
  {
-  "address": "127 East 22nd Street, 2nd Floor Auditorium, New York, NY",
+  "address": "127 East 22nd Street, New York, NY",
   "secondAddress": " 2nd Floor Auditorium",
   "building": "Mabel Bacon High School of the Future",
   "program": "ATLANTIC DOWNTOWN",
@@ -2903,7 +2905,7 @@
   ]
  },
  {
-  "address": "125 West 14th Street, Kuttner Room, New York, NY",
+  "address": "125 West 14th Street, New York, NY",
   "secondAddress": " Kuttner Room",
   "building": "McBurney YMCA",
   "program": "BIG BOOK MAGIC",
@@ -2995,7 +2997,7 @@
   ]
  },
  {
-  "address": "125 West 14th Street, Ground Floor, New York, NY",
+  "address": "125 West 14th Street, New York, NY",
   "secondAddress": " Ground Floor",
   "building": "McBurney YMCA",
   "program": "CHELSEA NOONERS",
@@ -3025,7 +3027,7 @@
   ]
  },
  {
-  "address": "414 East 14th Street, Auditorium, New York, NY",
+  "address": "414 East 14th Street, New York, NY",
   "secondAddress": " Auditorium",
   "building": "Our Lady of Immaculate Conception",
   "program": "COMPLETE ABANDON",
@@ -3065,7 +3067,7 @@
   ]
  },
  {
-  "address": "202 West 24 Street, Mezzanine, New York, NY",
+  "address": "202 West 24 Street, New York, NY",
   "secondAddress": " Mezzanine",
   "building": "Christopher House",
   "program": "CROSSROADS",
@@ -3095,7 +3097,7 @@
   ]
  },
  {
-  "address": "28 Gramercy Park South, 1st Floor, New York, NY",
+  "address": "28 Gramercy Park South, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "Brotherhood Synagogue",
   "program": "EAST MEETS WEST IN SOBRIETY",
@@ -3115,7 +3117,7 @@
   ]
  },
  {
-  "address": "50 East 7th Street, 3rd and 4th floors, New York, NY",
+  "address": "50 East 7th Street, New York, NY",
   "secondAddress": " 3rd and 4th floors",
   "building": "Middle Collegiate Church",
   "program": "EAST VILLAGE GROUP",
@@ -3195,7 +3197,7 @@
   ]
  },
  {
-  "address": "273 Bowery, 2nd Floor Classroom, New York, NY",
+  "address": "273 Bowery, New York, NY",
   "secondAddress": " 2nd Floor Classroom",
   "building": "University Settlement House",
   "program": "EXPERIENCE STRENGTH AND HOPE",
@@ -3215,7 +3217,7 @@
   ]
  },
  {
-  "address": "802 Broadway, 3rd Floor Conference Room, New York, NY",
+  "address": "802 Broadway, New York, NY",
   "secondAddress": " 3rd Floor Conference Room",
   "building": "Grace Church Office Building",
   "program": "GRACE ON BROADWAY",
@@ -3255,7 +3257,7 @@
   ]
  },
  {
-  "address": "28 Grammercy Park South, 2nd floor, New York, NY",
+  "address": "28 Grammercy Park South, New York, NY",
   "secondAddress": " 2nd floor",
   "building": "Brothhood Synagogue",
   "program": "GRAMERCY",
@@ -3285,7 +3287,7 @@
   ]
  },
  {
-  "address": "209 East 16th Street, Basement, New York, NY",
+  "address": "209 East 16th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Saint George Episcopal Church",
   "program": "GRATEFUL GROUP OF A.A.",
@@ -3367,7 +3369,7 @@
   ]
  },
  {
-  "address": "44 2nd Avenue, Main Floor, New York, NY",
+  "address": "44 2nd Avenue, New York, NY",
   "secondAddress": " Main Floor",
   "building": "Church of the Nativity",
   "program": "GRUPO EL MILAGRO",
@@ -3478,7 +3480,7 @@
   ]
  },
  {
-  "address": "208 W 13th Street, Room 212, New York, NY",
+  "address": "208 W 13th Street, New York, NY",
   "secondAddress": " Room 212",
   "building": "Lesbian, Gay, Bisexual, & Transgender Community Center",
   "program": "LAeX",
@@ -3579,7 +3581,7 @@
   ]
  },
  {
-  "address": "80 St. Mark's Place, 2nd Floor, New York, NY",
+  "address": "80 St. Mark's Place, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Theatre 80",
   "program": "LIVING NOW",
@@ -3764,7 +3766,7 @@
   ]
  },
  {
-  "address": "51 East 25th Street, Lower Level, New York, NY",
+  "address": "51 East 25th Street, New York, NY",
   "secondAddress": " Lower Level",
   "building": "Intercare",
   "program": "MADISON PARK BEGINNERS",
@@ -3794,7 +3796,7 @@
   ]
  },
  {
-  "address": "155 East 22nd Street, Basement, New York, NY",
+  "address": "155 East 22nd Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Gustavus Adolphus Church",
   "program": "MANHATTAN",
@@ -3824,7 +3826,7 @@
   ]
  },
  {
-  "address": "7 East 10th Street, 2nd Floor (Note: A photo ID is required to enter the building.), New York, NY",
+  "address": "7 East 10th Street, New York, NY",
   "secondAddress": " 2nd Floor (Note: A photo ID is required to enter the building.)",
   "building": "Bronfman Center",
   "program": "N.Y.U. (NOW YOU UNDERSTAND)",
@@ -3935,7 +3937,7 @@
   ]
  },
  {
-  "address": "315 West 22nd Street, 1st Floor, New York, NY",
+  "address": "315 West 22nd Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "German Evangelist Lutheran Church of St. Paul",
   "program": "NEVER HAD A LEGAL DRINK",
@@ -3956,7 +3958,7 @@
   ]
  },
  {
-  "address": "15 Rutherford Place, Basement, New York, NY",
+  "address": "15 Rutherford Place, New York, NY",
   "secondAddress": " Basement",
   "building": "Friends Meeting House",
   "program": "NEW LIFE IN SOBRIETY",
@@ -3996,8 +3998,8 @@
   ]
  },
  {
-  "address": "25 East 15th- Conference Room H, \n\t\t\t\t\t\t10003 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10003 New York",
+  "address": "25 East 15th- Conference Room H, New York, NY",
+  "secondAddress": "",
   "building": "The Realization Center",
   "program": "NINJAS IN RECOVERY",
   "wheelchair": false,
@@ -4016,7 +4018,7 @@
   ]
  },
  {
-  "address": "175 9th Avenue, 1st and 2nd Floor, New York, NY",
+  "address": "175 9th Avenue, New York, NY",
   "secondAddress": " 1st and 2nd Floor",
   "building": "General Theological Seminary",
   "program": "NINTH AVENUE           (:II)",
@@ -4108,7 +4110,7 @@
   ]
  },
  {
-  "address": "19 Union Square West, 7th Floor, Conference Room B, New York, NY",
+  "address": "19 Union Square West, New York, NY",
   "secondAddress": " 7th Floor",
   "building": "The Realization Center",
   "program": "OADW (ONCE A DRUNK WOMAN)",
@@ -4129,7 +4131,7 @@
   ]
  },
  {
-  "address": "155 East 22nd Street, 1st Floor, New York, NY",
+  "address": "155 East 22nd Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "Gustavus Adolphus Church",
   "program": "P.A.X",
@@ -4194,7 +4196,7 @@
   ]
  },
  {
-  "address": "423 East 23rd Street, 3rd fl, Conference Room 3076 south, New York, NY",
+  "address": "423 East 23rd Street, New York, NY",
   "secondAddress": " 3rd fl",
   "building": "Veterans Administration Hospital",
   "program": "POT LUCK",
@@ -4214,7 +4216,7 @@
   ]
  },
  {
-  "address": "209 East 16th Street, Olmstead Hall, New York, NY",
+  "address": "209 East 16th Street, New York, NY",
   "secondAddress": " Olmstead Hall",
   "building": "St. George's Church",
   "program": "POTPOURRI",
@@ -4324,7 +4326,7 @@
   ]
  },
  {
-  "address": "239 East 21st Street, Church Rectory, New York, NY",
+  "address": "239 East 21st Street, New York, NY",
   "secondAddress": " Church Rectory",
   "building": "Epiphany Roman Catholic Church",
   "program": "SATURDAY WEEKENDERS",
@@ -4344,7 +4346,7 @@
   ]
  },
  {
-  "address": "12 West 12th Street, 6th Floor-Roof Level, New York, NY",
+  "address": "12 West 12th Street, New York, NY",
   "secondAddress": " 6th Floor-Roof Level",
   "building": "First Presbyterian Church",
   "program": "SAVE HER A SEAT",
@@ -4417,7 +4419,7 @@
   ]
  },
  {
-  "address": "12 West 11th Street,  Ground Floor, New York, NY",
+  "address": "12 West 11th Street, New York, NY",
   "secondAddress": "  Ground Floor",
   "building": "Church of the Ascension Parish House",
   "program": "SOBRIETY ON THE SQUARE",
@@ -4487,8 +4489,8 @@
   ]
  },
  {
-  "address": "116 West 11th Street, \n\t\t\t\t\t\t10011 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10011 New York",
+  "address": "116 West 11th Street, New York, NY",
+  "secondAddress": "",
   "building": "PS 41 Elementary School",
   "program": "SPEAKER MAGIC",
   "wheelchair": false,
@@ -4507,7 +4509,7 @@
   ]
  },
  {
-  "address": "80 5th Avenue, 14th Floor, Room #1408C, New York, NY",
+  "address": "80 5th Avenue, New York, NY",
   "secondAddress": " 14th Floor",
   "building": "",
   "program": "STRAIGHT 12 (:II)  DOWNTOWN SATURDAY NIGHT",
@@ -4527,7 +4529,7 @@
   ]
  },
  {
-  "address": "116 W. 11th Street, Cafeteria, New York, NY",
+  "address": "116 W. 11th Street, New York, NY",
   "secondAddress": " Cafeteria",
   "building": "P.S. 41 (see footnote re: temp location)",
   "program": "SUNDAY AT SIX",
@@ -4588,7 +4590,7 @@
   ]
  },
  {
-  "address": "10 East Union Square, 4th Floor, Conf.Rm.#4A18, New York, NY",
+  "address": "10 East Union Square, New York, NY",
   "secondAddress": " 4th Floor",
   "building": "Beth Israel Hospital @ Karpas Cancer Center Library",
   "program": "SURVIVORS IN SOBRIETY",
@@ -4650,7 +4652,7 @@
   ]
  },
  {
-  "address": "123 East 15th Street, 2nd Floor, New York, NY",
+  "address": "123 East 15th Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Seafarers & International House",
   "program": "T.G.I.F. & S.",
@@ -4700,7 +4702,7 @@
   ]
  },
  {
-  "address": "411 East 12th Street, Basement, New York, NY",
+  "address": "411 East 12th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "",
   "program": "THE 12th STREET WORKSHOP",
@@ -5307,7 +5309,7 @@
   ]
  },
  {
-  "address": "125 West 14th Street, 1st Floor Meeting Room, New York, NY",
+  "address": "125 West 14th Street, New York, NY",
   "secondAddress": " 1st Floor Meeting Room",
   "building": "McBurney YMCA",
   "program": "THE FELLOWSHIP CLUB",
@@ -5347,7 +5349,7 @@
   ]
  },
  {
-  "address": "10 Union Square East, 2nd Floor, Conference Room #3, New York, NY",
+  "address": "10 Union Square East, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Beth Israel Phillips Ambulatory Center",
   "program": "TWELVE AT SIX",
@@ -5367,7 +5369,7 @@
   ]
  },
  {
-  "address": "155 West 22nd Street, 1st Floor, New York, NY",
+  "address": "155 West 22nd Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "St. Francis Residence",
   "program": "UPON AWAKENING",
@@ -5420,7 +5422,7 @@
   ]
  },
  {
-  "address": "12 West 12th Street, Third Floor, New York, NY",
+  "address": "12 West 12th Street, New York, NY",
   "secondAddress": " Third Floor",
   "building": "First Presbyterian Church",
   "program": "VILLAGE OPEN DISCUSSION  (V.O.D.)",
@@ -5440,7 +5442,7 @@
   ]
  },
  {
-  "address": "20 Washington Square North, 2nd Floor, New York, NY",
+  "address": "20 Washington Square North, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "The Caring Community",
   "program": "VILLAGE SOBER",
@@ -5480,7 +5482,7 @@
   ]
  },
  {
-  "address": "155 West 22nd Street, 1st Floor, New York, NY",
+  "address": "155 West 22nd Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "St. Francis Residence",
   "program": "WEST 22nd STREET SOBRIETY",
@@ -5532,7 +5534,7 @@
   ]
  },
  {
-  "address": "602 East 9th Street, Ground Floor, New York, NY",
+  "address": "602 East 9th Street, New York, NY",
   "secondAddress": " Ground Floor",
   "building": "Trinity Lutheran Church",
   "program": "WHOLESALE MIRACLES",
@@ -5593,7 +5595,7 @@
   ]
  },
  {
-  "address": "19 Union Square West, 7th Floor, Ask for room #., New York, NY",
+  "address": "19 Union Square West, New York, NY",
   "secondAddress": " 7th Floor",
   "building": "Realization Center",
   "program": "WOMEN'S SATURDAY ELEVENTH STEP MEDITATION",
@@ -5613,8 +5615,8 @@
   ]
  },
  {
-  "address": "173 East 3rd Street- basement, New York, NY",
-  "secondAddress": "",
+  "address": "173 East 3rd Street, New York, NY",
+  "secondAddress": "basement",
   "building": "Most Holy Redeemer Church",
   "program": "WORKS IN PROGRESS",
   "wheelchair": false,
@@ -5653,9 +5655,10 @@
     "special": "Young People"
    }
   ]
- },
+ }
+][
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "4 THE GRACE",
@@ -5736,7 +5739,7 @@
   ]
  },
  {
-  "address": "303 West 42nd Street, Room #404, New York, NY",
+  "address": "303 West 42nd Street, New York, NY",
   "secondAddress": " Room #404",
   "building": "",
   "program": "42nd AT 9:00pm",
@@ -5810,7 +5813,7 @@
   ]
  },
  {
-  "address": "303 West 42nd Street, 3rd Floor, Room #306, New York, NY",
+  "address": "303 West 42nd Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "",
   "program": "A NEW FREEDOM",
@@ -5892,7 +5895,7 @@
   ]
  },
  {
-  "address": "305 7th Avenue, 6th Floor, New York, NY",
+  "address": "305 7th Avenue, New York, NY",
   "secondAddress": " 6th Floor",
   "building": "S.A.G.E.",
   "program": "ABINGDON SQUARE IN CHELSEA",
@@ -5912,7 +5915,7 @@
   ]
  },
  {
-  "address": "1 West 53rd Street, 3rd Floor, Andrew Hall, New York, NY",
+  "address": "1 West 53rd Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "Saint Thomas Church",
   "program": "ADVENTURES IN SOBRIETY",
@@ -5933,7 +5936,7 @@
   ]
  },
  {
-  "address": "303 West 42nd Street, 3rd Floor, Room #306, New York, NY",
+  "address": "303 West 42nd Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "",
   "program": "ALANON HOUSE   (AA Meetings Only)",
@@ -6214,7 +6217,7 @@
   ]
  },
  {
-  "address": "133 West 46th Street, 3rd Floor, New York, NY",
+  "address": "133 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "St. Mary the Virgin Church",
   "program": "AMAZING GRACE",
@@ -6274,7 +6277,7 @@
   ]
  },
  {
-  "address": "441 West 26th Street, 2nd Fl., Activity Room A, New York, NY",
+  "address": "441 West 26th Street, New York, NY",
   "secondAddress": " 2nd Fl.",
   "building": "Hudson Guild",
   "program": "ANNEX                               (:I)",
@@ -6294,7 +6297,7 @@
   ]
  },
  {
-  "address": "446 West 33rd Street, 6th Floor, Room #6046, New York, NY",
+  "address": "446 West 33rd Street, New York, NY",
   "secondAddress": " 6th Floor",
   "building": "GMHC",
   "program": "ANNEX    (:II)",
@@ -6315,7 +6318,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Clubhouse",
   "program": "ARTISTS IN RECOVERY",
@@ -6336,7 +6339,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "BEGINNERS",
@@ -6412,7 +6415,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "BEGINNERS",
@@ -6582,7 +6585,7 @@
   ]
  },
  {
-  "address": "139 West 31st Street, 3rd Floor, New York, NY",
+  "address": "139 West 31st Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "St. Francis of Assisi Education Center",
   "program": "BOOKSHOP AT NOON",
@@ -6622,7 +6625,7 @@
   ]
  },
  {
-  "address": "422 West 57th Street, Upstairs, New York, NY",
+  "address": "422 West 57th Street, New York, NY",
   "secondAddress": " Upstairs",
   "building": "Trinity Presbyterian Church",
   "program": "CLEAN AND DRY",
@@ -6682,7 +6685,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "D.I.V.A.  (Divinely Inspired Vivacious Alcoholics)",
@@ -6703,7 +6706,7 @@
   ]
  },
  {
-  "address": "1 West 53rd Street, 3rd Floor, New York, NY",
+  "address": "1 West 53rd Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "St. Thomas Church",
   "program": "FIFTH AVENUE STEP",
@@ -6833,7 +6836,7 @@
   ]
  },
  {
-  "address": "7 West 55th Street, 5th Floor, New York, NY",
+  "address": "7 West 55th Street, New York, NY",
   "secondAddress": " 5th Floor",
   "building": "Fifth Av Presbyterian Church",
   "program": "FOGLIFTERS-FIFTH AVENUE",
@@ -7019,7 +7022,7 @@
   ]
  },
  {
-  "address": "729 7th Avenue, 10th Floor small conference room, New York, NY",
+  "address": "729 7th Avenue, New York, NY",
   "secondAddress": " 10th Floor small conference room",
   "building": "The Actors Fund of America",
   "program": "GREEN ROOM",
@@ -7080,7 +7083,7 @@
   ]
  },
  {
-  "address": "1000 Tenth Avenue, 8th Floor (Room #8G49, New York, NY",
+  "address": "1000 Tenth Avenue, New York, NY",
   "secondAddress": " 8th Floor (Room #8G49",
   "building": "Mount Sinai - Roosevelt Hospital",
   "program": "HELL'S KITCHEN",
@@ -7110,7 +7113,7 @@
   ]
  },
  {
-  "address": "303 West 42nd Street, 3rd Floor, Room #306, New York, NY",
+  "address": "303 West 42nd Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "",
   "program": "HENRY HUDSON",
@@ -7130,7 +7133,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "JOE AND CHARLIE CD MEETING",
@@ -7333,7 +7336,7 @@
   ]
  },
  {
-  "address": "133 West 46th Street, 3rd Floor, New York, NY",
+  "address": "133 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "St. Mary the Virgin Church",
   "program": "MORNING CALL",
@@ -7363,7 +7366,7 @@
   ]
  },
  {
-  "address": "133 West 46th Street, 2nd & 3rd Floor, New York, NY",
+  "address": "133 West 46th Street, New York, NY",
   "secondAddress": " 2nd & 3rd Floor",
   "building": "St. Mary the Virgin Church",
   "program": "NEW BUT WEST",
@@ -7596,7 +7599,7 @@
   ]
  },
  {
-  "address": "303 West 42nd Street,  Room #306, New York, NY",
+  "address": "303 West 42nd Street, New York, NY",
   "secondAddress": "  Room #306",
   "building": "",
   "program": "NEW PHOENIX",
@@ -7676,7 +7679,7 @@
   ]
  },
  {
-  "address": "296 9th Avenue, 2nd Floor, New York, NY",
+  "address": "296 9th Avenue, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Holy Apostles Church Rectory",
   "program": "NINTH AVENUE           (:I)",
@@ -7747,7 +7750,7 @@
   ]
  },
  {
-  "address": "139 West 31st Street, 3rd Floor, New York, NY",
+  "address": "139 West 31st Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "St. Francis of Assisi Center",
   "program": "NU GARDEN",
@@ -7787,7 +7790,7 @@
   ]
  },
  {
-  "address": "1 West 53rd Street, 3rd Floor, \n\t\t\t\t\t\t10019 New York, NY",
+  "address": "1 West 53rd Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "St. Thomas Church",
   "program": "PARK BENCH   (:I)",
@@ -7807,7 +7810,7 @@
   ]
  },
  {
-  "address": "484 West 43rd Street, 1st Floor, New York, NY",
+  "address": "484 West 43rd Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "Manhattan Plaza Health Club",
   "program": "POWERLESS",
@@ -7889,7 +7892,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "PROMISES",
@@ -7909,7 +7912,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "RAINBOW ROOM",
@@ -8210,7 +8213,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "SATURDAY ROTATING 12 STEP",
@@ -8230,7 +8233,7 @@
   ]
  },
  {
-  "address": "296 Ninth Avenue, Rectory, 1st Floor, New York, NY",
+  "address": "296 Ninth Avenue, New York, NY",
   "secondAddress": " Rectory",
   "building": "Church of The Holy Apostles",
   "program": "SPIRITUAL FRIDAYS",
@@ -8251,7 +8254,7 @@
   ]
  },
  {
-  "address": "1 West 53rd Street, 3rd Floor, New York, NY",
+  "address": "1 West 53rd Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "St. Thomas Church Parish House",
   "program": "ST. THOMAS A.M.",
@@ -8271,7 +8274,7 @@
   ]
  },
  {
-  "address": "210 West 31st Street, Basement (On Left), New York, NY",
+  "address": "210 West 31st Street, New York, NY",
   "secondAddress": " Basement (On Left)",
   "building": "St. John the Baptist Church",
   "program": "STATLER AT NOON",
@@ -8321,7 +8324,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "SUNDAY NIGHT BEGINNERS",
@@ -8341,8 +8344,8 @@
   ]
  },
  {
-  "address": "134 West 29th Street - 2nd floor Studio 203, \n\t\t\t\t\t\t10001 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10001 New York",
+  "address": "134 West 29th Street, New York, NY",
+  "secondAddress": "2nd floor Studio 203",
   "building": "",
   "program": "TUESDAY SOBER AGNOSTICS",
   "wheelchair": true,
@@ -8362,7 +8365,7 @@
   ]
  },
  {
-  "address": "1000 Tenth Avenue, 8th Fl, Room #8G-49, New York, NY",
+  "address": "1000 Tenth Avenue, New York, NY",
   "secondAddress": " 8th Fl",
   "building": "Mount Sinai - Roosevelt Hospital",
   "program": "WEST 58th STREET STEP",
@@ -8423,7 +8426,7 @@
   ]
  },
  {
-  "address": "252 West 46th Street, 3rd Floor, New York, NY",
+  "address": "252 West 46th Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "46th Street Club House",
   "program": "YOUNG PEOPLE'S MEETING",
@@ -8442,9 +8445,10 @@
     "special": "Young People"
    }
   ]
- },
+ }
+][
  {
-  "address": "122 East 37th Street, Basement, New York, NY",
+  "address": "122 East 37th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "",
   "program": "AA LITERATURE",
@@ -8554,7 +8558,7 @@
   ]
  },
  {
-  "address": "619 Lexington Avenue, Lower Level Music Rooms, New York, NY",
+  "address": "619 Lexington Avenue, New York, NY",
   "secondAddress": " Lower Level Music Rooms",
   "building": "St. Peter's Lutheran Church @ Citicorp Center",
   "program": "CITY GROUP",
@@ -8704,7 +8708,7 @@
   ]
  },
  {
-  "address": "122 East 37th Street, Basement, New York, NY",
+  "address": "122 East 37th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "",
   "program": "COURAGE TO CHANGE",
@@ -8906,7 +8910,7 @@
   ]
  },
  {
-  "address": "283 Lexington Avenue, 2nd Floor, New York, NY",
+  "address": "283 Lexington Avenue, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Soldiers, Sailors, Marines & Airmen's Club",
   "program": "GRAND CENTRAL",
@@ -8967,7 +8971,7 @@
   ]
  },
  {
-  "address": "122 East 37th Street, Basement, New York, NY",
+  "address": "122 East 37th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "",
   "program": "GRUPO BRASIL",
@@ -8997,7 +9001,7 @@
   ]
  },
  {
-  "address": "619 Lexington Avenue, Lower Level 2 in The Studio, New York, NY",
+  "address": "619 Lexington Avenue, New York, NY",
   "secondAddress": " Lower Level 2 in The Studio",
   "building": "St. Peter's Lutheran Church @ CitiCorp Center",
   "program": "LIFE LINE",
@@ -9027,7 +9031,7 @@
   ]
  },
  {
-  "address": "141 East 43rd Street, Basement Hall, elevator is available., New York, NY",
+  "address": "141 East 43rd Street, New York, NY",
   "secondAddress": " Basement Hall",
   "building": "Saint Agnes Church",
   "program": "LUNCH BUNCH",
@@ -9167,7 +9171,7 @@
   ]
  },
  {
-  "address": "209 Madison Avenue, 2nd Floor, New York, NY",
+  "address": "209 Madison Avenue, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Church of the Incarnation",
   "program": "MURRAY HILL",
@@ -9187,7 +9191,7 @@
   ]
  },
  {
-  "address": "122 East 37th Street,  Basement, New York, NY",
+  "address": "122 East 37th Street, New York, NY",
   "secondAddress": "  Basement",
   "building": "",
   "program": "MUSTARD SEED",
@@ -9816,7 +9820,7 @@
   ]
  },
  {
-  "address": "619 Lexington Avenue, Lower Level, New York, NY",
+  "address": "619 Lexington Avenue, New York, NY",
   "secondAddress": " Lower Level",
   "building": "St. Peter's Lutheran Church @ CitiCorp Center",
   "program": "REBELLION DOGS",
@@ -9837,8 +9841,8 @@
   ]
  },
  {
-  "address": "240 East 31st Street, \n\t\t\t\t\t\tNY 10016 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\tNY 10016 New York",
+  "address": "240 East 31st Street, New York, NY",
+  "secondAddress": "",
   "building": "Church of the Good Shepherd",
   "program": "SATURDAY EAST",
   "wheelchair": true,
@@ -9857,7 +9861,7 @@
   ]
  },
  {
-  "address": "114 East 35th Street, 2nd Floor, New York, NY",
+  "address": "114 East 35th Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "The New York New Church",
   "program": "SATURDAY STEP",
@@ -9877,8 +9881,8 @@
   ]
  },
  {
-  "address": "230 East 60th Street (Basement) , New York, NY",
-  "secondAddress": "",
+  "address": "230 East 60th Street , New York, NY",
+  "secondAddress": "Basement",
   "building": "ALL SAINTS CHURCH",
   "program": "SERENITY EAST",
   "wheelchair": false,
@@ -9937,7 +9941,7 @@
   ]
  },
  {
-  "address": "619 Lexington Avenue, Lower Level, New York, NY",
+  "address": "619 Lexington Avenue, New York, NY",
   "secondAddress": " Lower Level",
   "building": "St. Peter's Lutheran Church @ CitiCorp Center",
   "program": "SILKWORTH WOMEN'S",
@@ -9998,7 +10002,7 @@
   ]
  },
  {
-  "address": "236 EAST 31st STREET ,basement, New York, NY",
+  "address": "236 EAST 31st STREET , New York, NY",
   "secondAddress": "basement",
   "building": "CHURCH OF THE GOOD SHEPARD",
   "program": "STRAIGHT 12",
@@ -10079,7 +10083,7 @@
   ]
  },
  {
-  "address": "244 East 58th Street, Lower Level, New York, NY",
+  "address": "244 East 58th Street, New York, NY",
   "secondAddress": " Lower Level",
   "building": "Caron Foundation",
   "program": "TUDOR",
@@ -10117,9 +10121,10 @@
     "type": "S = Step meeting"
    }
   ]
- },
+ }
+][
  {
-  "address": "207 West 96th Street, Basement, New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name Church",
   "program": "A NEW DAY",
@@ -10151,7 +10156,7 @@
   ]
  },
  {
-  "address": "120 West 69th Street, Basement, New York, NY",
+  "address": "120 West 69th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Christ & St. Stephen's Church",
   "program": "A VISION FOR YOU",
@@ -10201,7 +10206,7 @@
   ]
  },
  {
-  "address": "164 West 74th Street, 1st floor, \n\t\t\t\t\t\t10023 New York, NY",
+  "address": "164 West 74th Street, New York, NY",
   "secondAddress": " 1st floor",
   "building": "Phoenix House",
   "program": "AFTER EIGHT (:ii)",
@@ -10222,7 +10227,7 @@
   ]
  },
  {
-  "address": "207 West 96th Street, Little Room Basement, New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Little Room Basement",
   "building": "Holy Name Church",
   "program": "ALTERED ATTITUDES",
@@ -10242,7 +10247,7 @@
   ]
  },
  {
-  "address": "144 West 90th Street, Basement, New York, NY",
+  "address": "144 West 90th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Gregory's Church",
   "program": "AMSTERDAM",
@@ -10353,7 +10358,7 @@
   ]
  },
  {
-  "address": "221 West 107th Street, Basement, New York, NY",
+  "address": "221 West 107th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Church of the Ascension",
   "program": "BLOOMINGDALE",
@@ -10383,7 +10388,7 @@
   ]
  },
  {
-  "address": "207 West 96th Street, Basement, Little Room, New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name Church",
   "program": "BROADWAY AT 96TH",
@@ -10434,7 +10439,7 @@
   ]
  },
  {
-  "address": "601 West 114th Street, (2nd Red Door), \n\t\t\t\t\t\tNY 10025 New York, NY",
+  "address": "601 West 114th Street, New York, NY",
   "secondAddress": " (2nd Red Door)",
   "building": "Broadway Presbyterian Church",
   "program": "CAMPUS CHEER",
@@ -10464,8 +10469,8 @@
   ]
  },
  {
-  "address": "Central Park West & 76th Street - basement gymnasium, New York, NY",
-  "secondAddress": "",
+  "address": "160 Central Park West, New York, NY",
+  "secondAddress": "basement gymnasium",
   "building": "Universalist Church",
   "program": "CENTRAL PARK WEST",
   "wheelchair": false,
@@ -10484,7 +10489,7 @@
   ]
  },
  {
-  "address": "5 West 63rd Street, Downstairs in large meeting room., New York, NY",
+  "address": "5 West 63rd Street, New York, NY",
   "secondAddress": " Downstairs in large meeting room.",
   "building": "West Side YMCA at 63rd Street",
   "program": "CHELSEA RIVERSIDE",
@@ -10525,7 +10530,7 @@
   ]
  },
  {
-  "address": "4 West 76th Street, (In the gym), New York, NY",
+  "address": "4 West 76th Street, New York, NY",
   "secondAddress": " (In the gym)",
   "building": "Universalist Church",
   "program": "CHOCK FULL OF SOBRIETY",
@@ -10545,7 +10550,7 @@
   ]
  },
  {
-  "address": "160 Central Park West, Gym basement., New York, NY",
+  "address": "160 Central Park West, New York, NY",
   "secondAddress": " Gym basement.",
   "building": "Fourth Universalist Society",
   "program": "CLASSEN HALL     (:II)",
@@ -10565,7 +10570,7 @@
   ]
  },
  {
-  "address": "152 West 66th Street, Basement Level Chapel, New York, NY",
+  "address": "152 West 66th Street, New York, NY",
   "secondAddress": " Basement Level Chapel",
   "building": "Good Shepherd Faith Church",
   "program": "CLASSEN HALL STEP MEETING  ( :I )",
@@ -10586,7 +10591,7 @@
   ]
  },
  {
-  "address": "3 West 95th Street, Lower Level Auditorium, New York, NY",
+  "address": "3 West 95th Street, New York, NY",
   "secondAddress": " Lower Level Auditorium",
   "building": "Second Presbyterian Church",
   "program": "COLUMBUS AT FIVE",
@@ -10629,8 +10634,8 @@
   ]
  },
  {
-  "address": "251 West 80th Street, \n\t\t\t\t\t\t10024 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10024 New York",
+  "address": "251 West 80th Street, New York, NY",
+  "secondAddress": "",
   "building": "All Angels Church",
   "program": "EIGHTIETH STREET BEGINNERS",
   "wheelchair": true,
@@ -10759,7 +10764,7 @@
   ]
  },
  {
-  "address": "5 West 63rd Street, 1st Floor, New York, NY",
+  "address": "5 West 63rd Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "West Side YMCA",
   "program": "FAST BREAK WEEKEND",
@@ -10830,7 +10835,7 @@
   ]
  },
  {
-  "address": "207 West 96th Street, Basement, Little Room, New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name Church",
   "program": "FIRST THINGS FIRST",
@@ -11147,7 +11152,7 @@
   ]
  },
  {
-  "address": "200 West 97th Street, Basement, New York, NY",
+  "address": "200 West 97th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name School",
   "program": "GRUPO CAMINO REAL",
@@ -11177,7 +11182,7 @@
   ]
  },
  {
-  "address": "218 West 108th Street, Main Floor, New York, NY",
+  "address": "218 West 108th Street, New York, NY",
   "secondAddress": " Main Floor",
   "building": "Grace House",
   "program": "GRUPO DULCES 24",
@@ -11227,7 +11232,7 @@
   ]
  },
  {
-  "address": "125 West 104th Street, 1st Floor, New York, NY",
+  "address": "125 West 104th Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "Iglesia Metodista Grace",
   "program": "GRUPO LUZ DIVINA",
@@ -11287,7 +11292,7 @@
   ]
  },
  {
-  "address": "236 West 73rd Street,  5th Floor, New York, NY",
+  "address": "236 West 73rd Street, New York, NY",
   "secondAddress": "  5th Floor",
   "building": "Rutgers Church",
   "program": "LAMBDA WEST",
@@ -11341,7 +11346,7 @@
   ]
  },
  {
-  "address": "165 West 105th Street, Basement, New York, NY",
+  "address": "165 West 105th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "West End Presbyterian Church",
   "program": "MANHATTAN VALLEY",
@@ -11381,7 +11386,7 @@
   ]
  },
  {
-  "address": "207 West 96th Street, Basement, Little Room, New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name Church Rectory",
   "program": "MID-DAY CHEER",
@@ -11443,7 +11448,7 @@
   ]
  },
  {
-  "address": "2504 Broadway,  Basement, New York, NY",
+  "address": "2504 Broadway, New York, NY",
   "secondAddress": "  Basement",
   "building": "Advent Lutheran Church",
   "program": "MORNINGSIDE",
@@ -11493,7 +11498,7 @@
   ]
  },
  {
-  "address": "405 West 114th Street, Merton Room, New York, NY",
+  "address": "405 West 114th Street, New York, NY",
   "secondAddress": " Merton Room",
   "building": "Church of Notre Dame",
   "program": "MORNINGSIDE HEIGHTS BEGINNERS",
@@ -11523,7 +11528,7 @@
   ]
  },
  {
-  "address": "368 West End Ave, 1st floor, New York, NY",
+  "address": "368 West End Ave, New York, NY",
   "secondAddress": " 1st floor",
   "building": "West End Collegiate Church",
   "program": "NEVER TOO LATE",
@@ -11543,7 +11548,7 @@
   ]
  },
  {
-  "address": "225 West 99th Street, 1st Floor, New York, NY",
+  "address": "225 West 99th Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "St. Michael's Parish House",
   "program": "NIGHT LIGHT",
@@ -11583,7 +11588,7 @@
   ]
  },
  {
-  "address": "207 West 96th Street, Basement, Little Room, New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name Church",
   "program": "NINETY-SIXTH STREET WORKSHOP",
@@ -11715,7 +11720,7 @@
   ]
  },
  {
-  "address": "5 West 63rd Street, Basement, Room D, New York, NY",
+  "address": "5 West 63rd Street, New York, NY",
   "secondAddress": " Basement",
   "building": "West Side YMCA",
   "program": "PROMISES PROMISES",
@@ -11735,7 +11740,7 @@
   ]
  },
  {
-  "address": "552 West End Avenue, Basement, New York, NY",
+  "address": "552 West End Avenue, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Ignatius Church",
   "program": "RENEWAL WEST",
@@ -11755,7 +11760,7 @@
   ]
  },
  {
-  "address": "164 West 74 Street, 1st Floor, (ask at Front Desk), New York, NY",
+  "address": "164 West 74 Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "Phoenix House",
   "program": "ROUTES",
@@ -11785,7 +11790,7 @@
   ]
  },
  {
-  "address": "340 West 85th Street, Basement, New York, NY",
+  "address": "340 West 85th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Volunteers of America",
   "program": "RUDE AWAKENING",
@@ -11806,7 +11811,7 @@
   ]
  },
  {
-  "address": "368 West End Avenue, 1st Floor, New York, NY",
+  "address": "368 West End Avenue, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "West End Collegiate Church",
   "program": "SMITHEREENS",
@@ -11878,7 +11883,7 @@
   ]
  },
  {
-  "address": "131 West 72nd Street, 3rd Floor, Room #2F, New York, NY",
+  "address": "131 West 72nd Street, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "",
   "program": "SUNDAY WEST",
@@ -11898,7 +11903,7 @@
   ]
  },
  {
-  "address": "207 West 96th Street, Basement, Little Room, New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name Church",
   "program": "TURN IT OVER",
@@ -11958,7 +11963,7 @@
   ]
  },
  {
-  "address": "152 West 71st Street, Ring Bell, New York, NY",
+  "address": "152 West 71st Street, New York, NY",
   "secondAddress": " Ring Bell",
   "building": "Blessed Sacrament Church Rectory",
   "program": "WAY OF LIFE",
@@ -11989,7 +11994,7 @@
   ]
  },
  {
-  "address": "30 West 68th Street,  Check security desk for Room #, New York, NY",
+  "address": "30 West 68th Street, New York, NY",
   "secondAddress": "  Check security desk for Room #",
   "building": "Stephen Wise Free Synagogue",
   "program": "WE AGNOSTICS OF NYC",
@@ -12010,7 +12015,7 @@
   ]
  },
  {
-  "address": "207 West 96th Street, Basement, Little Room, \n\t\t\t\t\t\t10025 New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name Church",
   "program": "WE ARE NOT DOCTORS (WESTSIDE)",
@@ -12031,7 +12036,7 @@
   ]
  },
  {
-  "address": "263 West 86th Street,  1st Floor, New York, NY",
+  "address": "263 West 86th Street, New York, NY",
   "secondAddress": "  1st Floor",
   "building": "Church of St. Paul & St. Andrew",
   "program": "WEST END",
@@ -12081,7 +12086,7 @@
   ]
  },
  {
-  "address": "306 West 102nd Street, 2nd Floor, New York, NY",
+  "address": "306 West 102nd Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Addiction Institute",
   "program": "WESTSIDE 11th STEP MEDITATION WORKSHOP",
@@ -12101,8 +12106,8 @@
   ]
  },
  {
-  "address": "152 West 71st Street, \n\t\t\t\t\t\tNY 10023 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\tNY 10023 New York",
+  "address": "152 West 71st Street, New York, NY",
+  "secondAddress": "",
   "building": "Blessed Sacrament Church Rectory",
   "program": "WESTSIDE STEP",
   "wheelchair": false,
@@ -12121,7 +12126,7 @@
   ]
  },
  {
-  "address": "26 West 84th Street, Stanford Room (blue door), New York, NY",
+  "address": "26 West 84th Street, New York, NY",
   "secondAddress": " Stanford Room (blue door)",
   "building": "Church of St.Matthew & St. Timothy",
   "program": "WESTSIDE YOUNG PEOPLE",
@@ -12163,7 +12168,7 @@
   ]
  },
  {
-  "address": "306 West 102nd Street, 2nd Floor, New York, NY",
+  "address": "306 West 102nd Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Trinity Halfway House",
   "program": "WOMEN LIVING SOBER",
@@ -12301,7 +12306,7 @@
   ]
  },
  {
-  "address": "160 Central Park West, Downstairs, New York, NY",
+  "address": "160 Central Park West, New York, NY",
   "secondAddress": " Downstairs",
   "building": "Universalist Church",
   "program": "WOMEN'S WESTSIDE TOPIC",
@@ -12322,7 +12327,7 @@
   ]
  },
  {
-  "address": "207 West 96th Street, Basement, Little Room, New York, NY",
+  "address": "207 West 96th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Holy Name Church",
   "program": "WRITING SOBER",
@@ -12341,9 +12346,10 @@
     "special": "Special Purpose Groups"
    }
   ]
- },
+ }
+][
  {
-  "address": "351 East 74th Street,  2nd Floor, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": "  2nd Floor",
   "building": "Jan Hus Church",
   "program": "A BAFFLED LOT",
@@ -12363,7 +12369,7 @@
   ]
  },
  {
-  "address": "48 East 80th Street, 2nd Floor Library, Ring Bell Next to Sign., New York, NY",
+  "address": "48 East 80th Street, New York, NY",
   "secondAddress": " 2nd Floor Library",
   "building": "Manhattan Church of Christ",
   "program": "A.A. TRADITIONS AND HISTORY",
@@ -12383,7 +12389,7 @@
   ]
  },
  {
-  "address": "184 East 76th Street, Basement, New York, NY",
+  "address": "184 East 76th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Jean Baptiste Church",
   "program": "ACTIVE",
@@ -12403,7 +12409,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Jan Hus Church",
   "program": "AFTERNOON AWAKENING",
@@ -12564,7 +12570,7 @@
   ]
  },
  {
-  "address": "230 East 90th Street, Downstairs, New York, NY",
+  "address": "230 East 90th Street, New York, NY",
   "secondAddress": " Downstairs",
   "building": "Our Lady of Good Counsel Church",
   "program": "CAME TO BELIEVE",
@@ -12584,7 +12590,7 @@
   ]
  },
  {
-  "address": "65 East 89th Street, Basement, New York, NY",
+  "address": "65 East 89th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Thomas More Church",
   "program": "CARNEGIE HILL",
@@ -12604,7 +12610,7 @@
   ]
  },
  {
-  "address": "865 Madison Avenue, Basement, New York, NY",
+  "address": "865 Madison Avenue, New York, NY",
   "secondAddress": " Basement",
   "building": "St. James Episcopal Church",
   "program": "CENTRAL",
@@ -12655,7 +12661,7 @@
   ]
  },
  {
-  "address": "1296 Lexington Avenue, Basement, New York, NY",
+  "address": "1296 Lexington Avenue, New York, NY",
   "secondAddress": " Basement",
   "building": "Immanuel Lutheran Church",
   "program": "CHAPTER FIVE",
@@ -12776,7 +12782,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, Mazaryk Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " Mazaryk Room",
   "building": "Jan Hus Church",
   "program": "ELEVENTH STEP AT JAN HUS",
@@ -12796,7 +12802,7 @@
   ]
  },
  {
-  "address": "1157 Lexington Avenue, 1st Floor, New York, NY",
+  "address": "1157 Lexington Avenue, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "All Souls Uniterian Church",
   "program": "FEARLESS",
@@ -12816,7 +12822,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, Mazaryk Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " Mazaryk Room",
   "building": "Jan Hus Church",
   "program": "FRIDAY CENTRAL",
@@ -12836,7 +12842,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Jan Hus Church",
   "program": "FRIDAY NIGHT GAY MEN & WOMEN",
@@ -12878,8 +12884,8 @@
   ]
  },
  {
-  "address": "65 East 89th Street - Rectory basement, \n\t\t\t\t\t\t10128 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10128 New York",
+  "address": "65 East 89th Street, New York, NY",
+  "secondAddress": "Rectory basement",
   "building": "Church of Saint Thomas Moore",
   "program": "HUMANISTS TOO",
   "wheelchair": false,
@@ -12898,7 +12904,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Jan Hus Church",
   "program": "I'M ALL IN",
@@ -12989,7 +12995,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor Kitchen, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor Kitchen",
   "building": "Jan Hus Presbyterian Church",
   "program": "KITCHEN TABLE MEETING",
@@ -13133,7 +13139,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Jan Hus Presbyterian Church",
   "program": "MADISON 73",
@@ -13163,7 +13169,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor Chapel Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor Chapel Room",
   "building": "Jan Hus Church",
   "program": "MEDITATION (EXPECT MIRACLES)",
@@ -13233,8 +13239,8 @@
   ]
  },
  {
-  "address": "1285 Madison Avenue, \n\t\t\t\t\t\t10128 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\t10128 New York",
+  "address": "1285 Madison Avenue, New York, NY",
+  "secondAddress": "",
   "building": "Philomathist Center",
   "program": "MEN'S NYC BIG BOOK STEP STUDY",
   "wheelchair": false,
@@ -13313,7 +13319,7 @@
   ]
  },
  {
-  "address": "408 East 82nd Street,  Rectory, New York, NY",
+  "address": "408 East 82nd Street, New York, NY",
   "secondAddress": "  Rectory",
   "building": "St. Stephen of Hungary Church",
   "program": "MONDAY EAST TOPIC",
@@ -13333,7 +13339,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor Front Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor Front Room",
   "building": "Jan Hus Church",
   "program": "MONDAY WOMEN",
@@ -13354,7 +13360,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street,  2nd Floor - Front Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": "  2nd Floor - Front Room",
   "building": "Jan Hus Church",
   "program": "MORNING REFLECTIONS",
@@ -13419,7 +13425,7 @@
   ]
  },
  {
-  "address": "125 East 85th Street, Ramaz School Entrance, New York, NY",
+  "address": "125 East 85th Street, New York, NY",
   "secondAddress": " Ramaz School Entrance",
   "building": "Congregational Kehilath Jeshurun",
   "program": "NEW CHOICES",
@@ -13449,7 +13455,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street,  2nd Floor, Library Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": "  2nd Floor",
   "building": "Jan Hus Church",
   "program": "OPEN BOOK",
@@ -13469,7 +13475,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor Kitchen, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor Kitchen",
   "building": "Jan Hus Church",
   "program": "OUR PRIMARY PURPOSE",
@@ -13490,7 +13496,7 @@
   ]
  },
  {
-  "address": "865 Madison Avenue, 3rd Floor, New York, NY",
+  "address": "865 Madison Avenue, New York, NY",
   "secondAddress": " 3rd Floor",
   "building": "St. James Church",
   "program": "PARK BENCH   (:II)",
@@ -13520,7 +13526,7 @@
   ]
  },
  {
-  "address": "62 East 92nd Street, Basement, New York, NY",
+  "address": "62 East 92nd Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Brick Church Parish House",
   "program": "PARK MADISON",
@@ -13570,7 +13576,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor Front Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor Front Room",
   "building": "Jan Hus Church",
   "program": "PERSEVERANCE",
@@ -13590,7 +13596,7 @@
   ]
  },
  {
-  "address": "420 East 87th Street, Basement, New York, NY",
+  "address": "420 East 87th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Joseph's School",
   "program": "RECOVERY ROOM",
@@ -13610,7 +13616,7 @@
   ]
  },
  {
-  "address": "593 Park Avenue,  5th Floor Library, New York, NY",
+  "address": "593 Park Avenue, New York, NY",
   "secondAddress": "  5th Floor Library",
   "building": "Central Presbyterian Church",
   "program": "RENEWAL EAST",
@@ -13630,7 +13636,7 @@
   ]
  },
  {
-  "address": "65 East 89th Street, Ring Red Buzzer, Chelsea Room, New York, NY",
+  "address": "65 East 89th Street, New York, NY",
   "secondAddress": " Ring Red Buzzer",
   "building": "St. Thomas More Church",
   "program": "RENEWAL NORTH",
@@ -13650,7 +13656,7 @@
   ]
  },
  {
-  "address": "865 Madison Avenue,  Basement, New York, NY",
+  "address": "865 Madison Avenue, New York, NY",
   "secondAddress": "  Basement",
   "building": "St. James Episcopal Church",
   "program": "RHINELANDER",
@@ -13700,7 +13706,7 @@
   ]
  },
  {
-  "address": "Church of the Good Shepard, 543 Main St., Basement 10044, New York, NY",
+  "address": "Church of the Good Shepard, New York, NY",
   "secondAddress": " 543 Main St.",
   "building": "",
   "program": "ROOSEVELT ISLAND SERENITY",
@@ -13720,7 +13726,7 @@
   ]
  },
  {
-  "address": "413 East 79th Street,  Basement, New York, NY",
+  "address": "413 East 79th Street, New York, NY",
   "secondAddress": "  Basement",
   "building": "St. Monica's Church",
   "program": "SEVENTY-NINTH STREET WORKSHOP",
@@ -14332,7 +14338,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, Sanctuary, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " Sanctuary",
   "building": "Jan Hus Church",
   "program": "SOBER WOMEN",
@@ -14353,7 +14359,7 @@
   ]
  },
  {
-  "address": "310 East 67th Street, Auditorium, New York, NY",
+  "address": "310 East 67th Street, New York, NY",
   "secondAddress": " Auditorium",
   "building": "New York Blood Center",
   "program": "STEP BY STEP",
@@ -14413,7 +14419,7 @@
   ]
  },
  {
-  "address": "2 East 90th Street, Basement, New York, NY",
+  "address": "2 East 90th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Church of the Heavenly Rest",
   "program": "THREE TWELVES",
@@ -14443,7 +14449,7 @@
   ]
  },
  {
-  "address": "341 East 87th Street,  Choir Room (Ring Bell), New York, NY",
+  "address": "341 East 87th Street, New York, NY",
   "secondAddress": "  Choir Room (Ring Bell)",
   "building": "Holy Trinity Church",
   "program": "TRINITY",
@@ -14493,7 +14499,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street,  2nd Floor Museum Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": "  2nd Floor Museum Room",
   "building": "Jan Hus Church",
   "program": "WE HUMANISTS",
@@ -14514,7 +14520,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street, 2nd Floor Kitchen, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": " 2nd Floor Kitchen",
   "building": "Jan Hus Church",
   "program": "WEDNESDAY EAST ON THURSDAY",
@@ -14534,7 +14540,7 @@
   ]
  },
  {
-  "address": "351 East 74th Street,  2nd Floor,  Masaryk Room, New York, NY",
+  "address": "351 East 74th Street, New York, NY",
   "secondAddress": "  2nd Floor",
   "building": "Jan Hus Church",
   "program": "YORKVILLE-BUTTERFIELD",
@@ -14552,9 +14558,10 @@
     "type": "C = Closed Discussion meeting"
    }
   ]
- },
+ }
+][
  {
-  "address": "109 West 129th Street,  Basement, New York, NY",
+  "address": "109 West 129th Street, New York, NY",
   "secondAddress": "  Basement",
   "building": "SRO Building",
   "program": "A CHANCE TO LIVE AGAIN",
@@ -14634,7 +14641,7 @@
   ]
  },
  {
-  "address": "469 West 142nd Street, Basement, New York, NY",
+  "address": "469 West 142nd Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Our Lady of Lourdes Church",
   "program": "ATTITUDE ADJUSTMENT",
@@ -14654,7 +14661,7 @@
   ]
  },
  {
-  "address": "204 West 134th Street, 1st Floor, New York, NY",
+  "address": "204 West 134th Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "St. Phillip Church",
   "program": "CONVENT",
@@ -14714,7 +14721,7 @@
   ]
  },
  {
-  "address": "469 West 142nd Street, 1st Floor, New York, NY",
+  "address": "469 West 142nd Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "",
   "program": "GRUPO TRASMITELO",
@@ -14755,7 +14762,7 @@
   ]
  },
  {
-  "address": "109 West 129th Street, Basement, New York, NY",
+  "address": "109 West 129th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "SRO Building Community Room",
   "program": "K.I.S.S.",
@@ -14785,7 +14792,7 @@
   ]
  },
  {
-  "address": "469 West 142nd Street, Basement, New York, NY",
+  "address": "469 West 142nd Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Our Lady of Lourdes",
   "program": "LEARNING TO LIVE SOBER",
@@ -14805,8 +14812,8 @@
   ]
  },
  {
-  "address": "2044 Seventh Avenue, \n\t\t\t\t\t\tNY 10027 New York, NY",
-  "secondAddress": " \n\t\t\t\t\t\tNY 10027 New York",
+  "address": "2044 Seventh Avenue, New York, NY",
+  "secondAddress": "",
   "building": "",
   "program": "LIVING CLEAN AND SOBER ON 121st STREET",
   "wheelchair": true,
@@ -14845,7 +14852,7 @@
   ]
  },
  {
-  "address": "310 West 139th Street, Basement, New York, NY",
+  "address": "310 West 139th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Grace Congregational Baptist Church",
   "program": "MID-HARLEM",
@@ -14885,7 +14892,7 @@
   ]
  },
  {
-  "address": "409 West 141st Street,  Basement, New York, NY",
+  "address": "409 West 141st Street, New York, NY",
   "secondAddress": "  Basement",
   "building": "St. James Church",
   "program": "MONDAY NIGHT CHALLENGE",
@@ -14905,7 +14912,7 @@
   ]
  },
  {
-  "address": "91 Claremont Avenue,  4th Floor, Room 414, New York, NY",
+  "address": "91 Claremont Avenue, New York, NY",
   "secondAddress": "  4th Floor",
   "building": "Riverside Church",
   "program": "PRIMARY PURPOSE",
@@ -14925,7 +14932,7 @@
   ]
  },
  {
-  "address": "1727 Amsterdam Avenue, 1st Floor in the rear., New York, NY",
+  "address": "1727 Amsterdam Avenue, New York, NY",
   "secondAddress": " 1st Floor in the rear.",
   "building": "Upper Manhattan Mental Health Center",
   "program": "PROMISES TWO FOR ONE",
@@ -14955,7 +14962,7 @@
   ]
  },
  {
-  "address": "469 West 142nd Street, Basement, New York, NY",
+  "address": "469 West 142nd Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Our Lady of Lourdes Church",
   "program": "REALITY CHECK",
@@ -14976,8 +14983,8 @@
   ]
  },
  {
-  "address": "91 Claremont Avenue,  @ The Cloisters Club Room, New York, NY",
-  "secondAddress": "  @ The Cloisters Club Room",
+  "address": "91 Claremont Avenue, New York, NY",
+  "secondAddress": "The Cloisters Club Room",
   "building": "Riverside Church",
   "program": "RIVERSIDE",
   "wheelchair": true,
@@ -14996,7 +15003,7 @@
   ]
  },
  {
-  "address": "219 West 132nd Street, Cafeteria, New York, NY",
+  "address": "219 West 132nd Street, New York, NY",
   "secondAddress": " Cafeteria",
   "building": "St. Aloysius School",
   "program": "RIVERTON",
@@ -15036,7 +15043,7 @@
   ]
  },
  {
-  "address": "211 West 129th Street, Downstairs in the Gym, New York, NY",
+  "address": "211 West 129th Street, New York, NY",
   "secondAddress": " Downstairs in the Gym",
   "building": "Salem United Methodist Church Community Center",
   "program": "SALEM",
@@ -15056,7 +15063,7 @@
   ]
  },
  {
-  "address": "425 West 144th Street, 1st Floor, New York, NY",
+  "address": "425 West 144th Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "Convent Baptist Church Education Building",
   "program": "SOBER ADULT MEN",
@@ -15077,7 +15084,7 @@
   ]
  },
  {
-  "address": "204 West 134th Street,  Basement, New York, NY",
+  "address": "204 West 134th Street, New York, NY",
   "secondAddress": "  Basement",
   "building": "St. Phillip's Church",
   "program": "ST. NICHOLAS",
@@ -15107,7 +15114,7 @@
   ]
  },
  {
-  "address": "506 Lenox Avenue,  Room #3101, 3rd Floor, New York, NY",
+  "address": "506 Lenox Avenue, New York, NY",
   "secondAddress": "  Room #3101",
   "building": "Harlem Hospital King Pavilion",
   "program": "STEPS 3 and 11",
@@ -15127,7 +15134,7 @@
   ]
  },
  {
-  "address": "1727 Amsterdam Avenue, 1st floor in the rear, New York, NY",
+  "address": "1727 Amsterdam Avenue, New York, NY",
   "secondAddress": " 1st floor in the rear",
   "building": "Council Center for Problems of Living",
   "program": "SUGAR HILL",
@@ -15147,7 +15154,7 @@
   ]
  },
  {
-  "address": "1854 Amsterdam Avenue, Basment, New York, NY",
+  "address": "1854 Amsterdam Avenue, New York, NY",
   "secondAddress": " Basment",
   "building": "",
   "program": "TUESDAY BIG BOOK STUDY",
@@ -15167,7 +15174,7 @@
   ]
  },
  {
-  "address": "469 West 142nd Street, Basement, New York, NY",
+  "address": "469 West 142nd Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Our Lady of Lourdes Church",
   "program": "UPTOWN BIG BOOK WORKSHOP",
@@ -15206,9 +15213,10 @@
     "type": "S = Step meeting"
    }
   ]
- },
+ }
+][
  {
-  "address": "35 East 125 Street, 1st Floor Conference Room, New York, NY",
+  "address": "35 East 125 Street, New York, NY",
   "secondAddress": " 1st Floor Conference Room",
   "building": "Harlem Children's Zone Admin. Offices",
   "program": "125",
@@ -15228,7 +15236,7 @@
   ]
  },
  {
-  "address": "223 East 117th Street, 1st Floor Dining Room, New York, NY",
+  "address": "223 East 117th Street, New York, NY",
   "secondAddress": " 1st Floor Dining Room",
   "building": "Peter Jay Sharpe Building",
   "program": "EAST HARLEM",
@@ -15249,7 +15257,7 @@
   ]
  },
  {
-  "address": "2126 2nd Avenue, 1st Floor, New York, NY",
+  "address": "2126 2nd Avenue, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "",
   "program": "GRUPO NUEVA VIDA",
@@ -15329,7 +15337,7 @@
   ]
  },
  {
-  "address": "22 East 119th Street,  1st Floor Cafeteria, New York, NY",
+  "address": "22 East 119th Street, New York, NY",
   "secondAddress": "  1st Floor Cafeteria",
   "building": "Veterans Residence",
   "program": "HARLEM 1 PM RECOVERY",
@@ -15357,10 +15365,11 @@
     "type": "B = Beginners meeting"
    }
   ]
- },
+ }
+][
  {
-  "address": "701 West 168th Street @ Fort Washington Avenue, New York, NY",
-  "secondAddress": "",
+  "address": "701 West 168th Street, New York, NY",
+  "secondAddress": "@ Fort Washington Avenue",
   "building": "Columbia Presbyterian Hospital",
   "program": "A NEW WAY OF LIVING",
   "wheelchair": true,
@@ -15501,7 +15510,7 @@
   ]
  },
  {
-  "address": "431 West 204th Street, Basement, New York, NY",
+  "address": "431 West 204th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "St. Jude's School",
   "program": "DYCKMAN",
@@ -15531,7 +15540,7 @@
   ]
  },
  {
-  "address": "550 West 155th Street, 2nd Floor Guild Room, New York, NY",
+  "address": "550 West 155th Street, New York, NY",
   "secondAddress": " 2nd Floor Guild Room",
   "building": "Church of the Intercession",
   "program": "FOUND-A-WAY",
@@ -15552,7 +15561,7 @@
   ]
  },
  {
-  "address": "557 West 156th Street, \n\t\t\t\t\t\tNY 10032 New York, NY",
+  "address": "557 West 156th Street, New York, NY",
   "secondAddress": "",
   "building": "Casita Esperanza",
   "program": "GRUPO DESPERTAR",
@@ -15582,7 +15591,7 @@
   ]
  },
  {
-  "address": "35 Thayer Street, Basement, New York, NY",
+  "address": "35 Thayer Street, New York, NY",
   "secondAddress": " Basement",
   "building": "",
   "program": "GRUPO LA FLAMA PANAMERICANA",
@@ -15632,7 +15641,7 @@
   ]
  },
  {
-  "address": "715 West 179th Street, 1st Floor, \n\t\t\t\t\t\tNY 10033 New York, NY",
+  "address": "715 West 179th Street, New York, NY",
   "secondAddress": " 1st Floor",
   "building": "Episcopal Holy Rood Church",
   "program": "GRUPO LIBERTAD",
@@ -15682,7 +15691,7 @@
   ]
  },
  {
-  "address": "502 West165th Street, Basement, New York, NY",
+  "address": "502 West165th Street, New York, NY",
   "secondAddress": " Basement",
   "building": "Church Santa Rosa de Lima",
   "program": "GRUPO RECUPERACION",
@@ -15864,7 +15873,7 @@
   ]
  },
  {
-  "address": "178 Bennett Avenue, 2nd Floor (Lorenz Library), New York, NY",
+  "address": "178 Bennett Avenue, New York, NY",
   "secondAddress": " 2nd Floor (Lorenz Library)",
   "building": "Our Saviour's Atonement Lutheran Church",
   "program": "THE MEN UPSTAIRS",
@@ -15885,7 +15894,7 @@
   ]
  },
  {
-  "address": "178 Bennett Avenue, 2nd Floor, New York, NY",
+  "address": "178 Bennett Avenue, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "Our Saviour's Atonement Church",
   "program": "THE MISSING LINK",
@@ -15965,7 +15974,7 @@
   ]
  },
  {
-  "address": "189th Street & Bennett Avenue, Kitchen, New York, NY",
+  "address": "189th Street & Bennett Avenue, New York, NY",
   "secondAddress": " Kitchen",
   "building": "Cornerstone Center",
   "program": "WASHINGTON HEIGHTS                 (:II)",
@@ -15985,7 +15994,7 @@
   ]
  },
  {
-  "address": "178 Bennett Avenue, 2nd Floor, New York, NY",
+  "address": "178 Bennett Avenue, New York, NY",
   "secondAddress": " 2nd Floor",
   "building": "The Corner Stone Center",
   "program": "WHAT WE ARE LIKE NOW",
@@ -16005,7 +16014,7 @@
   ]
  },
  {
-  "address": "178 Bennett Avenue, Kitchen, New York, NY",
+  "address": "178 Bennett Avenue, New York, NY",
   "secondAddress": " Kitchen",
   "building": "Cornerstone Center",
   "program": "WOMEN'S NITE",
