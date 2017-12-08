@@ -72,7 +72,7 @@ app.get('/aa', function(req, res) {
                         { "day.day" : today } , { "day.startHour" : { $gte: hour } }
                     ]},
                     { $and: [
-                        { "day.day" : tomorrow } , { "day.startHour" : { $lte: (hour + 11) } }
+                        { "day.day" : tomorrow } , { "day.startHour" : { $lte: 4 } }
                     ]}
                 ]}
             },
