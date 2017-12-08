@@ -26,9 +26,11 @@
         #wheel {
             background-color: #CBF2FE;
             padding: 3px;
+            width: 100%;
         }
         
-        #note {
+        #note
+        {
             padding: 3px;
             margin-bottom: 5px;
         }
@@ -48,8 +50,7 @@
         }
         
         note {
-            font-size: 85%;
-            line-height: 10px
+            line-height: 14.4px
         }
         
         wheel {

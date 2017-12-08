@@ -1,6 +1,7 @@
 var express = require('express'),
     app = express();
 var fs = require('fs');
+var moment = require('moment-timezone');
 
 // Postgres
 const { Pool } = require('pg');
@@ -15,6 +16,8 @@ db_credentials.port = 5432;
 var collName = 'meetings';
 var MongoClient = require('mongodb').MongoClient;
 var url = process.env.ATLAS;
+
+
 
 // HTML wrappers for AA data
 var index1 = fs.readFileSync("data-structures/finalOne/index1.txt");
@@ -47,7 +50,7 @@ app.get('/aa', function(req, res) {
         if (err) {return console.dir(err);}
         
         var dateTimeNow = new Date();
-        var today = dateTimeNow.getDay();
+        var today = moment.tz(new Date(), "America/New_York").days();
         var tomorrow;
         
         if (today == 6) {tomorrow = 0;}
@@ -56,7 +59,7 @@ app.get('/aa', function(req, res) {
         // else if (today == 6) {tomorrow = 0;} 
         
         else {tomorrow = today + 1}
-        var hour = dateTimeNow.getHours();
+        var hour = moment.tz(new Date(), "America/New_York").hours();
 
         var collection = db.collection(collName);
     
@@ -66,10 +69,10 @@ app.get('/aa', function(req, res) {
             { $match : 
                 { $or : [
                     { $and: [
-                        { "day.day" : 2 } , { "day.startHour" : { $gte: 19 } }
+                        { "day.day" : today } , { "day.startHour" : { $gte: hour } }
                     ]},
                     { $and: [
-                        { "day.day" : 3 } , { "day.startHour" : { $lte: 4 } }
+                        { "day.day" : tomorrow } , { "day.startHour" : { $lte: (hour + 11) } }
                     ]}
                 ]}
             },
