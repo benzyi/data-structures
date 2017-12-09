@@ -1,3 +1,4 @@
+
 <style>
 
 
@@ -1106,7 +1107,6 @@ table thead th {
                     	
 				  	    <b>Thursdays From</b>  9:15 PM <b>to</b> 10:15 PM <br /><b>Meeting Type</b> S = Step meeting 
 			 			<br />
-                    	<br />
                     	
 				  	    <b>Fridays From</b>  9:15 PM <b>to</b> 10:15 PM <br /><b>Meeting Type</b> S = Step meeting 
 			 			<br />
