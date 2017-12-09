@@ -30,8 +30,7 @@ app.get('/', function(req, res) {
     // SQL query
     var q = `SELECT EXTRACT(DAY FROM sensortime AT TIME ZONE 'America/New_York') as sensorday, 
              EXTRACT(MONTH FROM sensortime AT TIME ZONE 'America/New_York') as sensormonth, 
-             EXTRACT(DAY_MINUTE FROM sensortime AT TIME ZONE 'America/New_York') as sensortime, 
-             EXTRACT(DAY_HOUR FROM sensortime AT TIME ZONE 'America/New_York') as sensorhour, 
+             EXTRACT(HOUR FROM sensortime AT TIME ZONE 'America/New_York') as sensorhour, 
              count(*) as num_obs,
              bool_or(ir) as tv_turnedOn,
              bool_or(tilt) as couch_mode
