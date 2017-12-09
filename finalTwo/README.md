@@ -2,7 +2,7 @@
 
 ### This is Final Assignment 2 for Data Structure, Fall 2017. This project's objectives were to create a sensor, keep it running, and record the data in a database. Then to create a UI/UX that corresponds with the data.
 
-[![preview.png](https://benzyi.github.io/data-structures/SQL.PNG)](http://ec2-18-216-156-193.us-east-2.compute.amazonaws.com:3000/)
+[![preview.png](https://github.com/benzyi/data-structures/blob/master/finalTwo/SQL.PNG)](http://ec2-18-216-156-193.us-east-2.compute.amazonaws.com:3000/)
 
 [![preview.png](https://benzyi.github.io/data-structures/SQLhr.PNG)](http://ec2-18-216-156-193.us-east-2.compute.amazonaws.com:3000/hour)
 
