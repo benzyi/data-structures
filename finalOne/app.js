@@ -33,7 +33,7 @@ app.get('/', function(req, res) {
              EXTRACT(HOUR FROM sensortime AT TIME ZONE 'America/New_York') as sensorhour, 
              EXTRACT(MINUTE FROM sensortime AT TIME ZONE 'America/New_York') as sensorminute, 
              count(*) as num_obs,
-             bool_or(ir) as tv_turnedOn,
+             bool_or(ir) as ir_detected,
              bool_or(tilt) as couch_mode
              FROM irTilt
              GROUP BY sensormonth, sensorday, sensorhour, sensorminute
@@ -56,7 +56,7 @@ app.get('/hour', function(req, res) {
              EXTRACT(MONTH FROM sensortime AT TIME ZONE 'America/New_York') as sensormonth, 
              EXTRACT(HOUR FROM sensortime AT TIME ZONE 'America/New_York') as sensorhour,
              count(*) as num_obs,
-             bool_or(ir) as tv_turnedOn,
+             bool_or(ir) as ir_detected,
              bool_or(tilt) as couch_mode
              FROM irTilt
              GROUP BY sensormonth, sensorday, sensorhour;`;
