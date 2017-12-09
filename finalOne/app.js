@@ -35,7 +35,9 @@ app.get('/', function(req, res) {
              count(*) as num_obs,
              bool_or(ir) as tv_turnedOn,
              bool_or(tilt) as couch_mode
-             FROM irTilt 
+             FROM irTilt
+             WHERE ir = true
+             OR tilt = true
              GROUP BY sensormonth, sensorday, sensorhour, sensorminute;`;
              
     client.connect();
