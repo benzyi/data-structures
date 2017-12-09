@@ -37,8 +37,29 @@ app.get('/', function(req, res) {
              bool_or(tilt) as couch_mode
              FROM irTilt
              GROUP BY sensormonth, sensorday, sensorhour, sensorminute
-             HAVING bool_or(ir) = true
-             OR bool_or(tilt) = true;`;
+             HAVING bool_or(ir) = true;`;
+             
+    client.connect();
+    client.query(q, (qerr, qres) => {
+        res.send(qres.rows);
+        console.log('responded to request');
+    });
+    client.end();
+});
+
+app.get('/hour', function(req, res) {
+    // Connect to the AWS RDS Postgres database
+    const client = new Pool(db_credentials);
+
+    // SQL query
+    var q = `SELECT EXTRACT(DAY FROM sensortime AT TIME ZONE 'America/New_York') as sensorday, 
+             EXTRACT(MONTH FROM sensortime AT TIME ZONE 'America/New_York') as sensormonth, 
+             EXTRACT(HOUR FROM sensortime AT TIME ZONE 'America/New_York') as sensorhour,
+             count(*) as num_obs,
+             bool_or(ir) as tv_turnedOn,
+             bool_or(tilt) as couch_mode
+             FROM irTilt
+             GROUP BY sensormonth, sensorday, sensorhour;`;
              
     client.connect();
     client.query(q, (qerr, qres) => {
