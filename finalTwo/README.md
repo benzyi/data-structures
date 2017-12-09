@@ -4,7 +4,7 @@
 
 [![preview.png](https://github.com/benzyi/data-structures/blob/master/finalTwo/SQL.PNG)](http://ec2-18-216-156-193.us-east-2.compute.amazonaws.com:3000/)
 
-[![preview.png](https://benzyi.github.io/data-structures/SQLhr.PNG)](http://ec2-18-216-156-193.us-east-2.compute.amazonaws.com:3000/hour)
+[![preview.png](https://github.com/benzyi/data-structures/blob/master/finalTwo/SQLhr.PNG)](http://ec2-18-216-156-193.us-east-2.compute.amazonaws.com:3000/hour)
 
 ### Abstract
 Two previews above to split the SQL query to show first, every time the (presumably) the television (and it's supporting technology like Apple TV and speakers) was used down by the minute of usage. The second SQL query shows a larger picture of the data grouped by hour, which helps map the general hours of usage along with a clearer picture of the futon's position. 
