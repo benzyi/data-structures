@@ -4,6 +4,9 @@
 
 [![preview.png](https://github.com/benzyi/data-structures/blob/master/finalOne/aaMap.PNG)](http://ec2-18-216-156-193.us-east-2.compute.amazonaws.com:3000/aa)
 
+### Abstract
+This map is aimed to help those wishing to attend AA meetings in NYC to find meetings in a location convenient to them. Due to the nature of seeking help for addiction, this map provides upcoming meetings based on the day and time of the search up until 4am the next day to include the late night meetings for those who struggle during those hours.
+
 ### Features
 1. Click on locations to see the programs, meetings, and upcoming times for meetings.
 2. Green signifies the meeting times. Blue signifies the wheelchair accessibility. 
